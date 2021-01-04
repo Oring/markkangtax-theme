@@ -1,0 +1,68 @@
+/*
+@font-face {
+	font-family: 'Nanum Myeongjo';
+	font-style: normal;
+	font-weight: 400;
+	src: url(/fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot);
+	src: url(/fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot?#iefix) format('embedded-opentype'),
+			 local(※), url(/fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff) format('woff'),
+			 url(/fonts/NanumMyeongjo/NanumMyeongjo-Regular.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Nanum Myeongjo';
+	font-style: normal;
+	font-weight: 600;
+	src: url(/fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot);
+	src: url(/fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot?#iefix) format('embedded-opentype'),
+			 local(※), url(/fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff) format('woff'),
+			 url(/fonts/NanumMyeongjo/NanumMyeongjo-Bold.ttf) format('truetype');
+}
+*/
+@font-face {
+	font-family: 'NanumSquareR';
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareR.eot); /* IE9 Compat Modes */
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareR.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+			local(※), url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareR.woff) format('woff'), /* Modern Browsers */
+			url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareR.ttf) format('truetype'); /* Safari, Android, iOS */
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'NanumSquareR';
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.eot); /* IE9 Compat Modes */
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+			local(※), url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.woff) format('woff'), /* Modern Browsers */
+			url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.ttf) format('truetype'); /* Safari, Android, iOS */
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'NanumSquareB';
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.eot); /* IE9 Compat Modes */
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+			local(※), url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.woff) format('woff'), /* Modern Browsers */
+			url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.ttf) format('truetype'); /* Safari, Android, iOS */
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Nanum Myeongjo';
+	font-style: normal;
+	font-weight: 400;
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot);
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot?#iefix) format('embedded-opentype'),
+			 local(※), url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff) format('woff'),
+			 url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Regular.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Nanum Myeongjo';
+	font-style: normal;
+	font-weight: 600;
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot);
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot?#iefix) format('embedded-opentype'),
+			 local(※), url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff) format('woff'),
+			 url(/wp-content/themes/right-tax-service/fonts/NanumMyeongjo/NanumMyeongjo-Bold.ttf) format('truetype');
+}

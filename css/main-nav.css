@@ -1,0 +1,214 @@
+/* ========================================
+			HEADER & FOOTER CSS
+	 ======================================== */
+
+#header {position:fixed;margin:0 auto;z-index:999;height:67px;width:100%;}
+.header_wrap {max-width:1200px;width:100%;height:100%;margin:0 auto;padding-left:20px;padding-right:20px;position:relative;}
+.header_wrap::after, 
+.header_wrap_inner::after,
+#RTSnav::after, 
+#RTSnav ul::after {content:' ';display:block;clear:both;height:0;visibility:hidden;overflow:hidden;}
+
+.header_wrap .header_wrap_inner {height:100%;}
+#header.header_scroll {background:rgba(0,0,0,0.7);}
+
+#header,
+#RTSnav > ul,
+#header #NowContactBtn,
+#header #kakaoBtn,
+#header .header_wrap .logo img,
+.nav-contact #remoteTop,
+#RTSnav ul li.menu-item-has-children > a::after {
+	-webkit-transition: all 0.2s ease-out 0s;
+	-moz-transition: all 0.2s ease-out 0s;
+	-o-transition: all 0.2s ease-out 0s;
+	transition: all 0.2s ease-out 0s; 
+}
+#RTSnav {display:none;}
+#RTSnav > ul {background-color:#161616;margin-left:-20px;margin-right:-20px;padding:20px;}
+#RTSnav ul li a {display:block;padding:15px 3px;color:#fff;position: relative;}
+#RTSnav ul li a:hover,
+#RTSnav ul li.on > a,
+#RTSnav ul li.current-menu-item > a,
+#RTSnav ul li.current-page-ancestor > a,
+#RTSnav ul li.current-menu-ancestor > a {color:#f0dab9;}
+#RTSnav ul li.menu-item-has-children > a::after {content:" ";width:14px;height:9px;display: block;background: url('/wp-content/themes/right-tax-service/img/rts-list-arrow.png') center no-repeat;background-size: contain;position: absolute;right: 5px;top: 50%;margin-top: -5px;}
+#RTSnav ul li.menu-item-has-children.on > a::after {
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);}
+
+.header_wrap .logo {height:100%;width:46px;position:relative;padding:16px 0;
+	-webkit-transition: width 0.2s ease-out 0s;
+	-moz-transition: width 0.2s ease-out 0s;
+	-o-transition: width 0.2s ease-out 0s;
+	transition: width 0.2s ease-out 0s;}
+.header_wrap .logo::after {content:' ';clear:both;display:block;}
+.header_wrap .logo > a {display:inline-block;width:100%;height:100%;position:relative;vertical-align:middle;overflow:hidden;}
+.header_wrap .logo img {max-height:100%;width:auto;height:auto;margin:auto !important;position:absolute;left:0;right:auto;}
+
+/* Contact 버튼 */
+.nav-contact {display:block;position:fixed;right:0;bottom:0;z-index:205;}
+/*.nav-contact #remoteTop {display:block;width:72px;height:67px;background:#fff url(/img/icons/top-btn.png) center no-repeat;background-color:#fff;border:1px solid #3c92ca;text-indent:-9999px;}*/
+.nav-contact #remoteTop {display:none;width: 57px;height: 57px;padding-top: 22px;background:rgba(255,255,255,0.4) url(/img/icons/top-btn2.png) center no-repeat;border:1px solid #3c92ca;font-size:12px;text-align:center;font-weight:bold;}
+.nav-contact #remoteTop.on {bottom:67px;}
+
+.nav-contact #NowContactBtn {display:block;position: fixed;bottom: -110px;right: 0;width: 57px;height: 57px;padding-top: 29px;background:#3c92ca;font-size: 10px;color:#fff;text-align:center;}
+.nav-contact #NowContactBtn:before {content:" ";display:block;position:absolute;top:0;bottom:0;right:0;left:0;background: url(/img/icons/contact-start.png) center 8px no-repeat;background-size: 30px;}
+.header_scroll #NowContactBtn {bottom:114px;}
+
+.nav-contact #kakaoBtn {display:block;position: fixed;bottom: -110px;right: 0;width: 57px;height: 57px;padding-top: 38px;background:#fee800;font-size: 10px;color:#000;text-align:center;}
+.nav-contact #kakaoBtn:before {content:" ";display:block;position:absolute;top:0;bottom:0;right:0;left:0;background: url(/img/icons/kakao.svg) center 6px no-repeat;background-size: 46px;}
+.header_scroll #kakaoBtn {bottom:57px;}
+
+.header_scroll #remoteTop {display:block;}
+
+
+/*------------------------------------*\
+		Hamburger Btn
+\*------------------------------------*/
+#nav-button { position:fixed;top:18px;left:100%;margin-left:-50px;cursor:pointer;
+	-webkit-transition: all 0.45s cubic-bezier(0.645, 0.045, 0.355, 1.000);
+	-moz-transition: all 0.45s cubic-bezier(0.645, 0.045, 0.355, 1.000);
+	-o-transition: all 0.45s cubic-bezier(0.645, 0.045, 0.355, 1.000);
+	transition: all 0.45s cubic-bezier(0.645, 0.045, 0.355, 1.000); }
+#nav-button .btnGNB { display: block;position:relative;overflow:hidden;margin:0;padding:0;width:28px;height:26px;font-size:0;text-indent:-9999px;box-shadow:none;border:none;cursor:pointer;background-color:transparent;transition:background0.3s;}
+#nav-button .btnGNB:focus { outline: none; }
+#nav-button .btnGNB span { display:block;position:absolute;top:12px;left:0;right:0;height:4px;background:#fff; }
+#nav-button .btnGNB span::before,
+#nav-button .btnGNB span::after { position:absolute;display:block;left:0;width:100%;height:4px;background-color:#fff;content:""; }
+#nav-button .btnGNB span::before { top:-8px; }
+#nav-button .btnGNB span::after { bottom:-8px; }
+#nav-button .btnGNB--htx span { -webkit-transition: background 0s 0.3s;-moz-transition: background 0s 0.3s;-o-transition: background 0s 0.3s;transition: background 0s 0.3s; }
+#nav-button .btnGNB--htx span::before,
+#nav-button .btnGNB--htx span::after { -webkit-transition-duration: 0.3s, 0.3s; -moz-transition-duration: 0.3s, 0.3s; -o-transition-duraon: 0.3s, 0.3s; transition-duration: 0.3s, 0.3s; -webkit-transition-delay: 0.3s, 0s;-moz-transition-delay: 0.3s, 0s;-o-transition-delay: 0.3s, 0s;transition-delay: 0.3s, 0s; }
+#nav-button .btnGNB--htx span::before { -webkit-transition-property: top, transform;-moz-transition-property: top, transform;-o-transition-property: top, transform;transition-property: top, transform; }
+#nav-button .btnGNB--htx span::after { -webkit-transition-property: bottom, transform;-moz-transition-property: bottom, transform;-o-transition-property: bottom, transform;transition-property: bottom, transform; }
+/* active state, i.e. menu open */
+#nav-button .btnGNB--htx.is-active span { background: none; }
+#nav-button .btnGNB--htx.is-active span::before { top: 0; -webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg); }
+#nav-button .btnGNB--htx.is-active span::after { bottom: 0; -webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);transform: rotate(-45deg); }
+#nav-button .btnGNB--htx.is-active span::before,
+#nav-button .btnGNB--htx.is-active span::after { -webkit-transition-delay: 0s, 0.3s;-moz-transition-delay: 0s, 0.3s;-o-transition-delay: 0s, 0.3s;transition-delay: 0s, 0.3s; }
+
+@media only screen and (min-width: 992px) {
+
+	#RTSnav {display:block;height:100%;position:relative;float:right;}
+	#RTSnav > ul {display:inline-block;position:relative;width:100%;height:74.135%;margin:0;padding:0;background:0;vertical-align:middle;list-style:none;z-index:202;zoom:1;}
+	#RTSnav > ul > li {margin:0;padding:0;float:left;height:100%;position:relative;}
+	#RTSnav > ul > li:before {content:'';vertical-align:middle;display:inline-block;height:100%;}
+	#RTSnav ul li a {color:#fff;font-weight:bold;font-size:17px;}
+	#RTSnav > ul > li > a {padding:18px;display:inline-block;}
+	#RTSnav ul ul {list-style:none;width:220px;margin:20px 0 0;padding:10px 0 15px;visibility:hidden;position:absolute;left:0;top:100%;z-index:203;opacity:0;}
+
+	#header {height:144px;}
+	#header.header_scroll {height:100px;}
+	#header.header_scroll #RTSnav > ul {height:100%}
+	#header.header_scroll .header_wrap .logo img {max-height:130%;}
+	.header_wrap {padding-left:15px;padding-right:15px;}
+	.header_wrap .logo {float:left;width:131px;padding:25px 0 22px;}
+
+	/* 서브메뉴 */
+	#RTSnav ul .sub-menu {padding:8px 20px;background:rgba(0,0,0,0.8);}
+	#RTSnav ul .sub-menu a {padding:10px 0;border-bottom:1px solid #575756;font-size:14px;}
+	#RTSnav ul .sub-menu li:last-child a {border:0;}
+	#RTSnav ul li.on .sub-menu,
+	#RTSnav > ul li:hover > .sub-menu {margin:0 0 0;visibility:visible;opacity:1;}
+	#RTSnav > ul li:hover > .sub-menu:before {content:'';width:100%;height:0;position:absolute;left:0;}
+	#RTSnav > ul .sub-menu{
+	  -webkit-transition: opacity .2s ease-in-out .1s, margin-top .2s ease-in-out .1s;
+	  -moz-transition: opacity .2s ease-in-out .1s, margin-top .2s ease-in-out .1s;
+	  -ms-transition: opacity .2s ease-in-out .1s, margin-top .2s ease-in-out .1s;
+	  -o-transition: opacity .2s ease-in-out .1s, margin-top .2s ease-in-out .1s;
+	  transition: opacity .2s ease-in-out .1s, margin-top .2s ease-in-out .1s;
+	}
+	#RTSnav ul li.menu-item-has-children > a::after {display:none;}
+
+	#nav-button {display:none;}
+
+	/* Contact 버튼 */
+	.nav-contact {display:block;position:absolute;right:0;bottom:0;z-index:205;}
+
+	.nav-contact #NowContactBtn {position: relative;display:block;width:135px;height:110px;padding-top:22px;background:#3c92ca;font-size:inherit;color:#fff;text-align:center;vertical-align:middle;}
+	.nav-contact #NowContactBtn:before {content:" ";position:relative;height:37px;width:56px;margin:0 auto 5px;background:url(/img/icons/contact-start.png) center no-repeat;display:block;vertical-align:middle;}
+	.header_scroll #NowContactBtn {height:100px;bottom: -100px;}
+
+	.nav-contact #kakaoBtn {position: relative;display:block;width:135px;height:110px;padding-top:12px;background:#fee800;font-size:inherit;color:#000;text-align:center;vertical-align:middle;}
+	.nav-contact #kakaoBtn:before {content:" ";position:relative;height:60px;width:100px;margin:0 auto;background:url(/img/icons/kakao.svg) center no-repeat;display:block;vertical-align:middle;}
+	.header_scroll #kakaoBtn {height:100px;bottom: -100px;}
+}
+
+
+@media only screen and (max-width: 991px) {
+	.menuon #RTSnav {display:block;}
+	.menuon #header {background:#2c2c2c;}
+
+	/* 서브메뉴 */
+	#RTSnav ul .sub-menu {display:none;border-top:1px solid #454545;border-bottom:1px solid #454545;}
+	#RTSnav ul .sub-menu.on {display:block;}
+	#RTSnav ul li.on .sub-menu {display:block;}
+	#RTSnav ul .sub-menu a {padding-left:9px;}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1400px) {
+	#RTSnav > ul {margin-right:140px;}
+}
+
+
+/*------------------------------------*\
+		PC MENU
+\*------------------------------------*/
+
+/* 서브메뉴 */
+
+
+/*------------------------------------*\
+		Mobile MENU
+\*------------------------------------*/
+.mb_remote {
+    right: 15px;
+    bottom: 15px;
+    z-index: 9;
+    border: 1px solid #b7b9b6;
+}
+#remotePC.fixed, .mb_remote {
+    position: fixed;
+}
+.mb_remote#remoteMB {
+    /*display: none;*/
+    width: 45px;
+    height: 45px;
+    text-indent: -999999px;
+    background: url(/img/icon/icon-top-btn.png) center no-repeat rgba(0,0,0,.4);
+}
+.mb_remote.mb_apply {
+    font-size: 12px;
+    padding: 7px 0 6px;
+    width: 45px;
+    background: #d7df25;
+    line-height: 1.3;
+    bottom: 70px;
+    transition: bottom .3s ease;
+    z-index: 10;
+}
+
+
+
+
+
+/*------------------------------------*\
+    FOOTER
+\*------------------------------------*/
+
+
+@media only screen and (min-width: 900px) {
+}
+
+
+
+
+
+
+
