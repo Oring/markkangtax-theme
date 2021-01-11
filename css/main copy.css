@@ -80,145 +80,6 @@ body {font-size:16px;font-family: 'NanumSquareR', 'Helvetica Neue', Helvetica, A
 /*------------------------------------*\
 		공통
 \*------------------------------------*/
-.noPad.-top {padding-top:0 !important;}
-.noPad.-bottom {padding-bottom:0 !important;}
-.noPad.-left {padding-left:0 !important;}
-.noPad.-right {padding-right:0 !important;}
-p.desc {padding: 15px 0;}
-
-
-
-/* 제일 위 */
-section.topSection {padding-top: 48px; padding-bottom:48px;}
-section.topSection .topTitle {font-size: 20px; letter-spacing: -0.5px; font-weight: bold;}
-section.topSection .topTitleUnderLine { border-top: 1px solid black; width: 50px; margin-top:18px;}
-section.topSection .topQuoteWrap {padding: 32px 0;}
-section.topSection .topQuoteWrap .topQuote {font-size: 15px; line-height: 1.75; letter-spacing: -0.5px;}
-section.topSection .topQuoteWrap .topQuote .quoteMark {font-size: 48px; line-height:1; height:24px; color: #d5c0a5}
-section.topSection .topQuoteWrap .topQuote .quoteMark.-bottom {margin-top:12px;}
-section.topSection p.topDesc {padding-top: 7px; padding-bottom:24px;}
-
-/* 네비게이션 섹션 -공통*/
-#followingNavigation {position:absolute; left:0; top:0; transition: 0.3s ease-out; z-index:900;}
-#followingNavigation.following {top:0; transition: 0.3s ease-in-out;}
-
-
-/* 네비게이션 섹션 -MB*/
-#followingNavigation {margin: 0 auto; width: 100%}
-#followingNavigation .followingNavigationInner {padding: 0 10px 5px 10px; height: 38px; background-color: #b68c56; color: #FFF; font-size: 12px; display:flex; align-items: center; justify-content: space-between}	
-#followingNavigation li.-current {position: relative; color: #FFF; list-style-image: none;}
-#followingNavigation li.-current::after {content: url(/img/icons/nav-mb.png); position: absolute; bottom: -9px; right: 42%}
-/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-mb.png);}*/
-#followingNavigation li a {line-height: 1; cursor:pointer;}
-
-/* 가이드 섹션 */
-.guidesWrap {background-color:#FFF;}
-.guidesWrap .insertImg {margin: 15px 0;}
-.guidesWrap .insertImg.-form {width: 100%}
-.guidesWrap section.guidePart {padding: 56px 0 32px 0;}
-.guidesWrap section.guidePart .guideAskWrap {border: 5px solid #d4d4d4; padding: 36px 0;}
-.guidesWrap section.guidePart .guideAskWrap .guideAsk {font-size: 20px; font-weight: bold; line-height: 1.25; letter-spacing: -0.5px; color:#505050}
-
-.guidesWrap section.guidePart .guideDescList {list-style: outside; line-height: 1.75; padding-left: 16px;}
-
-.guidesWrap section.guidePart .iconsWrap {padding-top:36px; padding-bottom:20px;}
-.guidesWrap section.guidePart .iconsWrap .guidesIcon {width:50px; margin: 0 24px 0 5px;}
-.guidesWrap section.guidePart .iconsWrap .infoList {padding-top:21px;}
-.guidesWrap section.guidePart .iconsWrap .infoList .infoItem {padding-top: 13px; padding-bottom: 14px; display: flex; align-items: center; font-size: 15px; letter-spacing: -0.5px;}
-.guidesWrap section.guidePart .guideTitle {font-size: 17px; font-weight: bold; color:#505050; letter-spacing: -0.5px}
-.guidesWrap section.guidePart .guideTitleUnderLine {margin: 0; border-top: 1px solid #535353; margin-top: 5px;}
-.guidesWrap section.guidePart .guideTitleWrap {padding-top:36px;}
-
-.guidesWrap section.guidePart .guideSubTitle {font-size: 16px; line-height: 1.75; font-weight: bold; padding-top:15px; letter-spacing: -0.5px}
-.guidesWrap section.guidePart .greyBox {background-color: #eee; padding: 22px 20px ; margin: 8px 0;}
-.guidesWrap section.guidePart .greyBoxText {font-size: 16px; font-weight:bold;}
-
-
-
-
-/* 마크강 파란 섹션 */
-.guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 16px; line-height: 1.75; font-weight: bold; padding-top:15px; letter-spacing: -0.5px}
-.guidesWrap section.markAdviceWrap {padding-top: 56px;}
-.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-mb.jpg); background-repeat: no-repeat; background-size: cover; padding: 32px 24px;}
-.guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {color:#fff; font-size: 22px; letter-spacing: -0.5px}
-
-/* 클로징 섹션 */
-section.lastWrap {padding: 48px 15px; background-color:#7a7a7a;}
-section.lastWrap .lastQuote {font-size: 24px; line-height: 1.5; letter-spacing: -0.5px; color:#fff}
-section.lastWrap .lastDesc {padding-top: 7px; padding-bottom:24px; color:#fff}
-
-/* CTA 배너 */
-section.bannerWrap {padding: 0 15px 15px 15px;}
-section.bannerWrap .ctaBanner {margin-top: 15px}
-
-/* 테이블 */
-.guidesWrap section.guidePart .tableWrap {overflow-x:auto;}
-.guidesWrap section.guidePart .tableWrap .sectionTable {font-size:14px; font-weight: bold; text-align: center; margin:20px 0; width: 100%; min-width: 768px;}
-.guidesWrap section.guidePart .tableWrap .sectionTable th {background-color: #505050; color: #fff; height: 50px; vertical-align: middle;}
-.guidesWrap section.guidePart .tableWrap .sectionTable td {border-bottom: 1px solid #dcdcdc; height: 40px; vertical-align: middle;}
-.guidesWrap section.guidePart .tableWrap .sectionTable tbody:last-child td.tfoot{border-bottom: 1px solid #505050;}
-.guidesWrap section.guidePart .tableWrap .sectionTable tr:last-child td {border-bottom: 1px solid #505050;}
-
-@media(min-width:768px){
-	
-	section.topSection {padding-top: 86px; padding-bottom:86px;}
-	section.topSection .topTitleWrap {width: fit-content; margin: 0 auto;}
-	section.topSection .topTitle {font-size: 40px; letter-spacing: -0.5px; font-weight: bold;}
-	section.topSection .topTitleUnderLine {width:auto; border-top: 1px solid black; margin-top:18px;}
-	section.topSection .topQuoteWrap {padding: 88px 0 36px 0;}
-	section.topSection .topQuoteWrap .topQuote {font-size: 30px; line-height: 1.75; letter-spacing: -0.5px;}
-	section.topSection .topQuoteWrap .topQuote .quoteMark {font-size: 100px; line-height:1; height:24px;}
-	section.topSection .topQuoteWrap .topQuote .quoteMark.-top {margin-bottom:24px;}
-	section.topSection .topQuoteWrap .topQuote .quoteMark.-bottom {margin-top:24px;}
-	section.topSection p.topDesc {width: 70%; margin: 0 auto; text-align: center;}
-
-	
-	#followingNavigation .followingNavigationInner {padding: 0 0; height: auto; background-color: #FFF; color: #000; display: block;}
-	#followingNavigation li {margin-bottom: 14px; font-size: 21px; letter-spacing: -0.5px; font-weight: bold;}
-	#followingNavigation li.-current {color: #3c92ca; list-style-image: url(/img/icons/nav-pc.png);}
-	#followingNavigation li.-current::after {content: none ;}
-	/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-pc.png);}*/
-
-	.guidesWrap {padding: 65px 65px; }
-	.guidesWrap .insertImg {margin: 15px 0 30px 0;}
-	.guidesWrap section.guidePart {padding: 0 0 96px 0; }
-	.guidesWrap section.guidePart .guideAskWrap {border: 10px solid #d4d4d4; padding: 45px 0;}
-	.guidesWrap section.guidePart .guideAskWrap .guideAsk {font-size: 30px; font-weight: bold; line-height: 1.4; letter-spacing: -0.5px; color:#505050}
-
-	.guidesWrap section.guidePart .guideTitle {font-size: 24px;}
-	.guidesWrap section.guidePart .guideTitleUnderLine {margin-top: 10px;}
-
-	.guidesWrap section.guidePart .guideDescList {list-style: outside; line-height: 2; padding-left: 16px;}
-
-	.guidesWrap section.guidePart .guideSubTitle {font-size: 18px;}
-	.guidesWrap section.guidePart .iconsWrap {padding-top:64px; padding-bottom:24px;}
-	.guidesWrap section.guidePart .iconsWrap .guidesIcon {width: 60px; margin: 0 25px 0 1px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList {padding-top:25px; padding-bottom: 20px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem {font-size:16px; font-weight:bold; padding-top: 26px; padding-bottom: 26px; height: 90px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem.-higher {height: 110px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem .itemDesc {font-weight:100;}
-	
-	.guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 18px;}
-	.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-pc.jpg); padding: 72px 54px;}
-	.guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {font-size: 30px; padding-top:17px;}
-	.guidesWrap section.guidePart .greyBox {padding: 24px 0 ; margin: 3px 0 16px 0; text-align: center; font-weight: bold;}
-	.guidesWrap section.guidePart .greyBox.-dense {padding: 18px 20px; margin: 0 0 24px 0; text-align: left;}
-
-	.guidesWrap section.markAdviceWrap {padding-top: 0px; padding-bottom: 96px;}
-
-
-	section.lastWrap {margin-top: 20px; padding: 134px 185px 134px 137px; background-image: url(/img/bg/lastWrap-bg-PC.jpg)}
-	section.lastWrap .lastQuote {font-size:48px; line-height: 1.5; letter-spacing: -0.5px;}
-	section.lastWrap .lastDesc {padding-top: 16px; padding-bottom:24px;}
-
-
-	section.bannerWrap {margin:0 auto; padding: 0 0 20px 0;}
-	section.bannerWrap .ctaBanner {width:49.5%; margin-top: 15px;}
-	section.bannerWrap .ctaBanner.-left {float: left}
-	section.bannerWrap .ctaBanner.-right {float: right}
-	
-}
-
 
 #wrapper main {padding-top: 30px;padding-bottom:30px;}
 .pagination {text-align:center;}
@@ -228,8 +89,7 @@ h2 {font-size:24px;line-height:1.25;}
 h3 {font-size:18px;line-height:1.44444;}
 h4 {font-size:18px;line-height:1.44444;}
 h5 {font-size:24px;line-height:1.25;}
-/* p {font-size:16px;line-height:1.52941;color:#505050;} */
-p {font-size: 16px; line-height: 1.75; color: #505050; letter-spacing: -0.5px;}
+p {font-size:17px;line-height:1.52941;color:#505050;}
 /* 가독성 증가
 p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 
@@ -239,9 +99,6 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .strong-red {font-weight:bold;color:#c15a49;}
 .strong-brown {font-weight:bold;color:#ba9363;}
 .color-brown {color:#ba9363;}
-/* .color-red {color:#b12525;} */
-.color-red {color:#c15a49;}
-
 
 /* Font Family */
 .ff-mj {font-family:'Nanum Myeongjo';}
