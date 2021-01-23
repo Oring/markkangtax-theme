@@ -84,140 +84,12 @@ body {font-size:16px;font-family: 'NanumSquareR', 'Helvetica Neue', Helvetica, A
 .noPad.-bottom {padding-bottom:0 !important;}
 .noPad.-left {padding-left:0 !important;}
 .noPad.-right {padding-right:0 !important;}
+.noMargin.-top {margin-top:0 !important;}
 p.desc {padding: 15px 0;}
+img.insertImg {margin: 15px 0;}
 
 
 
-/* 제일 위 */
-section.topSection {padding-top: 48px; padding-bottom:48px;}
-section.topSection .topTitle {font-size: 20px; letter-spacing: -0.5px; font-weight: bold;}
-section.topSection .topTitleUnderLine { border-top: 1px solid black; width: 50px; margin-top:18px;}
-section.topSection .topQuoteWrap {padding: 32px 0;}
-section.topSection .topQuoteWrap .topQuote {font-size: 15px; line-height: 1.75; letter-spacing: -0.5px;}
-section.topSection .topQuoteWrap .topQuote .quoteMark {font-size: 48px; line-height:1; height:24px; color: #d5c0a5}
-section.topSection .topQuoteWrap .topQuote .quoteMark.-bottom {margin-top:12px;}
-section.topSection p.topDesc {padding-top: 7px; padding-bottom:24px;}
-
-/* 네비게이션 섹션 -공통*/
-#followingNavigation {position:absolute; left:0; top:0; transition: 0.3s ease-out; z-index:900;}
-#followingNavigation.following {top:0; transition: 0.3s ease-in-out;}
-
-
-/* 네비게이션 섹션 -MB*/
-#followingNavigation {margin: 0 auto; width: 100%}
-#followingNavigation .followingNavigationInner {padding: 0 10px 5px 10px; height: 38px; background-color: #b68c56; color: #FFF; font-size: 12px; display:flex; align-items: center; justify-content: space-between}	
-#followingNavigation li.-current {position: relative; color: #FFF; list-style-image: none;}
-#followingNavigation li.-current::after {content: url(/img/icons/nav-mb.png); position: absolute; bottom: -9px; right: 42%}
-/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-mb.png);}*/
-#followingNavigation li a {line-height: 1; cursor:pointer;}
-
-/* 가이드 섹션 */
-.guidesWrap {background-color:#FFF;}
-.guidesWrap .insertImg {margin: 15px 0;}
-.guidesWrap .insertImg.-form {width: 100%}
-.guidesWrap section.guidePart {padding: 56px 0 32px 0;}
-.guidesWrap section.guidePart .guideAskWrap {border: 5px solid #d4d4d4; padding: 36px 0;}
-.guidesWrap section.guidePart .guideAskWrap .guideAsk {font-size: 20px; font-weight: bold; line-height: 1.25; letter-spacing: -0.5px; color:#505050}
-
-.guidesWrap section.guidePart .guideDescList {list-style: outside; line-height: 1.75; padding-left: 16px;}
-
-.guidesWrap section.guidePart .iconsWrap {padding-top:36px; padding-bottom:20px;}
-.guidesWrap section.guidePart .iconsWrap .guidesIcon {width:50px; margin: 0 24px 0 5px;}
-.guidesWrap section.guidePart .iconsWrap .infoList {padding-top:21px;}
-.guidesWrap section.guidePart .iconsWrap .infoList .infoItem {padding-top: 13px; padding-bottom: 14px; display: flex; align-items: center; font-size: 15px; letter-spacing: -0.5px;}
-.guidesWrap section.guidePart .guideTitle {font-size: 17px; font-weight: bold; color:#505050; letter-spacing: -0.5px}
-.guidesWrap section.guidePart .guideTitleUnderLine {margin: 0; border-top: 1px solid #535353; margin-top: 5px;}
-.guidesWrap section.guidePart .guideTitleWrap {padding-top:36px;}
-
-.guidesWrap section.guidePart .guideSubTitle {font-size: 16px; line-height: 1.75; font-weight: bold; padding-top:15px; letter-spacing: -0.5px}
-.guidesWrap section.guidePart .greyBox {background-color: #eee; padding: 22px 20px ; margin: 8px 0;}
-.guidesWrap section.guidePart .greyBoxText {font-size: 16px; font-weight:bold;}
-
-
-
-
-/* 마크강 파란 섹션 */
-.guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 16px; line-height: 1.75; font-weight: bold; padding-top:15px; letter-spacing: -0.5px}
-.guidesWrap section.markAdviceWrap {padding-top: 56px;}
-.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-mb.jpg); background-repeat: no-repeat; background-size: cover; padding: 32px 24px;}
-.guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {color:#fff; font-size: 22px; letter-spacing: -0.5px}
-
-/* 클로징 섹션 */
-section.lastWrap {padding: 48px 15px; background-color:#7a7a7a;}
-section.lastWrap .lastQuote {font-size: 24px; line-height: 1.5; letter-spacing: -0.5px; color:#fff}
-section.lastWrap .lastDesc {padding-top: 7px; padding-bottom:24px; color:#fff}
-
-/* CTA 배너 */
-section.bannerWrap {padding: 0 15px 15px 15px;}
-section.bannerWrap .ctaBanner {margin-top: 15px}
-
-/* 테이블 */
-.guidesWrap section.guidePart .tableWrap {overflow-x:auto;}
-.guidesWrap section.guidePart .tableWrap .sectionTable {font-size:14px; font-weight: bold; text-align: center; margin:20px 0; width: 100%; min-width: 768px;}
-.guidesWrap section.guidePart .tableWrap .sectionTable th {background-color: #505050; color: #fff; height: 50px; vertical-align: middle;}
-.guidesWrap section.guidePart .tableWrap .sectionTable td {border-bottom: 1px solid #dcdcdc; height: 40px; vertical-align: middle;}
-.guidesWrap section.guidePart .tableWrap .sectionTable tbody:last-child td.tfoot{border-bottom: 1px solid #505050;}
-.guidesWrap section.guidePart .tableWrap .sectionTable tr:last-child td {border-bottom: 1px solid #505050;}
-
-@media(min-width:768px){
-	
-	section.topSection {padding-top: 86px; padding-bottom:86px;}
-	section.topSection .topTitleWrap {width: fit-content; margin: 0 auto;}
-	section.topSection .topTitle {font-size: 40px; letter-spacing: -0.5px; font-weight: bold;}
-	section.topSection .topTitleUnderLine {width:auto; border-top: 1px solid black; margin-top:18px;}
-	section.topSection .topQuoteWrap {padding: 88px 0 36px 0;}
-	section.topSection .topQuoteWrap .topQuote {font-size: 30px; line-height: 1.75; letter-spacing: -0.5px;}
-	section.topSection .topQuoteWrap .topQuote .quoteMark {font-size: 100px; line-height:1; height:24px;}
-	section.topSection .topQuoteWrap .topQuote .quoteMark.-top {margin-bottom:24px;}
-	section.topSection .topQuoteWrap .topQuote .quoteMark.-bottom {margin-top:24px;}
-	section.topSection p.topDesc {width: 70%; margin: 0 auto; text-align: center;}
-
-	
-	#followingNavigation .followingNavigationInner {padding: 0 0; height: auto; background-color: #FFF; color: #000; display: block;}
-	#followingNavigation li {margin-bottom: 14px; font-size: 21px; letter-spacing: -0.5px; font-weight: bold;}
-	#followingNavigation li.-current {color: #3c92ca; list-style-image: url(/img/icons/nav-pc.png);}
-	#followingNavigation li.-current::after {content: none ;}
-	/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-pc.png);}*/
-
-	.guidesWrap {padding: 65px 65px; }
-	.guidesWrap .insertImg {margin: 15px 0 30px 0;}
-	.guidesWrap section.guidePart {padding: 0 0 96px 0; }
-	.guidesWrap section.guidePart .guideAskWrap {border: 10px solid #d4d4d4; padding: 45px 0;}
-	.guidesWrap section.guidePart .guideAskWrap .guideAsk {font-size: 30px; font-weight: bold; line-height: 1.4; letter-spacing: -0.5px; color:#505050}
-
-	.guidesWrap section.guidePart .guideTitle {font-size: 24px;}
-	.guidesWrap section.guidePart .guideTitleUnderLine {margin-top: 10px;}
-
-	.guidesWrap section.guidePart .guideDescList {list-style: outside; line-height: 2; padding-left: 16px;}
-
-	.guidesWrap section.guidePart .guideSubTitle {font-size: 18px;}
-	.guidesWrap section.guidePart .iconsWrap {padding-top:64px; padding-bottom:24px;}
-	.guidesWrap section.guidePart .iconsWrap .guidesIcon {width: 60px; margin: 0 25px 0 1px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList {padding-top:25px; padding-bottom: 20px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem {font-size:16px; font-weight:bold; padding-top: 26px; padding-bottom: 26px; height: 90px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem.-higher {height: 110px;}
-	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem .itemDesc {font-weight:100;}
-	
-	.guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 18px;}
-	.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-pc.jpg); padding: 72px 54px;}
-	.guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {font-size: 30px; padding-top:17px;}
-	.guidesWrap section.guidePart .greyBox {padding: 24px 0 ; margin: 3px 0 16px 0; text-align: center; font-weight: bold;}
-	.guidesWrap section.guidePart .greyBox.-dense {padding: 18px 20px; margin: 0 0 24px 0; text-align: left;}
-
-	.guidesWrap section.markAdviceWrap {padding-top: 0px; padding-bottom: 96px;}
-
-
-	section.lastWrap {margin-top: 20px; padding: 134px 185px 134px 137px; background-image: url(/img/bg/lastWrap-bg-PC.jpg)}
-	section.lastWrap .lastQuote {font-size:48px; line-height: 1.5; letter-spacing: -0.5px;}
-	section.lastWrap .lastDesc {padding-top: 16px; padding-bottom:24px;}
-
-
-	section.bannerWrap {margin:0 auto; padding: 0 0 20px 0;}
-	section.bannerWrap .ctaBanner {width:49.5%; margin-top: 15px;}
-	section.bannerWrap .ctaBanner.-left {float: left}
-	section.bannerWrap .ctaBanner.-right {float: right}
-	
-}
 
 
 #wrapper main {padding-top: 30px;padding-bottom:30px;}
@@ -253,26 +125,39 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .sub-sect-top {height:298px;padding-top:67px;background:#999 url('/img/bg/sub-top-bg01.jpg') center top no-repeat fixed;background-size:auto 365px;}
 .sub-sect-top .sub-sect-inner {height:100%;}
 .sub-sect-top .st-header,.sub-sect-top .sub-sect-inner>h1,
-.sub-sect-top .sub-sect-inner>p {height:100%;padding-top:75px;font-size:17px;line-height:1.5294;color:#fff;text-align:center;}
-.sub-sect-top .sub-sect-inner span {font-weight:bold;}
+.sub-sect-top .sub-sect-inner>p {height:100%;padding-top:57px;font-size:20px;line-height:1.3;color:#fff;text-align:center;}
+.sub-sect-top .sub-sect-inner>p>span {font-size:20px; font-weight:bold; display: block;}
 .about .sub-sect-top {background:#999 url('/img/bg/sub-top-bg02.jpg') center no-repeat;background-size: cover;}
 .safe-procedure .sub-sect-top {background:#999 url('/img/bg/sub-top-bg03.jpg') center no-repeat;background-size: cover;}
-.mark-story .sub-sect-top,
-.mark-column .sub-sect-top {background:#999 url('/img/bg/sub-top-bg04.jpg') center no-repeat;background-size: cover;}
+.mark-story .sub-sect-top {background:#999 url('/img/bg/sub-top-bg04.jpg') center no-repeat;background-size: cover;}
 .question .sub-sect-top,
 .notice .sub-sect-top,
 .post-type-archive-rts-notice .sub-sect-top,
 .single-rts-notice .sub-sect-top,
 .contact-us .sub-sect-top {background:#999 url('/img/bg/sub-top-bg05.jpg') center no-repeat;background-size: cover;}
 
+.serviceTopSect .sub-sect-top .sub-sect-inner p{font-size:36px;line-height:1.25; font-weight: bold;}
+.serviceTopSect .sub-sect-top .sub-sect-inner span{display: block; font-size: 15px; font-weight: normal;}
+
+.mark-column .sub-sect-top { background:#999 url('/img/bg/sub-top-bg06.jpg') center no-repeat;background-size: cover;}
+.guidesTopSect .sub-sect-top { background:#999 url('/img/bg/sub-top-bg04.jpg') center no-repeat;background-size: cover;}
+
 /* 푸터 */
-#rtsSummary {padding-top:40px;padding-bottom:75%;background:#939393 url('/img/bg/rts-footer-bg02.jpg') bottom no-repeat;background-size:100% auto;color:#fff;text-align:left;}
-#rtsSummary .mark-tit {font-size:24px;margin-bottom:12px;}
-#rtsSummary .mark-said .mark-content {color:#fff;font-size:12px;line-height:1.666;}
+#rtsSummary {height:530px; padding-top: 76px; padding-left:8px; background:#939393 url('/img/bg/rts-footer-bg01.jpg') bottom no-repeat;background-size:cover;color:#fff;text-align:left;}
+#rtsSummary .mark-tit {font-size:22px; margin-bottom:12px; }
+#rtsSummary .mark-said .mark-content {color:#fff;font-size:14px;line-height:1.75;}
 #rtsSummary .mark-said .naming {margin-top:25px;color:#000;font-weight:bold;}
+#rtsSummary .middle-btn {display:flex; align-items:center; justify-content: center; font-size: 17px; border: 1px solid #fff; width: fit-content; padding: 10px 24px; border-radius: 30px; margin-top:20px;}
+#rtsSummary .middle-btn .middle-btn-arr {padding-left:8px; height: 13px;}
+
+
 
 .footer {background:#555;color:#fff;padding-top:35px;padding-bottom:35px;}
 .footer p {color:#fff;}
+.footer .foot-icon-wrap {display: flex; justify-content: center; text-align: center; padding-bottom: 100px;}
+.footer .foot-icon-wrap .foot-icon-text {padding:0 35px;}
+/* .footer .foot-icon-wrap span {padding: 0 32px} */
+.footer .foot-icon-wrap .icon-text {font-size:12px; padding-top: 12px;}
 .footer .foot-item {text-align:center;}
 .footer .foot-item > a {display:inline-block;}
 .footer .foot-contact {display:block;width:65px;height:65px;margin:0 auto 10px;background:#6d6e71 url(/img/icons/footer-contact-sprite.png) no-repeat;background-size:130px;border-radius:50px;transition:background 0.2s;}
@@ -344,6 +229,11 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 	.sub-sect-top {height:500px;padding-top:144px;background-size:auto 100%;background-size:cover;background-attachment:inherit;}
 	.sub-sect-top .sub-sect-inner .st-header,.sub-sect-top .sub-sect-inner>h1,
 	.sub-sect-top .sub-sect-inner>p {font-size:40px;line-height:1.25;}
+	.sub-sect-top .sub-sect-inner>p>span {display: block; font-size: 40px; font-weight: bold;}
+
+	.serviceTopSect .sub-sect-top .sub-sect-inner p{font-size:72px;line-height:1.25; font-weight: bold;}
+	.serviceTopSect .sub-sect-top .sub-sect-inner span{display: block; font-size: 30px; font-weight: normal;}
+
 
 	/* 안심프로세스 */
 	.step-list li {margin:0}
@@ -352,6 +242,15 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 	/* 버튼정렬 */
 	.btn-align {text-align:left;}
 	.btn_st01 {margin-top:35px;}
+
+	/* 푸터 */
+	#rtsSummary {height:470px; padding-top: 0; padding-bottom:0; background:#939393 url('/img/bg/rts-footer-bg00-pc.jpg') top no-repeat; background-size:cover; display: flex; align-items: center;}
+	#rtsSummary .mark-tit {font-size:48px; margin-bottom:12px;}
+	#rtsSummary .mark-said .mark-content {font-size:18px;line-height:1.75;}
+	#rtsSummary .middle-btn {margin-top:30px;}
+
+	.footer .container{display: flex; flex-direction: row-reverse;}
+	.footer .foot-icon-wrap .foot-icon-text {padding:0 12px;}
 }
 
 @media only screen and (max-width: 767px) {
@@ -371,13 +270,15 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 \*------------------------------------*/
 
 
+
+/* -- 이전 버전 -- */
 #mainSlider {width:100%; overflow:hidden;}
 .rtssl-item {position:relative;width:100%;height:90vh;color:#fff;}
 .rtssl-item .rtssl-inner {position:relative;width:1170px;height:100%;margin:0 auto;max-width:90%;}
 .rtssl-item .rtssl-inner .rtssl-box {position:absolute;top:50%;width:100%;margin-top:-90px;text-align:center;}
 .rtssl-box.ab01 h1.sld-tit, 
 .rtssl-box.ab02 h2.sld-tit {font-size:30px;margin-bottom:5px;}
-.rtssl-box.ab03 h2.sld-tit {font-size:30px;height:90px;margin-bottom:8px;background:url('/img/text/main-sld3-title.png') center no-repeat;background-size:auto 100%;text-indent:-99999px;}
+.rtssl-box.ab03 h2.sld-tit {font-size:30px;height:90px;margin-bottom:8px; background:url('/img/text/main-sld3-title.png') center no-repeat;background-size:auto 100%;text-indent:-99999px;}
 .rtssl-box p.main-desc {font-size:12px;color:#fff;}
 .rtssl-box a.sl-goto {color:#fff;display:inline-block;margin-top:15px;padding: 12px 18px;border:1px solid #fff;border-radius:50px;line-height: 1;}
 #mainSlider .su-slider-centered {margin-bottom:0;}
@@ -761,10 +662,14 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .mk-profile .mk-text {padding:20px;}
 .mk-profile .mk-text > img {margin-top:20px;width:78px;}
 .mk-profile .mk-text > h2 {font-weight:bold;font-size: 18px;line-height: 1.44444;}
+.mk-profile .mk-text > h3 {font-weight:bold;font-size: 17px;line-height: 1.44444; padding-top:16px;}
+
 
 .mk-container .mk-row {padding-bottom:60px;}
+.mk-container .mk-row .mk-row-text {padding-bottom:14px;}
 .mk-container .mk-tit {margin-bottom:20px;font-size:28px;line-height:1.28571;color:#b68c56;}
 .mk-container .mk-subtit {font-weight:bold;}
+.mk-container .mk-subtit.mgBottom {margin-bottom:16px;}
 .mk-container .mk-subtit.mgtop {margin-top:50px;}
 .mk-container .mking_outter {position:relative;margin-top:50px;background:#fff;}
 .mk-container .mking_outter > p {padding:30px 15px 30px;text-align:center;color:#58473b;}
@@ -782,6 +687,7 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 	.mk-profile {position:relative;width:100%;height:0;margin-bottom:80px;padding-bottom:60%;background:url('/img/bg/mark-kang-bg02.jpg') center no-repeat;background-size:100%;}
 	.mk-profile .mk-text {padding:70px;}
 	.mk-profile .mk-text > h2 {font-size: 30px;line-height: 1.33333;}
+	.mk-profile .mk-text > h3 {font-size: 24px;line-height: 1.33333; padding-top:24px;}
 	.mk-profile .mk-img {background:0;display:none;}
 	.mk-container .mk-row {padding-bottom:100px;}
 	.mk-container .mk-tit {margin-bottom:15px;font-size:45px;line-height:1.2;/*margin-bottom:45px;font-size:56px;line-height:1;*/}
@@ -807,16 +713,22 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .column-container {margin-bottom:60px;}
 .column-item .thumb-wrap {padding-bottom:20px;}
 .column-item .thumb-inner {width:100%;height:0;padding-bottom:60%;overflow:hidden;}
-.column-item {margin-bottom:60px;}
-.column-item .column-content h2 {margin-bottom:4px;font-weight:bold;}
-.mark-column .view-article {display:block;margin-top:8px;}
+.column-item {margin-bottom:9px; background-color:#fff; padding: 22px;}
+.column-item .column-content h2 {margin-bottom:4px;font-weight:bold; font-size: 18px; letter-spacing: -0.5px;;}
+.column-item .column-content p {line-height: 1.75; font-size: 14px; padding-top: 4px;}
+
+.mark-column .section-tit h1{font-size: 18px;}
+.mark-column .view-article {display:block; font-weight:bold;}
+
 
 @media(min-width:768px){
-	.column-item {margin-bottom:30px;}
+	.column-item {margin-bottom:30px; padding: 56px 67px 56px 67px;}
 	.column-item .column-content {padding:8px 0;}
-	.column-item .column-content h2 {font-size:28px;line-height:1.2857;}
-	.column-item .column-content p {font-size:15px;line-height:1.6;}
+	.column-item .column-content h2 {font-size:30px;line-height:1.2857;}
+	.column-item .column-content p {font-size:16px;line-height:1.875;}
 	.mark-column .view-article {display:block;}
+	.mark-column .section-tit h1{font-size: 36px; font-weight: bold;}
+	.mark-column .section-tit {margin: 52px 0 51px 0;}
 }
 /*
 @media(max-width:480px){
@@ -839,7 +751,7 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 
 @media(min-width:768px){
 	.faq-wrap .nav-tabs {margin-bottom:16px;}
-	.faq-wrap .nav-tabs>li {width:20%;border-right:1px solid #e8e8e8;}
+	.faq-wrap .nav-tabs>li {width:25%;border-right:1px solid #e8e8e8;}
 	.faq-wrap .nav-tabs>li>a {padding:16px 8px;}
 	.faq-wrap .tab-content {padding:80px;background:#fff;}
 	.faq-wrap .faq-item {margin-bottom:60px;}
@@ -876,6 +788,7 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .notice-post-nnp .nav-links>div.nav-next,.blog-post-nnp .nav-links>div.nav-next {border-bottom:1px solid #e0e0e0;}
 .notice-post-nnp .nav-links>div>a>span,.blog-post-nnp .nav-links>div>a>span {color:#3c92ca;}
 @media(min-width:768px){
+	.blog-post-nnp {margin: 30px auto; width:1170px; padding-left:0; padding-right:0;}
 	.archive-notice {margin-bottom:110px;}
 	.notice-wrap {margin-bottom:60px;}
 	.notice-wrap .notice-item {padding:25px 0;}
@@ -888,16 +801,27 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 		싱글
 \*------------------------------------*/
 
-.article-container {margin-top:40px;margin-bottom:60px;}
+.article-container {padding-top:30px; padding-bottom:15px; margin: 0 15px 60px 15px; background-color: #fff; border: 1px solid #d4d4d4}
 .article-container .post-header {margin-bottom:20px;text-align:center;}
-.article-container .post-header .post-tit {font-size:26px;}
-.article-container .post-header .post-info {font-size:12px;}
+.article-container .post-header .post-tit {margin-bottom:7px; font-size:20px; font-weight: bold; text-align: left;}
+.article-container .post-header .post-info {font-size:12px; text-align:left;}
+.article-container .post-tit-line {border-top:2px solid black; margin: 16	px 0}
+
+.article-container h2{font-size:18px; margin-top:34px; margin-bottom:9px; font-weight: bold;}
+.article-container h3{font-size:15px; margin-bottom:5px; font-weight: bold;}
+.article-container p{line-height: 1.875;}
+
 
 @media(min-width:768px){
-	.article-container {width:750px;margin-top:110px;}
-	.article-container .post-header {margin-bottom:60px;padding:0 60px;}
-	.article-container .post-header .post-tit {margin-bottom:15px;font-size:36px;}
-	.article-container .post-header .post-info {font-size:14px;text-align:right;}
+	.article-container {margin: 0 auto; padding: 110px; }
+	/* .article-container {width:750px;margin-top:110px;} */
+	.article-container .post-header {margin-bottom:60px;padding:0 0px;}
+	.article-container .post-header .post-tit {margin-bottom:15px; font-size:40px; }
+	.article-container .post-header .post-info {font-size:12px;}
+
+	.article-container h2{font-size:30px; margin-top:40px; margin-bottom:20px;}
+	.article-container h3{font-size:18px; margin-bottom:5px;}
+	.article-container p{line-height: 1.875;}
 }
 
 /*------------------------------------*\
@@ -960,3 +884,334 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 	.onlyPc { display: block!important; }
 	.onlyMb { display: none!important; }
 }
+
+
+
+
+
+
+/*------------------------------------*\
+	  서비스페이지 (2021 리뉴얼)
+\*------------------------------------*/
+
+.serviceTopWrap {padding-bottom: 72px; }
+.serviceTopWrap .serviceTopTit .titleRight .quoteMark{font-size: 48px; line-height:1; height:24px; color: #d5c0a5; text-align: center;}
+.serviceTopWrap .serviceTopTit .titleRight .titleTitleText{font-size: 16px; line-height:1.5; text-align: center; color:#333}
+.serviceTopWrap .serviceTopTit .titleRight .titleDescText{font-size: 17px; color: # 505050}
+
+.serviceCaseWrap { background-color: #fff; padding: 15px;}
+.serviceCaseWrap .serviceCaseBox { border: 5px solid #d4d4d4; padding: 42px 15px; margin-bottom: 15px;}
+.serviceCaseWrap .serviceCaseBox .caseBoxSubTit { color:#3c92ca; text-align: center; font-size: 15px; font-weight: bold; padding-bottom:30px;}
+.serviceCaseWrap .serviceCaseBox .caseBoxRight {color: #5c5c5c;}
+.serviceCaseWrap .serviceCaseBox .caseBoxRight .caseBoxTit { font-size: 18px; font-weight: bold; padding-bottom:10px; line-height: 1.65; letter-spacing: -0.5px; }
+.serviceCaseWrap .serviceCaseBox .caseBoxRight .caseBoxText { font-size: 15px;}
+
+.serviceSystemWrap { background-color: #fff; padding: 45px 15px}
+.serviceSystemWrap .titleTextWrap {padding-top:15px;}
+.serviceSystemWrap .systemTitle { font-size:18px; line-height: 1.4; font-weight: bold; letter-spacing: -0.5px;}
+.serviceSystemWrap .systemText { font-size:15px; line-height: 1.75;}
+.serviceSystemWrap .line-bold {border-top: solid 2px #000; margin:0;}
+.serviceSystemWrap .line-normal {border-top: solid 1px #000; margin:0;}
+
+.serviceSystemWrap .serviceSystemIntro  { padding-bottom : 100px;}
+.serviceSystemWrap .serviceSystemIntro .systemTitle { font-size:18px; font-weight:bold; color: #5c5c5c;}
+.serviceSystemWrap .serviceSystemIntro .systemTalkImg { padding: 24px 0 15px 0;}
+
+.serviceSystemWrap .systemScenario {padding-top: 69px;}
+.serviceSystemWrap .systemScenario .innerWrap .innerRight .titleTextWrap .systemText {padding: 8px 0 30px 0;}
+.serviceSystemWrap .systemScenario .innerWrap .innerRight .titleTextWrap .systemTitle {line-height:1; padding-top: 30px; color: #5c5c5c;}
+.serviceSystemWrap .systemScenario hr {margin:0;}
+.serviceSystemWrap .systemScenario .innerWrap .innerLeft {text-align: center; padding-bottom: 30px;}
+.serviceSystemWrap .systemScenario .innerWrap .innerLeft .scenarioIcon {width:64px;}
+.serviceSystemWrap .systemScenario .innerWrap .innerLeft .scenarioTitle {line-height:1; margin: 0 auto; font-weight: bold; padding-top:10px; color:#3c92ca;}
+
+.qnaSection {background-color:#fff; padding: 15px; }
+.qnaSection .qnaWrap {background-color:#f4f4f4; padding:64px 15px;}
+.qnaSection .qnaText {color: #444; line-height: 1.9; font-size:15px; padding-bottom: 16px; padding-left: 5px;}
+.qnaSection .qnaWrap a {text-decoration: underline; font-weight: bold;}
+.qnaSection .qnaTitle {color: #5c5c5c; font-size:18px; text-align: center; padding-bottom: 28px; font-weight: bold; letter-spacing: -0.5px;}
+.qnaSection .btnWrap {padding-top:34px; padding-bottom: 72px;}
+.qnaSection .ctaBtn {border:1px solid #3c92ca; color:#3c92ca; border-radius: 25px; padding: 7px 10px; text-align: center; font-size: 17px; font-weight: bold; margin-bottom: 15px;}
+
+@media(min-width:768px){
+.serviceTopWrap	{padding: 0 76px 66px 76px; display: flex;}
+.serviceTopWrap .serviceTopTit .titleRight .quoteMark{font-size: 100px; line-height:1; height:24px; color: #d5c0a5; text-align: left; padding-top: 15px;}
+.serviceTopWrap .serviceTopTit .titleRight {padding-left: 20px;}
+.serviceTopWrap .serviceTopTit .titleRight .titleTitleText{padding-left:8px; padding-top: 30px; font-size: 30px; line-height:1.75; font-weight: bold;text-align: left;}
+.serviceTopWrap .serviceTopTit .titleRight .titleDescText{padding-left:10px; padding-top: 14px; font-size: 16px;}
+
+.serviceCaseWrap {padding: 76px;}
+.serviceCaseWrap .serviceCaseBox {display: flex; border: 10px solid #d4d4d4; padding: 58px 50px; margin-bottom: 35px;}
+.serviceCaseWrap .serviceCaseBox .caseBoxSubTit {padding-right: 76px; line-height: 1.4; text-align: left; font-size: 30px; font-weight: bold; padding-bottom:0px;}
+.serviceCaseWrap .serviceCaseBox .caseBoxRight {padding-top: 5px;}
+.serviceCaseWrap .serviceCaseBox .caseBoxRight .caseBoxTit { font-size: 30px; padding-bottom:15px; line-height: 1;}
+
+.serviceSystemWrap .serviceSystemIntro {text-align:center;}
+.serviceSystemWrap .serviceSystemIntro .systemTitle { padding-bottom: 20px; font-size:36px; line-height: 1.33; letter-spacing: -0.5px;}
+.serviceSystemWrap .serviceSystemIntro .systemText { font-size:16px; line-height: 1.75; letter-spacing: -0.5px;}
+
+.serviceSystemWrap .titleTextWrap {padding-top:66px;}
+
+.serviceSystemWrap .systemScenario {padding-left: 110px; padding-right: 110px; padding-top: 29px;}
+.serviceSystemWrap .systemScenario .innerWrap {display: flex; padding: 57px 0;}
+.serviceSystemWrap .systemScenario .innerWrap .innerLeft {text-align: left; padding-bottom: 0px; display: flex; flex-direction: column-reverse; justify-content: flex-end; width: 22%;}
+.serviceSystemWrap .systemScenario .innerWrap .innerLeft .scenarioIcon {width: 95px; margin-left: 22px; margin-top: 16px;}
+.serviceSystemWrap .systemScenario .innerWrap .innerLeft .scenarioTitle {margin: 0 0; font-size:30px;font-weight: bold; padding-top:0px; color:#3c92ca;}
+
+.serviceSystemWrap .systemScenario .innerWrap .innerRight {width: 77%}
+.serviceSystemWrap .systemScenario .innerWrap .innerRight .titleTextWrap .systemTitle {padding-top: 0; font-size:30px;}
+.serviceSystemWrap .systemScenario .innerWrap .innerRight .titleTextWrap .systemText {padding: 14px 0; font-size:16px; width: 95%;}
+
+.qnaSection {padding: 15px 125px; }
+.qnaSection .qnaWrap {padding: 100px 0 100px 200px;}
+.qnaSection .qnaTitle {font-size:30px; text-align: left;}
+.qnaSection .qnaText {line-height: 2.5; font-size:18px; padding-bottom: 0px;}
+
+.qnaSection .btnWrap {padding-top:40px; display: flex; justify-content: space-between;}
+.qnaSection .ctaBtn {padding: 7px 21px;}
+
+
+}
+ 
+
+
+/*------------------------------------*\
+		가이드섹션 (2021 리뉴얼)
+\*------------------------------------*/
+
+/* 제일 위 */
+section.topSection {padding-top: 48px; padding-bottom:48px;}
+section.topSection .topTitle {font-size: 20px; letter-spacing: -0.5px; font-weight: bold; color:#363636}
+section.topSection .topTitleUnderLine { border-top: 1px solid black; width: 50px; margin-top:18px;}
+section.topSection .topQuoteWrap {padding: 32px 0;}
+section.topSection .topQuoteWrap .topQuote {font-size: 15px; line-height: 1.75; letter-spacing: -0.5px;}
+section.topSection .topQuoteWrap .topQuote .quoteMark {font-size: 48px; line-height:1; height:24px; color: #d5c0a5}
+section.topSection .topQuoteWrap .topQuote .quoteMark.-bottom {margin-top:12px;}
+section.topSection p.topDesc {padding-top: 7px; padding-bottom:24px;}
+
+/* 네비게이션 섹션 -공통*/
+#followingNavigation {position:absolute; left:0; top:0; z-index:900;}
+/* #followingNavigation {position:absolute; left:0; top:0; transition: 0.3s ease-out; z-index:900;} */
+#followingNavigation.following {top:0; transition: 0.3s ease-in-out;}
+
+
+/* 네비게이션 섹션 -MB*/
+#followingNavigation {margin: 0 auto; width: 100%}
+#followingNavigation .followingNavigationInner {padding: 0 10px 5px 10px; height: 38px; background-color: #b68c56; color: #FFF; font-size: 12px; display:flex; align-items: center; justify-content: space-around}	
+#followingNavigation li.-current {position: relative; color: #FFF; list-style-image: none;}
+#followingNavigation li.-current::after {content: url(/img/icons/nav-mb.png); position: absolute; bottom: -9px; right: 42%;}
+/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-mb.png);}*/
+#followingNavigation li a {line-height: 1; cursor:pointer;}
+
+/* 가이드 섹션 */
+.guidesWrap {background-color:#FFF;}
+.guidesWrap .insertImg {margin: 15px 0;}
+.guidesWrap .insertImg.-form {width: 100%}
+.guidesWrap section.guidePart {padding: 56px 0 32px 0;}
+.guidesWrap section.guidePart .guideAskWrap {border: 5px solid #d4d4d4; padding: 36px 0;}
+.guidesWrap section.guidePart .guideAskWrap .guideAsk {font-size: 20px; font-weight: bold; line-height: 1.25; letter-spacing: -0.5px; color:#505050}
+
+.guidesWrap section.guidePart .guideDescList {list-style: outside; line-height: 1.75; padding-left: 16px;}
+
+.guidesWrap section.guidePart .iconsWrap {padding-top:36px; padding-bottom:20px;}
+.guidesWrap section.guidePart .iconsWrap .guidesIcon {width:50px; margin: 0 24px 0 5px;}
+.guidesWrap section.guidePart .iconsWrap .infoList {padding-top:21px;}
+.guidesWrap section.guidePart .iconsWrap .infoList .infoItem {padding-top: 13px; padding-bottom: 14px; display: flex; align-items: center; font-size: 15px; letter-spacing: -0.5px;}
+.guidesWrap section.guidePart .guideTitle {font-size: 17px; font-weight: bold; color:#505050; letter-spacing: -0.5px}
+.guidesWrap section.guidePart .guideTitleUnderLine {margin: 0; border-top: 1px solid #535353; margin-top: 5px;}
+.guidesWrap section.guidePart .guideTitleWrap {padding-top:36px;}
+
+.guidesWrap section.guidePart .guideSubTitle {font-size: 16px; line-height: 1.75; font-weight: bold; padding-top:15px; letter-spacing: -0.5px}
+.guidesWrap section.guidePart .greyBox {background-color: #eee; padding: 22px 20px ; margin: 8px 0;}
+.guidesWrap section.guidePart .greyBoxText {font-size: 16px; font-weight:bold;}
+
+
+/* 마크강 파란 섹션 */
+.guidesWrap section.markAdviceWrap {padding-top: 56px; padding-bottom:32px}
+.guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 16px; line-height: 1.75; font-weight: bold; padding-top:15px; letter-spacing: -0.5px}
+.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-mb.jpg); background-repeat: no-repeat; background-size: cover; padding: 32px 24px;}
+.guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {color:#fff; font-size: 22px; letter-spacing: -0.5px}
+
+/* 클로징 섹션 */
+section.lastWrap {padding: 48px 15px; background-color:#7a7a7a;}
+section.lastWrap .lastQuote {font-size: 24px; line-height: 1.5; letter-spacing: -0.5px; color:#fff}
+section.lastWrap .lastDesc {padding-top: 7px; padding-bottom:24px; color:#fff}
+
+/* CTA 배너 */
+section.bannerWrap {padding: 0 15px 15px 15px;}
+section.bannerWrap .ctaBanner {margin-top: 15px}
+
+/* 테이블 */
+.guidesWrap section.guidePart .tableWrap {overflow-x:auto;}
+.guidesWrap section.guidePart .tableWrap .sectionTable {font-size:14px; font-weight: bold; text-align: center; margin:20px 0; width: 100%; min-width: 768px;}
+.guidesWrap section.guidePart .tableWrap .sectionTable th {background-color: #505050; color: #fff; height: 50px; vertical-align: middle;}
+.guidesWrap section.guidePart .tableWrap .sectionTable td {border-bottom: 1px solid #dcdcdc; height: 40px; vertical-align: middle;}
+.guidesWrap section.guidePart .tableWrap .sectionTable tbody:last-child td.tfoot{border-bottom: 1px solid #505050;}
+.guidesWrap section.guidePart .tableWrap .sectionTable tr:last-child td {border-bottom: 1px solid #505050;}
+
+@media(min-width:768px){
+	
+	section.topSection {padding-top: 86px; padding-bottom:86px;}
+	section.topSection .topTitleWrap {width: fit-content; margin: 0 auto;}
+	section.topSection .topTitle {font-size: 40px; letter-spacing: -0.5px; font-weight: bold;}
+	section.topSection .topTitleUnderLine {width:auto; border-top: 1px solid black; margin-top:18px;}
+	section.topSection .topQuoteWrap {padding: 88px 0 36px 0;}
+	section.topSection .topQuoteWrap .topQuote {font-size: 30px; line-height: 1.75; letter-spacing: -0.5px;}
+	section.topSection .topQuoteWrap .topQuote .quoteMark {font-size: 100px; line-height:1; height:24px;}
+	section.topSection .topQuoteWrap .topQuote .quoteMark.-top {margin-bottom:24px;}
+	section.topSection .topQuoteWrap .topQuote .quoteMark.-bottom {margin-top:24px;}
+	section.topSection p.topDesc {width: 70%; margin: 0 auto; text-align: center;}
+
+	
+	#followingNavigation .followingNavigationInner {padding: 0 0; height: auto; background-color: #FFF; color: #000; display: block;}
+	#followingNavigation li {margin-bottom: 14px; font-size: 21px; letter-spacing: -0.5px; font-weight: bold; cursor:pointer;}
+	#followingNavigation li.-current {color: #3c92ca; list-style-image: url(/img/icons/nav-pc.png); }
+	#followingNavigation li.-current::after {content: none ;}
+	/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-pc.png);}*/
+
+	.guidesWrap {padding: 65px 65px; }
+	.guidesWrap .insertImg {margin: 15px 0 30px 0;}
+	.guidesWrap section.guidePart {padding: 0 0 96px 0; }
+	.guidesWrap section.guidePart .guideAskWrap {border: 10px solid #d4d4d4; padding: 45px 0;}
+	.guidesWrap section.guidePart .guideAskWrap .guideAsk {font-size: 30px; font-weight: bold; line-height: 1.4; letter-spacing: -0.5px; color:#505050}
+
+	.guidesWrap section.guidePart .guideTitle {font-size: 24px;}
+	.guidesWrap section.guidePart .guideTitleUnderLine {margin-top: 10px;}
+
+	.guidesWrap section.guidePart .guideDescList {list-style: outside; line-height: 1.75; padding-left: 16px;}
+
+	.guidesWrap section.guidePart .guideSubTitle {font-size: 18px;}
+	.guidesWrap section.guidePart .iconsWrap {padding-top:64px; padding-bottom:24px;}
+	.guidesWrap section.guidePart .iconsWrap .guidesIcon {width: 60px; margin: 0 25px 0 1px;}
+	.guidesWrap section.guidePart .iconsWrap .infoList {padding-top:25px; padding-bottom: 20px;}
+	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem {font-size:16px; font-weight:bold; padding-top: 26px; padding-bottom: 26px; height: 90px;}
+	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem.-higher {height: 110px;}
+	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem .itemDesc {font-weight:100;}
+	
+	.guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 18px;}
+	.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-pc.jpg); padding: 72px 54px;}
+	.guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {font-size: 30px; padding-top:17px;}
+	.guidesWrap section.guidePart .greyBox {padding: 24px 0 ; margin: 3px 0 16px 0; text-align: center; font-weight: bold;}
+	.guidesWrap section.guidePart .greyBox.-dense {padding: 18px 20px; margin: 0 0 24px 0; text-align: left;}
+
+	.guidesWrap section.markAdviceWrap {padding-top: 0px; padding-bottom: 96px;}
+
+
+	section.lastWrap {margin-top: 20px; padding: 134px 185px 134px 137px; background-image: url(/img/bg/lastWrap-bg-PC.jpg)}
+	section.lastWrap .lastQuote {font-size:48px; line-height: 1.5; letter-spacing: -0.5px;}
+	section.lastWrap .lastDesc {padding-top: 16px; padding-bottom:24px;}
+
+
+	section.bannerWrap {margin:0 auto; padding: 0 0 20px 0;}
+	section.bannerWrap .ctaBanner {width:49.5%; margin-top: 15px;}
+	section.bannerWrap .ctaBanner.-left {float: left}
+	section.bannerWrap .ctaBanner.-right {float: right}
+	
+}
+
+
+
+/*------------------------------------*\
+		메인 - 2021 리뉴얼
+\*------------------------------------*/
+
+.main-sect-top {height:400px;padding-top:67px;background:#999 url('/img/bg/main-top-bg-mb.jpg') center top no-repeat fixed; background-size:auto 400px;}
+.main-sect-top .main-sect-inner {height:100%;padding-top:75px; color:#fff; text-align:center;}
+.main-sect-top .main-sect-inner h1 {font-size:30px; line-height: 1.2; letter-spacing: -1.5px;}
+.main-sect-top .main-sect-inner h2 {font-size:17px; line-height: 2; letter-spacing: -0.5px;}
+.main-sect-top .main-sect-inner .main-top-btn {font-size: 12px; border: 1px solid #fff; width: fit-content; padding: 8px 12px; border-radius: 22px; margin:14px auto;}
+
+.main-sect-mention {margin: 65px 0;}
+.main-sect-mention h2 {font-size:24px; font-weight: bold;}
+
+.main-sect-mark-wrap .sect-mark-text {padding: 0 28px;}
+.main-sect-mark-wrap h2 {font-size:24px; letter-spacing: -0.5px; color:#ac8552;}
+.main-sect-mark-wrap h3 {font-size:18px; letter-spacing: -0.5px; font-weight: bold; padding-top:6px;}
+.main-sect-mark-wrap p {font-size:17px; letter-spacing: -0.5px; line-height:1.6; padding-top:10px;}
+/* .main-sect-title-wrap .main-btn {color:#ac8552; font-weight: bold; font-size: 17px; border: 1px solid #ac8552; width: fit-content; padding: 8px 22px; border-radius: 22px; margin:27px auto;} */
+
+.main-mark-img {padding: 54px 17px 0 17px;}
+
+.main-sect-service-wrap {height:600px; background: url('/img/bg/main-service-bg01.jpg') center top no-repeat; background-size:cover; background-position: 57% 0; padding-top: 100px;}
+.main-sect-service-wrap .text-icon-wrap {display:flex; align-items:center; justify-content: center;}
+
+.main-sect-service-wrap .service-text {color: #fff;}
+.main-sect-service-wrap .service-text p {line-height:1.62; color: #fff; margin-top:6px; margin-bottom: 40px;}
+
+.main-sect-service-wrap .service-box {height: 160px; border: 1px solid #f0dab9; margin: 0 15px 15px 15px; border-radius: 5px; display: flex; flex-direction: column; justify-content: center;}
+.main-sect-service-wrap .service-box .service-icon {width:5px; margin: 0 0 0 4px;}
+.main-sect-service-wrap .service-box p, .main-sect-service-wrap .service-box div {font-size: 16px; color: #f0dab9;}
+.main-sect-service-wrap .service-box .text-icon-wrap {display:flex; align-items:center; justify-content: center; color: #f0dab9; }
+.main-sect-service-wrap .service-box h2 {font-size: 34px; color: #f0dab9; letter-spacing: -0.5px;}
+
+.main-sect-guide-wrap {height:630px; padding: 90px 15px}
+.main-sect-guide-wrap .guide-text-title {color: #333;}
+.main-sect-guide-wrap .guide-text-title h2 {letter-spacing: -0.5px;}
+.main-sect-guide-wrap .guide-text-title p {line-height:1.62; color: #333; margin-top:6px; margin-bottom: 40px;}
+
+.main-sect-guide-wrap .guide-box {padding-top: 30px;}
+.main-sect-guide-wrap .guide-box .line-bold {border-top: solid 2px #000; margin:0;}
+.main-sect-guide-wrap .guide-box .line-normal {border-top: solid 1px #000; margin:0;}
+.main-sect-guide-wrap .guide-box .guide-icon {padding-left: 3px; padding-right: 10px; width: 51px;}
+.main-sect-guide-wrap .guide-box .text-icon-wrap {display: flex; align-items: center; height: 80px;}
+.main-sect-guide-wrap .guide-box .text-icon-wrap .inner-icon {padding:0 0 0 15px}
+.main-sect-guide-wrap .guide-box .text-icon-wrap .inner-text {padding:0 0 0 6px;}
+.main-sect-guide-wrap .guide-box .text-icon-wrap .inner-text .inner-inner {display: flex; align-items: center;}
+.main-sect-guide-wrap .guide-box .text-icon-wrap .inner-text .inner-inner img {padding-left: 6px;}
+.main-sect-guide-wrap .guide-box .text-icon-wrap .inner-text a {font-weight: bold; font-size: 18px;  letter-spacing: -0.5px;}
+/* .main-sect-guide-wrap .guide-box .text-icon-wrap .guide-inner-text {font-weight: bold; font-size:18px; padding-right: 5px; letter-spacing: -0.5px;} */
+
+.main-sect-middle-wrap {height: 458px; background: url('/img/bg/main-middle-bg-mb.jpg') center top no-repeat; background-size:cover; display: flex; justify-content: center; align-items: center;}
+.main-sect-middle-wrap .middle-text-title {color: #fff; padding-bottom: 8px;}
+.main-sect-middle-wrap .middle-text-title h2 {line-height: 1.5;}
+.main-sect-middle-wrap .middle-btn {display:flex; align-items:center; justify-content: center; font-size: 17px; border: 1px solid #fff; width: fit-content; padding: 10px 24px; border-radius: 30px; margin:22px auto 0 auto;}
+.main-sect-middle-wrap .middle-btn .middle-btn-arr {padding-left:8px; height: 13px;}
+
+
+@media(min-width:768px){
+.main-sect-top {height:760px; padding-top:67px; background:#999 url('/img/bg/main-top-bg-pc.jpg') center no-repeat fixed; background-size:cover;}
+.main-sect-top .main-sect-inner {height:100%; padding:197px 0 0 0; text-align:left;}
+.main-sect-top .main-sect-inner h1 {font-size:72px;}
+.main-sect-top .main-sect-inner h2 {font-size:42px; font-weight: bold;}
+.main-sect-top .main-sect-inner p {color: #fff; font-size:18px; line-height: 1.75;}
+.main-sect-top .main-sect-inner .main-top-btn {font-size: 16px; border: 1px solid #fff; width: fit-content; padding: 11px 27px; border-radius: 22px; margin:18px 0 0 0; display: flex; align-items: center;}
+.main-sect-top .main-sect-inner .main-top-btn .middle-btn-arr {padding-left:8px; height: 13px;}
+
+.main-sect-mention {margin: 166px 0 0 0;}
+.main-sect-mention h2 {font-size:48px; font-weight: bold;}
+.main-sect-mark-wrap {display: flex; flex-direction: row-reverse; align-items: center; justify-content: center;}
+.main-sect-mark-wrap .sect-mark-text {padding: 0 28px; float: right;}
+
+.main-sect-mark-wrap h2 {font-size:48px; letter-spacing: -0.5px;}
+.main-sect-mark-wrap h3 {font-size:36px; letter-spacing: -0.5px; padding-top: 7px;}
+.main-sect-mark-wrap p {font-size:21px; letter-spacing: -0.5px; line-height:1.75; padding-top:10px;}
+
+.main-sect-service-wrap {height:952px; padding-top: 140px;}
+.main-sect-service-wrap .service-text h2 {font-size:48px; letter-spacing: -0.5px; padding-bottom: 10px;}
+.main-sect-service-wrap .service-text p {font-size:21px; letter-spacing: -0.5px; margin:0}
+.main-sect-service-wrap .service-box {height: 200px; width: 825px; margin: 20px auto; border-radius: 5px;  flex-direction: column-reverse;}
+.main-sect-service-wrap .service-box.-first {margin-top:48px;}
+.main-sect-service-wrap .service-box h2 {font-size: 48px;}
+.main-sect-service-wrap .service-box span {font-size: 21px;}
+.main-sect-service-wrap .service-box .service-icon {width:6px; margin: 0 0 0 11px;}
+
+
+.main-sect-guide-wrap .guide-text-title {padding-bottom:20px;}
+.main-sect-guide-wrap .guide-text-title h2 {font-size:48px; letter-spacing: -0.5px;}
+.main-sect-guide-wrap .guide-text-title p {font-size:21px; line-height:1.62; color: #333; margin-top:6px; margin-bottom: 40px;}
+
+.main-sect-guide-wrap {height:1220px; padding: 160px 15px}
+.main-sect-guide-wrap .guide-box {width: 825px; margin: 0 auto;} 
+.main-sect-guide-wrap .guide-box .inner-icon {width: 13%;} 
+.main-sect-guide-wrap .guide-box .inner-text .inner-inner a {font-size:29px;} 
+.main-sect-guide-wrap .guide-box .inner-text p {line-height: 1.75; padding-top: 5px;} 
+.main-sect-guide-wrap .guide-box .text-icon-wrap {height: 180px;}
+.main-sect-guide-wrap .guide-box .guide-icon {width: 88px;}
+.main-sect-guide-wrap .guide-box .text-icon-wrap .inner-text .inner-inner img {padding-left: 8px;}
+
+.main-sect-middle-wrap {height: 585px; background: url('/img/bg/main-middle-bg-pc.jpg') center top no-repeat; background-size:cover; display: flex; justify-content: center; align-items: center;}
+.main-sect-middle-wrap .middle-text-title {padding: 0;}
+
+}
+
+

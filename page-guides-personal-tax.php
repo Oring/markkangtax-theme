@@ -3,14 +3,17 @@
 	<script src="<?php echo get_template_directory_uri(); ?>/js/followingNav.js"></script>
 
 	<!-- 헤더 -->
-	<div class="sub-sect-top">
-		<div class="sub-sect-inner">
-			<p>한국인을 위한 미국세금신고<br><span>Right Tax Service가 함께 합니다</span></p>
+	<div class="guidesTopSect">
+		<div class="sub-sect-top">
+			<div class="sub-sect-inner">
+				<p>한국인을 위한 미국세금신고<br><span>Right Tax Service가 함께 합니다</span></p>
+			</div>
 		</div>
-	</div>
+	</div>	
+
 	<!-- /헤더 -->
 
-
+	<article>
 	<!-- INTRO 섹션 -->
   <section class="topSection container">
 		<div class="topTitleWrap">
@@ -20,23 +23,21 @@
 			<hr class="topTitleUnderLine">
 		</div>
 
-			<div class="topQuoteWrap row">
-				<h2 class="topQuote text-center color-brown ff-mj">
-					<div class="quoteMark -top">“</div>
-					미국 시민권/영주권자는 전 세계 어디에 있더라도<br>
-					전 세계의 소득(worldwide income) 및<br>
-					해외자산 등을 보고해야 하는 의무가 있습니다. 
-					<div class="quoteMark -bottom">”</div>
-				</h2>
-			</div>
-
-			<p class="topDesc">
-				미국 개인 소득세 신고는 미국에 사시는 분만 하는 것이 아닙니다. 본인이 미국 시민권이나 영주권자, 그리고 183일 거주 테스트를 만족하는 세법상 거주자라면 한국이 아닌 다른 해외에 거주하더라도  거기에서 발생한 소득도 전세계의 소득(worldwide income)으로써 미국 국세청 IRS에 보고해야 하는 의무가 있습니다.
-			</p>
-
-			<p class="topDesc">
-				특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" style="text-decoration: underline">FATCA(해외계좌신고법)</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 그래서 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
-			</p>
+		<div class="topQuoteWrap row">
+			<h2 class="topQuote text-center color-brown ff-mj">
+				<div class="quoteMark -top">“</div>
+				미국 시민권/영주권자는 전 세계 어디에 있더라도<br>
+				전 세계의 소득(worldwide income) 및<br>
+				해외자산 등을 보고해야 하는 의무가 있습니다. 
+				<div class="quoteMark -bottom">”</div>
+			</h2>
+		</div>
+		<p class="topDesc">
+			미국 개인 소득세 신고는 미국에 사시는 분만 하는 것이 아닙니다. 본인이 미국 시민권이나 영주권자, 그리고 183일 거주 테스트를 만족하는 세법상 거주자라면 한국이 아닌 다른 해외에 거주하더라도  거기에서 발생한 소득도 전세계의 소득(worldwide income)으로써 미국 국세청 IRS에 보고해야 하는 의무가 있습니다.
+		</p>
+		<p class="topDesc">
+			특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" style="text-decoration: underline">FATCA(해외계좌신고법)</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 그래서 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
+		</p>
 	</section>
 	<!-- /INTRO 섹션 -->
 
@@ -909,7 +910,7 @@
 	</div>
 
 	<!-- OUTRO 섹션 -->
-  <section class="lastWrap container">
+  <!-- <section class="lastWrap container">
 		<h2 class="lastQuote ff-mj">
 			<div class="lastQuoteMark">“</div>
 				안심하고 맡길 수 있는<br>
@@ -918,8 +919,9 @@
 		<p class="lastDesc">
 			지금까지 미국세금 보고에 대한 전반적인 내용을 짚어보았는데요. 일반적이고 대표적인 사항들에 국한된 설명을 드린 것이기 때문에 다양한 개인 상황과 조건에 따 라서 변수가 많기 때문에 꼭 자신의 상황을 전문가와 상담하시기 바랍니다. 특히, 대부분의 한인분들께서 해외 공제 혜택을 받아 미국에 내야할 세금이 없으면 보고를 안해도 된다고 잘못 알고 계시는 경우가 많은데, 왜 세금이 $0인지를 해당 보고 양식을 통해 설명해야하는 의무가 있는 것입니다. 이런 점을 잘 인지하셔서 앞으로 <a href="https://righttaxservice.com/irs-tax-filing-streamlined-procedures/" style="text-decoration: underline">미국 세금 보고</a>를 제대로 준비하시기 바랍니다.
 		</p>
-	</section>
+	</section> -->
 	<!-- /OUTRO 섹션 -->
+	</article>
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">

@@ -1,16 +1,22 @@
-			<section id="rtsSummary" class="hdPC">
+			<section id="rtsSummary">
 				<div class="container">
 					<div class="mark-said">
-						<h3 class="mark-tit ff-mj">안심하세요. Right Tax Service</h2>
-						<p class="mark-content ff-mj">미국 첫 해외 금융 계좌 보고는 문제없이 안전해야 합니다.<br>
-							보고 과정에서 개인 정보 노출 문제<br>
-							한국 세법과 미국 세법 차이에서 발생되는 문제,<br>
-							잦은 미국 세법을 놓쳐서 생기는 문제 등 수많은 문제가<br>
-							고객님의 자산에 피해를 입힐 수 있습니다.<br>
-							Right Tax Service는<br>이와 같은 문제를 방지할 수 있는 safe service를 설계하고<br>
-							끊임없이 연구해 고객님의 자산을 안전하게 보호해드립니다.</p>
-						<p class="naming">Right Choice, Right Tax Service<br>회계사 Mark Kang</p>
+						<h3 class="mark-tit ff-mj">
+							안심하세요. <br class="hdPC">
+							Mark Kang Tax Service
+						</h3>
+						<p class="mark-content ff-mj">
+							복잡하고 어려운 세무 업무로 고민 중이신가요?<br>
+							현재 상황을 상세히 기재하신 후 <br class="hdPC"> 
+							상담을 신청해주세요.<br>
+							고객님의 문제를 해결할 수 있도록 <br class="hdPC">
+							솔루션을 연구하여<br>
+							안전하고 편안하게 상담해드리겠습니다.<br>
 					</div>
+					<a class="middle-btn">
+						지금 상담 신청하기
+						<img class="middle-btn-arr" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
+					</a>
 				</div>
 			</section>
 
@@ -18,6 +24,18 @@
 			<footer class="footer" role="contentinfo">
 
 				<div class="container">
+					<div class="foot-icon-wrap">
+						<div class="foot-icon-text">
+							<img src="/img/icons/footer-icon-talk-mb.png" alt="카카오톡 아이콘">
+							<p class="icon-text">카카오톡 상담</p>
+						</div>
+						<div class="foot-icon-text">
+							<img src="/img/icons/footer-icon-blog-mb.png" alt="카카오톡 아이콘">
+							<p class="icon-text">마크강 블로그</p>
+						</div>
+					</div>
+
+
 					<div class="clearfix foot-wrap">
 						<?php /* ?>
 						<div class="col-md-1 col-md-push-10 col-xs-6 foot-item">
@@ -36,12 +54,12 @@
                                 대표자: <?php echo of_get_option('company_representative'); ?> 
                                 | 연락처: <a href="tel:<?php echo of_get_option('office_number'); ?>" onclick="gtag('event', 'Phone', { 'event_category': 'Contact', 'event_label': 'footer' });"><?php echo of_get_option('office_number'); ?></a>
                                 | 이메일: <a href="mailto:<?php echo of_get_option('contact_email'); ?>" onclick="gtag('event', 'Email', { 'event_category': 'Contact', 'event_label': 'footer' });"><?php echo of_get_option('contact_email'); ?></a>
-                                | 카카오문의: <a href="https://pf.kakao.com/_LxkkfT" target="_blank" onclick="gtag('event', 'Kakao', { 'event_category': 'Contact', 'event_label': 'footer' });"><?php echo of_get_option('contact_kakao'); ?></a>
+                                <!-- | 카카오문의: <a href="https://pf.kakao.com/_LxkkfT" target="_blank" onclick="gtag('event', 'Kakao', { 'event_category': 'Contact', 'event_label': 'footer' });"><?php echo of_get_option('contact_kakao'); ?></a> -->
                                 | 사업자등록번호: <?php echo of_get_option('company_registration_number'); ?>
                                 | <?php echo of_get_option('office_address'); ?>
                             </p>
 							<p class="copyright">
-								COPYRIGHT &copy; <?php echo strtoupper ( get_bloginfo('name') ); ?> ALL RIGHTS RESERVED.
+								COPYRIGHT &copy; <?php echo strtoupper ( get_bloginfo('name') ); ?> <br class="hdPC">ALL RIGHTS RESERVED.
 							</p>
 							<!-- /copyright -->
 						</div>
@@ -51,15 +69,15 @@
 			</footer>
 			<!-- /footer -->
 
-			<div class="rts-mark hdMB"
+			<!-- <div class="rts-mark hdMB"
 					data-bottom-top='background-position: 50% -300px;'
 					data-bottom='background-position: 50% 0px;'>
 				<div class="container c_txt"
 					data-anchor-target='.rts-mark'
 					data-bottom-top='opacity:0;background-position:left -50%;'
 					data-bottom='opacity:1;background-position:left 50%;'></div>
-			</div>
-        </div>
+				</div>
+			</div> -->
 		</div>
 		<!-- /wrapper -->
 

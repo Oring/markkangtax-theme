@@ -39,6 +39,16 @@
 }
 
 @font-face {
+	font-family: 'NanumSquareR';
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareEB.eot); /* IE9 Compat Modes */
+	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareEB.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+			local(※), url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareEB.woff) format('woff'), /* Modern Browsers */
+			url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareEB.ttf) format('truetype'); /* Safari, Android, iOS */
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
 	font-family: 'NanumSquareB';
 	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.eot); /* IE9 Compat Modes */
 	src: url(/wp-content/themes/right-tax-service/fonts/NanumSquare/NanumSquareB.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */

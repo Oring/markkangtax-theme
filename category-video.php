@@ -10,18 +10,18 @@ get_header(); ?>
 
 	<main role="main">
 
-		<div class="section-tit hdMB">
-			<h1 class="text-center"><?php _e( '회계사 마크칼럼 - ', 'righttax' ); single_cat_title(); ?></h1>
+		<div class="section-tit">
+			<h1 class="text-center ff-mj"><?php _e( '회계사 마크칼럼 - ', 'righttax' ); single_cat_title(); ?></h1>
 		</div>
 		<!-- section -->
 		<section class="container column-container">
 
-			<div>
-				<div>
+			<div class="row">
+				<div class="col-md-9">
 					<?php get_template_part('loop-column'); ?>
 					<?php get_template_part('pagination'); ?>
 				</div>
-				<?php /* <div class="col-md-3"><?php get_sidebar(); ?></div> */ ?>
+				<div class="col-md-3"><?php get_sidebar(); ?></div>
 			</div>
 		</section>
 		<!-- /section -->

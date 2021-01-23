@@ -54,13 +54,13 @@
 							신고<span class="hdMB-inb">&nbsp;</span>항목
 						</li>
 						<li onclick="onClickNavList('section3')" class="-notcurrent">
-							<span class="hdMB-inb">기한 및 </span>벌금
+							신고기한 <span class="hdMB-inb">및&nbsp;벌금</span>
 						</li>
 						<li onclick="onClickNavList('section4')" class="-notcurrent">
 							누락신고<span class="hdMB-inb">절차</span>
 						</li>
 						<li onclick="onClickNavList('section5')" class="-notcurrent">
-							FATCA와 비교
+							FBAR<span class="hdMB-inb">&nbsp;</span>전망
 						</li>
 					</ol>
 				</nav>
@@ -71,7 +71,7 @@
 				<!-- 섹션1 -->
 				<section class="guidePart" id="section1">
 					<div class="guideAskWrap">
-						<h2 class="guideAsk text-center">FBAR 신고를 해야 하는 대상은 누구인가요? </h2>
+						<h2 class="guideAsk text-center">FBAR 신고를 해야 하는 <br class="hdPC">대상은 누구인가요? </h2>
 					</div>
 					<section class="iconsWrap">
 						<h3 class="guideTitle">FBAR 신고 자격 요건</h3>
@@ -107,7 +107,7 @@
 						</p>
 					</div>
 					<p class="desc">
-						* FBAR는 나이 및 소득금액과 상관 없습니다.  미성년자도 보고 대상입니다. 예를 들어, 1살인 자녀의 명의로 만든 계좌들의 잔액 합이 1만 달러라면 자녀도 FBAR를 신고해야 합니다.
+						FBAR는 나이 및 소득금액과 상관 없습니다.  미성년자도 보고 대상입니다. 예를 들어, 1살인 자녀의 명의로 만든 계좌들의 잔액 합이 1만 달러라면 자녀도 FBAR를 신고해야 합니다.
 					</p>
 				</section>
 				<!-- /섹션1 -->
@@ -127,7 +127,7 @@
 							<li class="col-sm-6 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-4.png" alt="해외금융계좌 아이콘"/>
 								<span>
-									해외금융계좌(미국내의 계좌는 제외)
+									해외(미국 제외) 모든 금융 계좌
 								</span>
 							</li>
 							<li class="col-sm-6 infoItem">
@@ -198,13 +198,13 @@
 							<li class="col-sm-12 infoItem">
 								<img class="guidesIcon" src="/img/icons/guides/tax-deadline1.png" alt="미국세금신고 기준소득 싱글신고"/>
 								<span>
-									4월 15일까지 제출, 6개월 자동 연장
+									4월 15일까지 제출, <br class="hdPC">6개월 자동 연장
 								</span>
 							</li>
 						</ul>
 					</section>
 					<p class="desc">
-						미국세금 보고 기한과 마찬가지로 4월15일까지 제출해야 하고, 현재는 별다른 연장신청 없이도 6개월 자동연장이 되어 정규 마감일인 4월 15일이 지났더라도 10월15일까지 보고할 수 있습니다.
+						미국세금 보고 기한과 마찬가지로 4월 15일까지 제출해야 하고, 현재는 별다른 연장신청 없이도 6개월 자동연장이 되어 정규 마감일인 4월 15일이 지났더라도 10월 15일까지 보고할 수 있습니다.
 						하지만, 앞으로 언제 IRS가 자동연장 제도를 없앨지 모르니 가능하면 4월 15일까지 보고하시는 것을 권장합니다.
 					</p>
 					<img src="/img/FBAR1-700x589.jpg" alt="" style="width:100%">
@@ -219,8 +219,7 @@
 				<section class="guidePart">
 					<div class="guideAskWrap">
 						<h2 class="guideAsk text-center">
-							FBAR 신고를<br class="hdPC">
-							하지 않았을 경우의<br class="hdPC">
+							FBAR 미 신고시<br class="hdPC">
 							벌금은 얼마인가요?
 						</h2>
 					</div>
@@ -231,7 +230,7 @@
 							<li class="col-sm-12 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미국세금신고 기준소득 싱글신고"/>
 								<span>
-									최소 13,000 불 또는 미보고 누락계좌의  50%
+									최소 13,000 불 또는 <br class="hdPC">미보고 누락계좌의  50%
 								</span>
 							</li>
 						</ul>
@@ -258,7 +257,7 @@
 						</li>
 					</ul>
 					<p class="desc">
-						* 위의 벌금액은 2019년 기준으로써 매년 물가 변동과 연동되어 조정될 수 있습니다.
+						위의 벌금액은 2019년 기준으로써 매년 물가 변동과 연동되어 조정될 수 있습니다.
 					</p>
 					<h4 class="guideSubTitle">
 						처벌의 공소시효
@@ -274,6 +273,8 @@
 						IRS는 기존에 우편으로 접수받았던 FBAR를 2013년부터 의무적으로 인터넷으로 신고하도록 바꿨습니다. 또한 한국과는 2016년 한미 계좌 정보 자동 교환을 시작하여, 한국 금융계좌 정보가 매년 미국으로 보내지고 있습니다. ​
 						이 두가지로써 IRS에서는 한국에 있는 납세자의 금융계좌정보와 신고 내용을 자동으로 비교할 수 있는 시스템을 이미 갖추고 있습니다. ​
 						이를 바탕으로 점점 벌금을 부과하며 신고 제도를 강화해나가고 있습니다.
+					</p>
+					<p class="desc">
 	​					 우리 한인들도 벌금이 부과된 사례가 뉴스에 보도되기도 했는데요. ​2016년 코네티컷 주의 김모씨에게는 징역 6개월과 고의성 벌금 1400만불을 부과하였고, 2018년 뉴욕주에 살고 있는 한인 동포 남모씨에게 한국에 있는 은행계좌 2개를 2년 동안 미신고 한것에 대해 연도별로 1만불 씩 벌금을 부과하였습니다.
 					</p>
 				</section>
@@ -283,10 +284,9 @@
 				<section class="guidePart" id="section4">
 					<div class="guideAskWrap">
 						<h2 class="guideAsk text-center">
-							그동안 FBAR 신고를<br>
-							해야 하는지 몰라서<br class="hdPC">
+							그동안 FBAR 신고를<br class="hdPC">
 							하지 않았는데,<br>
-							어떻게 대처 해야 하나요?
+							어떻게 해야 하나요?
 						</h2>
 					</div>
 					<section class="iconsWrap">
@@ -296,7 +296,7 @@
 							<li class="col-sm-12 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-9.png" alt="미국세금신고 기준소득 싱글신고"/>
 								<span>
-									스트림라인 보고(SFCP: Streamlined Filing Compliance Procedure)
+									스트림라인 보고<br class="hdPC">(SFCP: Streamlined Filing Compliance Procedure)
 								</span>
 							</li>
 						</ul>
@@ -345,7 +345,7 @@
 						</li>
 					</ul>
 					<p class="desc noPad -bottom">
-						미국 거주자의 경우,​<br>
+						미국 거주자의 경우<br>
 					</p>
 					<ul class="guideDescList noPad -top">
 						<li>
@@ -365,9 +365,9 @@
 				<!-- /섹션4 -->
 
 				<!-- 마크 코멘트 -->
-				<section class="markAdviceWrap">
+				<section class="markAdviceWrap" id="section5">
 					<div class="markTitleImg">
-						<h2 class="markTitleText">FBAR, <br>앞으로 어떻게 될까요?</h2>
+						<h2 class="markTitleText">FBAR, <br>앞으로 어떻게 될까?</h2>
 					</div>
 					<h4 class="guideSubTitle">
 						FBAR 처벌을 강화해 온 역사
@@ -400,129 +400,12 @@
 					</p>
 				</section>
 				<!-- 마크 코멘트 -->
-
-				<!-- 섹션5 -->
-				<section class="guidePart" id="section5">
-					<div class="guideAskWrap">
-						<h2 class="guideAsk text-center">
-							FBAR와 FATCA의<br class="hdPC">
-							공통점
-						</h2>
-					</div>
-					<h4 class="guideSubTitle">
-						보고 대상이 동일합니다
-					</h4>
-					<p class="desc noPad -top">
-						두 신고 모두, 미 시민권자/영주권자, 그리고 183일 거주 테스트를 만족하는 세법상 거주자라면 일정 자산 기준을 넘을 경우 보고를 해야됩니다.
-					</p>
-					<h4 class="guideSubTitle">
-						보고 기한이 동일합니다
-					</h4>
-					<p class="desc noPad -top">
-						매년 정규 마감일 4월 15일까지 해야됩니다. 해외(한국)에 거주하는 경우 연장 신청 없이 6월 15일로 자동 연장됩니다.
-					</p>
-					<h4 class="guideSubTitle">
-						목적이 같습니다
-					</h4>
-					<p class="desc noPad -top">
-						두 신고의 목적은 역외탈세(Offshore Tax Evasion) 즉, 세금을 피해 소득이나 자산을 해외로 반출하거나 해외에서 발생한 소득을 신고하지 않는 행위를 막기 위해서입니다. 
-					</p>
-					<h4 class="guideSubTitle">
-						두 신고 제도 모두 정보성 보고입니다
-					</h4>
-					<p class="desc noPad -top">
-						FBAR 신고와 FATCA 신고 모두 정보성 보고(Information Report)로써, 보고의 의무가 있을 뿐 별도로 세금을 부과하지 않습니다.
-					</p>
-					<h4 class="guideSubTitle">
-						보고 대상 중에 공통적인 것들이 존재합니다
-					</h4>
-					<p class="desc noPad -top">
-						FBAR 신고와 FATCA 신고 모두, 미국 계좌를 제외한 모든 해외 금융 계좌 (입/출금 계좌와 예금/적금 계좌)와 현금화할 수 있는 보험(저축성 기능을 가진 보장성 보험 및 해지 환급금을 가진 저축/투자신탁의 기능성 보험 등) 그리고 투자 계좌(주식, 증권, 펀드, 투자신탁, 퇴직연금 계좌 등), 해외 뮤추얼 펀드, 연금 등의 총합을 보고 해야됩니다.(FATCA 신고의 경우 이 이외에 더 추가되는 사항들이 있습니다.)
-					</p>
-					<h4 class="guideSubTitle">
-						비고의적이든 고의적이든 신고를 하지 않았을 경우 벌금이 존재합니다. 
-					</h4>
-					<p class="desc noPad -top">
-						매년 보고를 했으면 아무 문제가 없지만, 보고가 누락되면 고의적, 비고의적인 경우 모두 벌금이 부과됩니다. 비고의적 누락인 경우에도, 벌금이 최고 $10,000이 부과가 되고요, 미 국세청(IRS)에서 먼저 미보고를 발견하여 통지를 보냈음에도 따르지 않을 시에는 추가로 최대 $50,000의 벌금 및 누락한 신고 대상 자산에 대하여 FBAR 신고는 50%, FATCA 신고는 40%의 벌금이 부과됩니다. 
-					</p>
-					<p class="desc">
-						그리고 나중에 한국(해외)의 금융 자산을 미국을 반입시, 자금 출처 규명에 대한 문제가 생길 수 있습니다.
-					</p>
-					
-				</section>
-				<!-- /섹션5 -->
-
-				<!-- 섹션6 -->
-				<section class="guidePart">
-					<div class="guideAskWrap">
-						<h2 class="guideAsk text-center">
-							FBAR와 FATCA의<br class="hdPC">
-							차이점
-						</h2>
-					</div>
-					<h4 class="guideSubTitle">
-						이 두 신고 제도의 생성 시기가 다릅니다
-					</h4>
-					<p class="desc noPad -top">
-						FBAR는 1970년대부터 시작된 오래된 보고인 것과 달리, FATCA는 2010년 제정되어 2013년부터 시행되었습니다. 특히 FATCA 신고를 이해하기 위해서는 FATCA 협정을 먼저 아셔야 하는데, 이 협정의 근본 목적은 납세자의 역외 탈세 방지였습니다.
-						이를 방지하기 위해 미국은 한국을 포함한 여러 나라들과 서로의 해외 금융 계좌 정보를 공유하기로 협정을 맺었는데, 이것이 바로 FATCA 협정입니다. 
-					</p>
-					<p class="desc">
-						그래서 이제는 국가간 물리적인 거리가 있을지라도 양국의 금융계좌정보가 공유된 상태이기 때문에 , 미 국세청(IRS)에서는 한국내의 미국 시민권/영주권자들의 금융 계좌 정보를 다 받아볼 수 있게 되었습니다.
-					</p>
-					<h4 class="guideSubTitle">
-						보고하는 기관이 서로 다릅니다
-					</h4>
-					<p class="desc noPad -top">
-						FBAR 신고는 미 재무부(FinCEN)에 온라인으로 제출을 해야합니다. 반면 FATCA 신고는 미 국세청(IRS)에 매년 해야하는 개인 소득 신고를 할 때, 해당 양식을 함께 첨부하여 보고 해야합니다. 단, 개인 소득 신고의 의무가 없다면, FATCA 신고 의무도 없습니다.
-					</p>
-					<h4 class="guideSubTitle">
-						FATCA 신고가 FBAR 신고의 비해, 보고 범위가 더 넓습니다
-					</h4>
-					<p class="desc noPad -top">
-						FATCA 신고는, FBAR 신고 대상 계좌에는 포함되지 않는 몇가지를 더 보고 해야합니다. 해외 비상장회사의 소유 주식, 해외 파트너십의 소유 주식, 외국 헤지편드, 사모펀드까지도 연중 최고 잔액을 합산하여 보고합니다.
-					</p>
-					<h4 class="guideSubTitle">
-						FBAR 신고와 FATCA 신고 대상의 기준 금액이 다릅니다
-					</h4>
-					<p class="desc noPad -top">
-						FBAR 신고 대상의 기준은, 모든 해외금융계좌의 잔고 합이 1년 중 하루라도 1만불을 넘은 적이 있다면 FBAR 신고를 해야 합니다. 
-						반면, FATCA 신고 대상의 기준 금액은 결혼 상태와 거주지에 따라 아래와 같이 달라지며, 금융계좌의 합이 아래 기준을 넘는다면 FATCA 신고를 해야 합니다.
-					</p>
-					<div class="tableWrap">
-						<table class="sectionTable">
-							<thead>
-								<tr>
-									<th> </th>
-									<th>FATCA 기준금액</th>
-									<th>해외거주(1년에 35일 이하 미국 체류)</th>
-									<th>미국거주(1년에 35일 이상 미국 체류)</th>
-								</tr>
-							</head>
-							<tbody>
-								<tr>
-									<td rowspan="2">싱글 또는 부부개별신고</td><td>연중최고잔액</td><td>$300,000</td><td>$75,000</td>
-								</tr>
-								<tr>
-									<td>연말잔액</td><td>$200,000</td><td>$50,000</td>
-								</tr>
-								<tr>
-									<td class="tfoot" rowspan="2">부부합산신고</td><td>연중최고잔액</td><td>$600,000</td><td>$150,000</td>
-								</tr>
-								<tr>
-									<td>연말잔액</td><td>$400,000</td><td>$100,000</td>
-								</tr>
-							</tbody>
-						</table>
-					
-				</section>
-				<!-- /섹션6 -->
 			</div>
 		</div>
 	</div>
 
 	<!-- OUTRO 섹션 -->
-  <section class="lastWrap container">
+  <!-- <section class="lastWrap container">
 		<h2 class="lastQuote ff-mj">
 			<div class="lastQuoteMark">“</div>
 				미국 세금 보고 만큼은<br>
@@ -532,7 +415,7 @@
 		<p class="lastDesc">
 			이제 미국 시민권/영주권자 그리고 미 세법상 거주자가 소유한 미국 외의 해외 금융 자산 정보를 IRS가 얼마든지 볼 수 있게 되었습니다. 그렇기 때문에 더욱 FBAR 신고에 대한 관심을 갖고, 그동안 몰라서 신고를 안하신 분들은 지금이라도 더 늦기전에 스트림라인드 보고(해외금융계좌 자진신고 간소화 절차)의 경험이 많은 전문가와 함께 이 문제를 해결하시기를 추천해드립니다. 
 		</p>
-	</section>
+	</section> -->
 	<!-- /OUTRO 섹션 -->
 
 	<!-- 하단배너 -->

@@ -6,16 +6,7 @@ if (have_posts()): while (have_posts()) : the_post();
 	<!-- article -->
 	<article id="post-<?php the_ID(); ?>" <?php post_class('column-item'); ?>>
 		<div class="row">
-			<!-- post thumbnail -->
-			<?php if ( $thumbnail_true ) : // Check if thumbnail exists ?>
-			<div class="col-sm-4 col-md-5 thumb-wrap">
-				<div class="thumb-inner">
-					<?php the_post_thumbnail(array(700)); // Declare pixel size you need inside the array ?>
-				</div>
-			</div>
-			<?php endif; ?>
-			<!-- /post thumbnail -->
-			<div class="<?php if($thumbnail_true) { echo 'col-sm-8 col-md-7'; } else { echo 'col-sm-12';} ?>">
+			<div class="<?php if($thumbnail_true) { echo 'col-sm-8'; } else { echo 'col-sm-12';} ?>">
 				<div class="column-content">
 					<!-- post title -->
 					<h2>
@@ -33,6 +24,16 @@ if (have_posts()): while (have_posts()) : the_post();
 					<?php edit_post_link(); ?>
 				</div>
 			</div>
+
+			<!-- post thumbnail -->
+			<?php if ( $thumbnail_true ) : // Check if thumbnail exists ?>
+			<div class="col-sm-4 thumb-wrap hdMB">
+				<div class="thumb-inner">
+					<?php the_post_thumbnail(array(700)); // Declare pixel size you need inside the array ?>
+				</div>
+			</div>
+			<?php endif; ?>
+			<!-- /post thumbnail -->
 		</div>
 
 	</article>

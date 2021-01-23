@@ -26,6 +26,7 @@ get_header(); ?>
 					<span class="date"><?php the_time('Y.m.d.'); ?> <?php the_time('h:i'); ?></span>
 					<span class="author"><?php the_author(); ?></span>
 				</div>
+				<hr class="post-tit-line">
 			</div>
 			<!-- // .post-header -->
 
@@ -50,10 +51,10 @@ get_header(); ?>
 
 			<?php // comments_template(); ?>
 
-				<div class="blog-post-nnp">
-					<?php echo get_the_rts_post_navigation( array(prev_text => '<span>이전글</span> %title', next_text => '<span>다음글</span> %title', screen_reader_text => '칼럼 목록')); ?>
-				</div>
+			
 		</article>
+
+		
 		<!-- /article -->
 
 	<?php endwhile; ?>
@@ -73,6 +74,9 @@ get_header(); ?>
 			<div class=""><?php get_sidebar(); ?></div>
 		</div>
 	</section>
+	<div class="blog-post-nnp container">
+		<?php echo get_the_rts_post_navigation( array(prev_text => '<span>이전글</span> %title', next_text => '<span>다음글</span> %title', screen_reader_text => '칼럼 목록')); ?>
+	</div>
 	<!-- /section -->
 	</main>
 
