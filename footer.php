@@ -13,7 +13,7 @@
 							솔루션을 연구하여<br>
 							안전하고 편안하게 상담해드리겠습니다.<br>
 					</div>
-					<a class="middle-btn">
+					<a href="/contact-us/" class="middle-btn">
 						지금 상담 신청하기
 						<img class="middle-btn-arr" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
 					</a>
@@ -26,12 +26,12 @@
 				<div class="container">
 					<div class="foot-icon-wrap">
 						<div class="foot-icon-text">
-							<img src="/img/icons/footer-icon-talk-mb.png" alt="카카오톡 아이콘">
-							<p class="icon-text">카카오톡 상담</p>
+							<a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noopener"><img src="/img/icons/footer-icon-talk-mb.png" alt="카카오톡 아이콘"></a>
+							<a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noopener" class="icon-text">카카오톡 상담</a>
 						</div>
 						<div class="foot-icon-text">
-							<img src="/img/icons/footer-icon-blog-mb.png" alt="카카오톡 아이콘">
-							<p class="icon-text">마크강 블로그</p>
+							<a href="https://blog.naver.com/righttaxservice" target="_blank" rel="noopener"><img src="/img/icons/footer-icon-blog-mb.png" alt="카카오톡 아이콘"></a>
+							<a href="https://blog.naver.com/righttaxservice" target="_blank" rel="noopener" class="icon-text">마크강 블로그</a>
 						</div>
 					</div>
 

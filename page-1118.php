@@ -1,4 +1,10 @@
-<?php get_header(); ?>
+<?php get_header(); 
+	/*
+	서비스 - 개인세금신고 페이지
+	http://localhost/rs-tax-filing-service
+	*/
+
+?>
 
 	<!-- 헤더 -->
 	<div class="serviceTopSect">
@@ -198,7 +204,7 @@
 				금융자산 신고 Q&A
 			</h2>
 			<p class="qnaText">
-				<a href="">
+				<a href="/guides-personal-tax/#tempQ1Point">
 					Q. 소득세 신고 기한과 벌금은?
 				</a><br>
 				<a href="">

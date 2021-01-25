@@ -157,7 +157,7 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .footer .foot-icon-wrap {display: flex; justify-content: center; text-align: center; padding-bottom: 100px;}
 .footer .foot-icon-wrap .foot-icon-text {padding:0 35px;}
 /* .footer .foot-icon-wrap span {padding: 0 32px} */
-.footer .foot-icon-wrap .icon-text {font-size:12px; padding-top: 12px;}
+.footer .foot-icon-wrap .icon-text {font-size:12px; padding-top: 12px; display:block;}
 .footer .foot-item {text-align:center;}
 .footer .foot-item > a {display:inline-block;}
 .footer .foot-contact {display:block;width:65px;height:65px;margin:0 auto 10px;background:#6d6e71 url(/img/icons/footer-contact-sprite.png) no-repeat;background-size:130px;border-radius:50px;transition:background 0.2s;}

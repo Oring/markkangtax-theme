@@ -1,4 +1,9 @@
-<?php get_header(); ?>
+<?php get_header(); 
+	/*
+	가이드 - 스트림라인드
+	http://localhost/guide-streamlined-procedures
+	*/
+?>
 
 	<script src="<?php echo get_template_directory_uri(); ?>/js/followingNav.js"></script>
 
