@@ -5,7 +5,7 @@
 	<div class="main-sect-inner container">
     <h1 class="ff-mj">
       완벽한 절세,<br class="hdPC">
-      확실한 벌금사면
+      확실한 벌금 사면
     </h1>
     <h2>
       프리미엄 미국세금신고 [마크강택스]
@@ -64,7 +64,7 @@
     </p>
     <p>
       철저한 원칙에 입각한<br class="hdPC">
-      완벽한 개인세금보고 서비스
+      완벽한 개인 세금보고 서비스
     </p>
   </div>
   <div class="service-box -first">
@@ -72,7 +72,7 @@
       <div>
         <span class="hdPC">'완벽한 절세'를 위한</span>
         <div class="text-icon-wrap">
-        <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인세금보고</span>
+        <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인 세금보고</span>
           <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
         </div>
       </div>
@@ -111,7 +111,7 @@
       </span>
       <span class="inner-text col-sm-8">
         <div class="inner-inner">
-          <a>개인세금신고 총정리</a>
+          <a>개인 세금신고 총정리</a>
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">
@@ -127,11 +127,11 @@
       </span>
       <span class="inner-text col-sm-8">
         <div class="inner-inner">
-          <a>FBAR 해외금융계좌신고</a>
+          <a>FBAR 해외 금융 계좌 신고</a>
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">
-          일년 중 어느 하루라도 본인 명의의 모든 계좌의 잔액 총합이 $10,000을 넘었다면, 한국 혹은 해외에 보유한 금융 자산을 미 재무부(FinCEN)에 온라인으로 제출해야 합니다.
+          일 년 중 어느 하루라도 본인 명의의 모든 계좌의 잔액 총합이 $10,000을 넘었다면, 한국 혹은 해외에 보유한 금융 자산을 미 재무부(FinCEN)에 온라인으로 제출해야 합니다.
         </p>
       </span>
     </div>
@@ -163,7 +163,7 @@
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">
-          만약 IRS에 미처 보고하지 못했다면 해외자산 자진신고 간소화 절차를 통해 그 동안의 누락된 신고들을 한 번에 처리할 수 있습니다. 
+          만약 IRS에 미처 보고하지 못했다면 해외자산 자진신고 간소화 절차를 통해 그동안의 누락된 신고들을 한 번에 처리할 수 있습니다. 
         </p>
       </span>
     </div>
