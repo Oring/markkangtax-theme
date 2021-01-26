@@ -37,10 +37,10 @@
 			</div>
 
 			<p class="topDesc">
-				FBAR와 닮은 것 같지만 또 다른 보고 의무가 있는데요, 바로 <a rel="noreferrer noopener" aria-label="FATCA 해외계좌 신고법 (새탭으로 열기)" href="https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca" target="_blank" style="text-decoration: underline;">FATCA</a>라고 하는 해외계좌신고법(Foreign Account Tax Compliance Act)입니다. FATCA 신고는 FBAR 신고처럼 정보성 보고(Information Report)로써, 한국이나 해외에 보유하고 있는 모든 금융계좌 정보와 자산을 미국에 보고 해야한다는 점에서, FBAR 신고와 비슷합니다. 
+				FBAR와 닮은 것 같지만 또 다른 보고 의무가 있는데요, 바로 <a rel="noreferrer noopener" aria-label="FATCA 해외계좌 신고법 (새탭으로 열기)" href="https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca" target="_blank" style="text-decoration: underline;">FATCA</a>라고 하는 해외계좌 신고법(Foreign Account Tax Compliance Act)입니다. FATCA 신고는 FBAR 신고처럼 정보성 보고(Information Report)로써, 한국이나 해외에 보유하고 있는 모든 금융 계좌 정보와 자산을 미국에 보고 해야 한다는 점에서, FBAR 신고와 비슷합니다. 
 			</p>
 			<p class="topDesc">
-				FATCA는 FBAR와 더불어 보유하고 있는 모든 해외계좌들의 정보와 연중 최고 잔액을 IRS에 보고하는데, 금융계좌에 한해서 보고하는 FBAR와 달리 보고의 범위가 더 넓습니다. 그래서 Super FBAR 라는 별칭이 있는데요. 따라서, 본인이 <a href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline;">FBAR 신고 대상자</a>가 아니시더라도, FATCA 신고 대상자이실 경우도 있으니, 이 글을 끝까지 잘 읽어보시고, 본인께서 대상자이신지 판단하시면 되겠습니다
+				FATCA는 FBAR와 더불어 보유하고 있는 모든 해외계좌들의 정보와 연중 최고 잔액을 IRS에 보고하는데, 금융 계좌에 한해서 보고하는 FBAR와 달리 보고의 범위가 더 넓습니다. 그래서 Super FBAR라는 별칭이 있는데요. 따라서, 본인이 <a href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline;">FBAR 신고 대상자</a>가 아니시더라도, FATCA 신고 대상자이실 경우도 있으니, 이 글을 끝까지 잘 읽어보시고, 본인께서 대상자이신지 판단하시면 되겠습니다
 			</p>
 	</section>
 	<!-- /INTRO 섹션 -->
@@ -105,7 +105,7 @@
 						세금 보고 대상자와 동일한 미국 시민권자/영주권자/<a rel="noreferrer noopener" aria-label="(opens in a new tab)183일 거주 테스트" href="https://righttaxservice.com/%eb%af%b8%ea%b5%ad-%ec%84%b8%ea%b8%88-%eb%b3%b4%ea%b3%a0-%ec%9d%98%eb%ac%b4-%eb%8c%80%ec%83%81%ec%9e%90/" target="_blank" style="text-decoration: underline;">183일 거주 테스트</a>를 통과한 세법상 거주자입니다. 
 					</p>
 					<p class="desc">
-						하지만 만약 FATCA를 보고해야하는 자산 기준액을 넘어서 보고 대상자에 해당하지만, IRS에 신고할 소득이 없거나 소득금액이 일정액 미만이어서 소득세 신고 의무가 없다면 FATCA보고를 할 필요는 없습니다.
+						하지만 만약 FATCA를 보고해야 하는 자산 기준액을 넘어서 보고 대상자에 해당하지만, IRS에 신고할 소득이 없거나 소득 금액이 일정액 미만이어서 소득세 신고 의무가 없다면 FATCA 보고를 할 필요는 없습니다.
 					</p>
 				</section>
 				<!-- /섹션1 -->
@@ -133,14 +133,14 @@
 						</ul>
 					</section>
 					<h4 class="guideSubTitle">
-						거주지와 결혼여부에 따라 다른 세금 신고 유형
+						거주지와 결혼 여부에 따라 다른 세금 신고 유형
 					</h4>
 					<p class="desc noPad -top">
-						FATCA 대상 기준 총 자산금액을 살펴보면, 거주지와 결혼여부에 따른 세금 신고 유형에 따라서 한도액이 다릅니다.
-						미국에 거주하는 미국 납세 의무자가 싱글(Single Status) 로 세금 보고를 할 경우, 해외 금융자산의 총액이 과세 연도 중에 한번이라도 $75,000을 초과했거나 연말 기준으로 해외 금융자산 총액이 $50,000을 초과하면 FATCA 대상이 됩니다.
+						FATCA 대상 기준 총자산금액을 살펴보면, 거주지와 결혼 여부에 따른 세금 신고 유형에 따라서 한도액이 다릅니다.
+						미국에 거주하는 미국 납세 의무자가 싱글(Single Status)로 세금 보고를 할 경우, 해외 금융자산의 총액이 과세 연도 중에 한 번이라도 $75,000을 초과했거나 연말 기준으로 해외 금융자산 총액이 $50,000을 초과하면 FATCA 대상이 됩니다.
 					</p>
 					<p class="desc">
-						그리고 부부 합산 신고(Married Filing Jointly Status)로 세금 보고를 할 경우, 해외 금융자산의 총액이 과세 연도 중 한번이라도 $150,000을 초과했거나 연말 기준으로 $100,000을 초과하면 FATCA 대상자입니다.
+						그리고 부부 합산 신고(Married Filing Jointly Status)로 세금 보고를 할 경우, 해외 금융자산의 총액이 과세 연도 중 한 번이라도 $150,000을 초과했거나 연말 기준으로 $100,000을 초과하면 FATCA 대상자입니다.
 						반면, 해외에 거주하는 미국 납세 의무자는 싱글 신고일 경우, 해외 금융자산 총액이 연중 하루라도 자산 총액이 $300,000을 초과했거나 연말 기준으로 $200,000을 초과하면 보고 대상입니다.
 						그리고 해외에 거주하며 부부합산 신고로 세금 보고를 한다면, 금융자산 총액이 과세 연도에 하루라도 $600,000을 초과하거나 연말 기준으로 $400,000을 초과한 경우에 FATCA 대상자입니다.					</p>
 					<div class="tableWrap">
@@ -173,7 +173,7 @@
 						FATCA 보고 예외
 					</h4>
 					<p class="desc noPad -top">
-						만약 해외금융자산을 아래와 같이 다른 양식에 보고할 경우에는 굳이 FATCA 양식 8938에 중복으로 작성할 필요는 없습니다.
+						만약 해외 금융자산을 아래와 같이 다른 양식에 보고할 경우에는 굳이 FATCA 양식 8938에 중복으로 작성할 필요는 없습니다.
 						<ul class="guideDescList">
 							<li>양식 3520이나 3520-A에 보고된 신탁(trust)과 해외에서 받은 상속(foreign gift)</li>
 							<li>양식 5471에 보고된 해외 법인</li>
@@ -204,7 +204,7 @@
 								</ul>
 							</section>
 							<p class="desc">
-								FBAR 신고와 마찬가지로, FATCA  보고 역시 정보성 신고(Information Report) 이기에, 따로 세금이  부과 되지 않지만, 신고를 이행하지 않을시 벌금이 최고 $10,000 이 부과 될수 있습니다. IRS가 먼저 미보고를 발견하여 통지를 보냈음에도 따르지 않을 시에는 추가로 최대 $50,000의 벌금 및 누락한 신고대상 자산에 대하여 40%의 벌금이 부과됩니다. 단, 미보고에 대한 타당한 사유가 있으면 벌금이 부과되지 않습니다.
+								FBAR 신고와 마찬가지로, FATCA  보고 역시 정보성 신고(Information Report) 이기에, 따로 세금이 부과되지 않지만, 신고를 이행하지 않을 시 벌금이 최고 $10,000 이 부과될 수 있습니다. IRS가 먼저 미보고를 발견하여 통지를 보냈음에도 따르지 않을 시에는 추가로 최대 $50,000의 벌금 및 누락한 신고 대상 자산에 대하여 40%의 벌금이 부과됩니다. 단, 미보고에 대한 타당한 사유가 있으면 벌금이 부과되지 않습니다.
 								FATCA의 공소시효는 세금보고의 공소시효를 따릅니다. 즉, 경미한 소득 및 세금이 누락되었을 때는 3년, $5000을 초과한 소득이 누락되었다면 6년까지 공소시효가 늘어납니다.
 							</p>
 				</section>
@@ -255,14 +255,14 @@
 						</ul>
 					</section>
 					<p class="desc noPad -top">
-						FATCA 신고 대상에 속하는 해외 자산은, FBAR 처럼 해외 금융 계좌의 정보와 연중 최고 잔액, 그리고  금융기관 정보 등을 보고 해야합니다. 뿐만 아니라 FBAR 에는 보고하지 않으나 FATCA 에는 보고 해야하는 해외 자산이 있습니다. 본인이 어느 해외법인의 지분(10% 이하)을 소유했다면 해당 지분의 가액을 법인 정보와 함께 보고해야합니다. 그리고 해외 파트너십의 지분, 해외 헤지펀드나 사모펀드 등도 FATCA 신고 대상에 속하는 자산입니다. 
+						FATCA 신고 대상에 속하는 해외 자산은, FBAR 처럼 해외 금융 계좌의 정보와 연중 최고 잔액, 그리고  금융기관 정보 등을 보고 해야 합니다. 그뿐만 아니라 FBAR에는 보고하지 않으나 FATCA에는 보고 해야 하는 해외 자산이 있습니다. 본인이 어느 해외법인의 지분(10% 이하)을 소유했다면 해당 지분의 가액을 법인 정보와 함께 보고해야 합니다. 그리고 해외 파트너십의 지분, 해외 헤지펀드나 사모펀드 등도 FATCA 신고 대상에 속하는 자산입니다. 
 					</p>
 					<p class="desc">
 					<a rel="noreferrer noopener" aria-label="양식 8938 (새탭으로 열기)" href="https://www.irs.gov/pub/irs-pdf/f8938.pdf" target="_blank" style="text-decoration: underline;">양식 8938</a>에 각 계좌 및 소유 지분에 관한 정보 및 금액을 기입하며, 그에 따라 필요한 내용은 다음과 같습니다.<br>
 					</p>
 					<div class="greyBox -dense">
 						<p class="greyBoxText">
-							계좌 유형, 계좌 번호, 과세연도에 계좌 개설/폐쇄 여부, 과세연도의 계좌 최고 잔액, 주식/지분 등의 보유 내용, 적용 환율, 금융 기관의 이름 및 주소 등 
+							계좌 유형, 계좌 번호, 과세 연도에 계좌 개설/폐쇄 여부, 과세 연도의 계좌 최고 잔액, 주식/지분 등의 보유 내용, 적용 환율, 금융 기관의 이름 및 주소 등 
 						</p>
 					</div>
 				</section>
@@ -288,15 +288,15 @@
 							<li class="col-sm-12 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-11.png" alt="FATCA 아이콘"/>
 								<span>
-									FATCA: 해외금융계좌와 더불어 금융계좌에 포함되지 않은 비상장 회사의 지분까지 보고 대상
+									FATCA: 해외금융계좌와 더불어 금융 계좌에 포함되지 않은 비상장 회사의 지분까지 보고 대상
 								</span>
 							</li>
 						</ul>
 					</section>
 					<p class="desc">
-						흔히 FATCA와 FBAR를 헷갈려 하시는 분들이 많으신데, 둘 다 해외금융자산을 보고하지만 아래와 같이 그 범위가 다릅니다.
-						간단히 말해 해외금융계좌에 한해 FBAR 보고를 하는 반면, FATCA는 해외금융계좌와 더불어 금융계좌에 포함되지 않은 비상장 회사의 지분까지 보고 대상입니다.
-						단, 여전히 해외에 소유한 임대 주택이나 개인 주택등의 부동산은보고 대상이 아닙니다.
+						흔히 FATCA와 FBAR를 헷갈려 하시는 분들이 많으신데, 둘 다 해외 금융자산을 보고하지만 아래와 같이 그 범위가 다릅니다.
+						간단히 말해 해외 금융 계좌에 한해 FBAR 보고를 하는 반면, FATCA는 해외 금융 계좌와 더불어 금융 계좌에 포함되지 않은 비상장 회사의 지분까지 보고 대상입니다.
+						단, 여전히 해외에 소유한 임대 주택이나 개인 주택 등의 부동산은 보고 대상이 아닙니다.
 					</p>
 
 					<h4 class="guideSubTitle">
@@ -313,7 +313,7 @@
 								<tr><td>해외금융계좌</td><td>YES</td><td>YES</td></tr>
 								<tr><td>미국금융기관의 해외지점 계좌</td><td>NO</td><td>YES</td></tr>
 								<tr><td>해외금융기관의 미국지점 계좌</td><td>NO</td><td>NO</td></tr>
-								<tr><td>공동서명권한이 있는 계좌</td><td>지분이 있을 때만 보고</td><td>YES</td></tr>
+								<tr><td>공동서명 권한이 있는 계좌</td><td>지분이 있을 때만 보고</td><td>YES</td></tr>
 								<tr><td>해외 증권관련계좌에 보관되지 않은 해외주식(비상장회사), 증권</td><td>YES</td><td>NO</td></tr>
 								<tr><td>해외 주식회사나 파트너십의 지분</td><td>YES</td><td>NO</td></tr>
 								<tr><td>50% 초과 지분을 소유한 기업의 금융 계좌</td><td>NO</td><td>YES (50%이상의 지분 있다면)</td></tr>
@@ -337,7 +337,7 @@
 						<h2 class="markTitleText">FATCA, <br>철저한 준비와 보고는 필수입니다</h2>
 					</div>
 					<p class="desc">
-						이제는 금융 정보도 세계화가 되어, 한미FATCA 협정 이후에, 각국의 납세자의 금융정보를 서로의 금융기관에 정기적으로 보고를 하게 되었습니다. 그렇기에, 혹시나 본인께서 보고를 제때 하지 않아서 오게 되는 추후의 불이익(벌금과 미국 체납자라는 낙인, 그리고 미국 입국후 출국시 출국 금지 제한 등등)들을 겪지 않게 하기 위해서라도 보고는 꼭 제때에 하시길 바랍니다. 
+						이제는 금융 정보도 세계화가 되어, 한미 FATCA 협정 이후에, 각국의 납세자의 금융 정보를 서로의 금융기관에 정기적으로 보고를 하게 되었습니다. 그렇기에, 혹시나 본인께서 보고를 제때 하지 않아서 오게 되는 추후의 불이익(벌금과 미국 체납자라는 낙인, 그리고 미국 입국 후 출국 시 출국 금지 제한 등등)들을 겪지 않게 하기 위해서라도 보고는 꼭 제때에 하시길 바랍니다. 
 						과거의 누락된 FATCA는 IRS의 자진신고 프로그램인 <a href="https://righttaxservice.com/irs-tax-filing-streamlined-procedures/" style="text-decoration: underline;">Streamlined Procedures 프로그램</a>을 통해 소득보고 3년과 FBAR 보고 6년을 제출하여 청산할 수 있습니다.
 					</p>
 					<p class="desc">

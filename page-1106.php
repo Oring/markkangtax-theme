@@ -150,7 +150,7 @@
 							<li class="col-sm-6 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-2.png" alt="공동서명권한 아이콘"/>
 								<span>
-									공동 서명권한이 있는 계좌
+									공동 서명 권한이 있는 계좌
 								</span>
 							</li>
 							<li class="col-sm-6 infoItem">

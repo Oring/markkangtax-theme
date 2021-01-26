@@ -788,7 +788,10 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .notice-post-nnp .nav-links>div.nav-next,.blog-post-nnp .nav-links>div.nav-next {border-bottom:1px solid #e0e0e0;}
 .notice-post-nnp .nav-links>div>a>span,.blog-post-nnp .nav-links>div>a>span {color:#3c92ca;}
 @media(min-width:768px){
-	.blog-post-nnp {margin: 30px auto; width:1170px; padding-left:0; padding-right:0;}
+	.blog-post-nnp {margin: 30px auto; padding-left:0; padding-right:0;}
+	.blog-post-nnp .prevNextTitle {font-size: 36px; font-weight: bold; margin-top: 10px;}
+	.blog-post-nnp .prevWrap, .blog-post-nnp .nextWrap {background-color:#fff; margin-top:24px; padding: 66px 77px 66px 77px; display: flex;}
+	.blog-post-nnp .prevWrap .left-content .left-title {font-size: 30px; font-weight: bold;}
 	.archive-notice {margin-bottom:110px;}
 	.notice-wrap {margin-bottom:60px;}
 	.notice-wrap .notice-item {padding:25px 0;}

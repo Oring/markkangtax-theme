@@ -74,9 +74,39 @@ get_header(); ?>
 			<div class=""><?php get_sidebar(); ?></div>
 		</div>
 	</section>
+	<?php /*
 	<div class="blog-post-nnp container">
 		<?php echo get_the_rts_post_navigation( array(prev_text => '<span>이전글</span> %title', next_text => '<span>다음글</span> %title', screen_reader_text => '칼럼 목록')); ?>
 	</div>
+	*/ ?>
+		
+		<div class="blog-post-nnp container">
+			<h2 class="prevNextTitle">컬럼목록</h2>
+			<?php
+				$prev_post = get_previous_post();
+				$next_post = get_next_post();
+
+				add_filter('excerpt_length', 'rtswp_index');
+
+				if (!empty( $prev_post )): ?>
+					<div class="prevWrap">
+						<div class="left-content">
+							<div class="left-title"><?php echo esc_attr( $prev_post->post_title); ?></div>
+							<div class="left-desc"><?php echo get_the_excerpt($prev_post->ID); ?></div>	
+						</div>
+						<div class="right-img"><?php echo get_the_post_thumbnail( $prev_post->ID, 'thumbnail' ); ?></div>
+					</div>
+				<?php endif;
+				if (!empty( $next_post )): ?>
+					<div class="nextWrap">
+						<div>
+							<div><?php echo esc_attr( $next_post->post_title ); ?></div>
+							<div><?php echo get_the_excerpt($next_post->ID); ?></div>	
+						</div>
+						<div><?php echo get_the_post_thumbnail( $next_post->ID, 'thumbnail' ); ?></div>
+					</div>
+			<?php endif; ?>
+		</div>
 	<!-- /section -->
 	</main>
 
