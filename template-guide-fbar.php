@@ -302,7 +302,7 @@ get_header();
 							<li class="col-sm-12 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-9.png" alt="미국세금신고 기준소득 싱글신고"/>
 								<span>
-									스트림라인 보고<br class="hdPC">(SFCP: Streamlined Filing Compliance Procedure)
+									스트림라인드 보고<br class="hdPC">(SFCP: Streamlined Filing Compliance Procedure)
 								</span>
 							</li>
 						</ul>
