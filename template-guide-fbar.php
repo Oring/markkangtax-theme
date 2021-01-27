@@ -1,8 +1,9 @@
-<?php get_header(); 
-	/*
-	가이드 - FBAR
-	http://localhost/fbar-해외금융계좌보고/
-	*/
+<?php
+/*
+Template Name: 가이드 - FBAR
+http://localhost/fbar-해외금융계좌보고/
+*/
+get_header(); 
 ?>
 
 	<script src="<?php echo get_template_directory_uri(); ?>/js/followingNav.js"></script>

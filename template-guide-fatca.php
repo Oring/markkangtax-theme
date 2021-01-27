@@ -1,8 +1,10 @@
-<?php get_header(); 
-	/*
-	가이드 - FATCA
-	http://localhost/fatca-해외금융자산보고/
-	*/
+<?php
+/*
+Template Name: 가이드 - FATCA
+http://localhost/fatca-해외금융자산보고/
+*/
+
+get_header(); 
 
 ?>
 

@@ -1,27 +1,28 @@
-<?php get_header(); 
-	/*
-	서비스 - 스트림라인드
-	http://localhost/irs-tax-filing-streamlined-procedures/
-	*/
-	
+<?php
+/*
+Template Name: 서비스 - 개인세금신고 페이지
+http://localhost/rs-tax-filing-service
+*/
+get_header(); 
+
 ?>
 
 	<!-- 헤더 -->
 	<div class="serviceTopSect">
 		<div class="sub-sect-top">
 			<div class="sub-sect-inner">
-				<p>Perfect Safe<br><span>#Streamlined Procedures</span></p>
+				<p>Perfect Save<br><span>#소득신고 #FBAR #FATCA</span></p>
 			</div>
 		</div>
 	</div>
 	<!-- /헤더 -->
 
- <article>
+	<article>
 	<!-- INTRO 섹션 -->
   <section class="topSection container">
 		<div class="topTitleWrap">
 			<h1 class="topTitle text-center">
-				100% 벌금 사면, 밀린 세금신고 
+				‘완벽한 절세’를 위한 <br class="hdPC"><span style="font-weight:900;">개인 세금 신고 서비스</span>
 			</h1>
 			<hr class="topTitleUnderLine">
 		</div>
@@ -33,17 +34,16 @@
 			<div class="titleRight">
 				<div class="quoteMark ff-mj">“</div>
 				<h2 class="titleTitleText ff-mj">
-					수년간의 세금을 한번에 보고하는  <br>
-					Streamlined Procedures, <br>
-					경험이 많은 전문가에게 맡기셔야 합니다 <br>
+					똑같은 세금 신고, <br class="hdPC">
+					어떻게 준비하느냐에 따라 <br>
+					세금혜택이 천차만별입니다. <br>
 				</h2>
 				<img class="insertImg hdPC" src="/img/service-top-insert01-mb.jpg" alt="">
 				<p class="titleDescText">
-					미 국세청 IRS의 세금 보고 및 해외 금융 계좌 보고 절차는 매우 까다롭습니다. <br class="hdMB-inb">
-					준비해야 할 서류가 많고 항목도 복잡하게 되어 있어 개인이 신고를 하기에는 어려움이 많으며, <br class="hdMB-inb">
-					신고해야 할 항목을 제대로 이해하지 못해 빠뜨리는 경우도 많습니다. <br class="hdMB-inb">
-					아무 문제 없이 벌금 및 형사 처벌을 면제받기 위해서는 Streamlined Procedures의 경험이 풍부한 회계사의 도움이 필요합니다. <br class="hdMB-inb">
-					만약 지금까지 신고 대상이 아니라고 판단하시어 아직 해외 금융 계좌 보고를 하지 않으셨다면 Mark Kang Tax와 지금 바로 시작하세요
+					미국 세금 보고는 사전에 어떻게 준비하고 대응하느냐에 따라 혜택이 천차만별입니다. <br class="hdMB-inb">
+					그래서 나에게 가장 많은 혜택을 주는 길로 안내할 가이드를 만나는 것이 가장 중요합니다.<br class="hdMB-inb">
+					철저하고 꼼꼼한 서류 준비와 세법 연구를 통한 절세 혜택을 통해 <br class="hdMB-inb">
+					고객님의 자산을 지켜드릴 수 있는 Mark Kang Tax의 서비스를 만나보세요.
 				</p>
 			</div>
 		</div>
@@ -53,22 +53,26 @@
 	<!-- 절세 사례 -->
 	<section class="serviceCaseWrap container">
 		<div class="serviceCaseBox">
-			<h3 class="caseBoxSubTit">CASE#1 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
+			<h3 class="caseBoxSubTit">CASE#1 절세사례</h3>
 			<div class="caseBoxRight">
-				<h4 class="caseBoxTit">한국금융계좌 신고하지 않아 <br class="hdPC">벌금 2만달러 부과</h4>
+				<h4 class="caseBoxTit">“세금을 많이 낼 줄 알았는데 <br class="hdPC"> 오히려 환급을 받았어요”</h4>
 				<p class="caseBoxText">
-					롱아일랜드에 거주하는 한인 남 모씨는 한국의 금융계좌 2곳에 예치했던 200여만 달러를 미 금융당국에 신고하지 않았습니다.  지난 2009년 2개의 금융기관 잔고가 46만에 달했지만, 2010년 6월 30일까지 이를 연방재무부에 신고하지 않아 1만 4,813달러의 벌금을 부과받았습니다. 또 2010년에도 잔고가 151만원에 달했지만 2011년 6월 30일까지 이를 신고하지 않아 벌금 2만 달러를 부과받았습니다.
+					지금까지 지인을 통해 세금 보고를 했습니다. 그러다가 저와 비슷한 상황을 가진 친구로부터 환급을 받는다는 말을 듣고 전문가에게 맡겨보고자 했습니다. 세법에 문외한 터라, 제가 간과하고 있던 부분을 회계사님께 진단받아 제대로 수정보고를 할 수 있었습니다. 덕분에 지난 2년간의 환급액을 늦게라도 받을 수 있어서 정말 다행이었습니다. 어떻게 해서 환급이 안되었지 제가 이해할 수 있게 설명도 주셔서 감사했습니다.  
+					<br>- 한○○ 고객님의 후기 中
 				</p>
 			</div>
 		</div>
 		<div class="serviceCaseBox">
-			<h3 class="caseBoxSubTit">CASE#2 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
+			<h3 class="caseBoxSubTit">CASE#2 절세사례</h3>
 			<div class="caseBoxRight">
 				<h4 class="caseBoxTit">
-					스위스 계좌 미신고, <br class="hdPC">40,000불 부과
+					“작년에 혼자 신고할 때보다<br class="hdPC">
+					많이 절세할 수 있었습니다”
 				</h4>
 				<p class="caseBoxText">
-					Moore씨는 스위스 계좌에 30만불 이상의 금액을 가지고 있었는데 이에 관해 해외 금융 계좌 보고 및 해외 소득 보고를 2009년까지 하지 않았습니다. 그 이후에 해외 금융 계좌 보고 및 해외 소득 보고에 관한 의무에 대해 알게 되고, 2003년부터 2008년까지의 수정 세금 보고와 해외 금융 계좌 보고(FBAR)를 하였습니다. 그리고, 2009년부터는 제대로 보고하였으나, 2011년에 미국 국세청은 Moore씨에게 비고의성으로 인해 2005~2008년의 해외 금융 계좌 보고를 하지 않은 것에 대해 벌금 40,000 불을 부과합니다.
+					혼자 세금 보고를 했었는데, 다양한 옵션이 잘 이해되지 않았고 나중에 불이익이 생기지 않을까 불안했었습니다. 한국/미국 세금이너무 복잡해서 갑갑하던 차에 회계사님과 통화를 하였고, 먼저 계산해보시기도 전에 몇 가지 가능성을 제시하여 주셨습니다.  차분한 목소리도 믿음이 갔지만, 저희 세금 케이스에 대해 자세히 가능성을 설명해주셔서, 안도의 한숨을 쉴수있었습니다. 절세할 수있다는 사실도 기뻤고, 앞으로 혼자 복잡한세금으로 고민을 하지 않아도 된다는 사실에 너무나 든든해졌습니다.
+					제가 혼자 계산했을때 저희 부부 합쳐서 세금 낼 금액만 5000불 정도 였던것으로 기억합니다. 회계사께서 도와주신 덕분에 결과적으로 저희 가계는 10000불 가까이 절세하게 되었습니다!
+					<br>- 성○○  고객님의 후기 中
 				</p>
 			</div>
 		</div>
@@ -79,13 +83,15 @@
 	<section class="serviceSystemWrap container noPad -bottom">
 		<div class="serviceSystemIntro">
 			<h2 class="systemTitle text-center">
-				100% 벌금사면 Perfect Safe<br>
+				완벽한 절세 Perfect Save<br>
 				원칙과 시스템
 			</h2>
-			<img class="systemTalkImg" src="/img/service-streamlined-intro01-pc.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
+			<img class="systemTalkImg hdPC" src="/img/service-personal-intro01-mb.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
+			<img class="systemTalkImg hdMB-inb" src="/img/service-personal-intro01-pc.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
 			<p class="systemText">
-				수백 건 이상의 케이스 중 <br class="hdPC">100% 벌금 사면에 성공하였습니다. <br>
-				이러한 노하우를 통해 고객님의 상황에 대한 정확한 진단 및 맞춤 서비스를 제공합니다. 
+				회계서비스를 이용하시는 고객님들이
+				불안해하지 않고 최고의 혜택을 누리실 수 있도록 <br class="hdMB-inb">
+				철저한 원칙에 입각한 체계적인 시스템으로 세금보고를 진행합니다.
 			</p>
 		</div>
 
@@ -94,36 +100,26 @@
 			<hr class="line-bold hdMB">
 			<div class="innerWrap">
 				<div class="innerLeft">
-					<img class="scenarioIcon" src="/img/icons/service-streamlinedl-scenario01.png" alt="벌금사면 아이콘">
-					<h3 class="scenarioTitle">100% <br>벌금사면</h3>
+					<img class="scenarioIcon" src="/img/icons/service-personal-scenario01.png" alt="완벽한절세 아이콘">
+					<h3 class="scenarioTitle">완벽한 절세</h3>
 				</div>
 				<div class="innerRight">
 					<hr class="line-bold hdPC">
 					<div class="titleTextWrap noPad -top">
 						<h4 class="systemTitle">
-							현직 변호사가 벌금사면 사유서 직접 작성
+							완벽한 절세 시나리오
 						</h4>
 						<p class="systemText">
-							그동안 신고를 못한 이유에 고의성이 없다는 것을 증명해야 합니다. 이를 설명하기 위해 어떻게 하여 지금까지 신고를 하지 않았는지에 대한 정당한 사유를 양식(14653 또는 14654)에 작성합니다.<br>
-							IRS는 이 사유서만큼은 꼭 리뷰를 하겠다고 발표를 하였고, 사유가 충분하지 않을 경우, 감사 및 벌금 부과를 할 수도 있다고 발표하였습니다. 따라서 사유서를 잘 작성하는 것이 매우 중요합니다.
-							<br><br>
-							Mark Kang Tax에서는 현직 변호사가 직접 사유서를 작성합니다. 기존의 것을 재사용하거나 조금씩만 수정해서 쓰는 사유서가 아닙니다. 현직 미국 변호사가 직접 고객님의 상황에 맞게 사유서를 작성하고 있기에 안심하실 수 있습니다. 
+							RTS는 자체적으로 보유한 절세 시나리오 4가지를 통해 현재 고객 상황에 가장 적합한 절세 방안을 연구합니다. 세법을 많이 알수록 혜택도 늘어납니다. 같은 조건의 사람도 어떻게 보고를 하느냐에 따라 세금을 환급받을 수도 있고, 세금을 납부하게 될 수도 있습니다. 그 차이는 꼼꼼하고 철저한 세법의 숙지에서 시작되기에 끊임없이 한국과 미국의 세법을 꼼꼼히 연구합니다.
 						</p>
 					</div>
 					<div class="titleTextWrap">
 						<h4 class="systemTitle noPad -top">
-							위기발생시 미국 변호사와 협업
+							눈으로 확인하는 절세금액
 						</h4>
 						<p class="systemText">
-							미국 변호사가 직접 IRS와 세금/벌금을 조정합니다. 매년 바뀌는 세법을 해석하고 판례에 의거하여 납세자에게 과하게 부과된 세금이나 벌금을 미 국세청과 협상합니다. 납세자의 재정 상태를 고려하여 벌금 면제 혜택을 신청하거나 세금의 일부만 납부 혹은 할부로 나눠서 낼 수 있도록 플랜을 세워드리는 역할을 미국 변호사가 직접 진행하고 있습니다.
-						</p>
-					</div>
-					<div class="titleTextWrap">
-						<h4 class="systemTitle noPad -top">
-							IRS 비상연락시 현지사무소 즉각대응
-						</h4>
-						<p class="systemText">
-							Mark Kang Tax는 미국에 위치하여, 자주 변경되는 IRS 정책을 빠르게 follow-up하며 능동적 대처가 가능합니다.  오직 미국 현지에 위치한 오피스에서만 IRS에서 발생한 긴급 상황에 즉각적으로 대응할 수 있습니다. 미국 현지에서 IRS Letter를 즉각 수령하여 대처할 수 있으며, IRS에 보내는 우편물 관리가 한국보다 용이합니다.
+							얼마 만큼의 세금을 아낄 수 있었는지를 한 눈에 확인하실 수 있도록 절세 금액을 알려드립니다. 
+							또한  IRS에 제출되는 보고서는 고객님이 이해하기 어렵기에 고객님의 소득, 자산, 세금이 어떻게 신고가 되는지 쉽게 이해하실 수 있도록 별도의 소득자산 통합리포트를 제공해 드립니다. 많은 분들이 한국 세법과 미국 세법의 개념 차이를 알지 못해 혜택을 받지 못하거나 신고 서류의 누락으로 패널티를 물곤 합니다. 이처럼 자산 관리에서 발생하기 쉬운 세무 · 노무 · 법률 리스크에 대비하고 고객님의 자산을 더 안전하게 운용할 수 있도록 가이드를 제공해드립니다.
 						</p>
 					</div>
 				</div>
@@ -205,19 +201,32 @@
 	<section class="qnaSection container">
 		<div class="qnaWrap">
 			<h2 class="qnaTitle">
-				Streamlined Procedure Q&A
+				소득세 신고 및 <br class="hdPC">
+				금융자산 신고 Q&A
 			</h2>
 			<p class="qnaText">
-				<a href="">
-					Q. 신고하지 않았을 때 벌금은?
+				<a href="/guides-personal-tax/#tempQ1Point">
+					Q. 소득세 신고 기한과 벌금은?
 				</a><br>
 				<a href="">
-					Q. 필요한 서류는?
+					Q. 세금을 줄일 수 있는 2가지 방법은?
+				</a><br>
+				<a href="">
+					Q. FBAR 신고 자격 요건은?
+				</a><br>
+				<a href="">
+					Q. FATCA 신고 항목은?
+				</a><br>
+				<a href="">
+					Q. FBAR와 FATCA 의 차이점은?
 				</a>
 			</p>
 		</div>
-		<div class="btnWrap" style="justify-content: center;">
-			<div class="ctaBtn">Streamlined Procedure <br class="hdPC">세금보고 가이드 자세히보기 ></div>
+		<div class="btnWrap">
+			<div class="ctaBtn">개인세금보고 가이드 자세히보기 ></div>
+			<div class="ctaBtn">FBAR 세금보고 가이드 자세히보기 ></div>
+			<div class="ctaBtn">FATCA 세금보고 가이드 자세히보기 ></div>
+
 		</div>
 	</section>
 	</article>

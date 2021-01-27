@@ -1,9 +1,9 @@
-<?php get_header(); 
-	/*
-	가이드 - 개인소득신고 personal
-	http://localhost/미국-세금-보고-개인소득세/
-	*/
-
+<?php 
+/*
+Template Name: 가이드 - 개인소득신고 personal
+http://localhost/미국-세금-보고-개인소득세/
+*/
+get_header(); 
 ?>
 
 	<script src="<?php echo get_template_directory_uri(); ?>/js/followingNav.js"></script>
