@@ -182,6 +182,7 @@ get_header();
 							<li>양식 8621에 보고된 해외 투자 회사 지분</li>
 						</ul>
 					</p>
+					<p id="tempQ1Point"></p>
 				</section>
 				<!-- /섹션2 -->
 						
@@ -225,31 +226,31 @@ get_header();
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-3.png" alt="해외금융계좌 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-3.png" alt="FATCA 해외금융계좌 아이콘"/>
 								<span>
 									해외(미국 제외) 모든 금융 계좌
 								</span>
 							</li>
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-5.png" alt="저축/투자신탁/보험 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-5.png" alt="FATCA 저축/투자신탁/보험 아이콘"/>
 								<span>
 									저축성 기능의 보장성 보험, 저축/투자신탁의 기능성 보험 
 								</span>
 							</li>
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-1.png" alt="해외 뮤추얼 펀드 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-1.png" alt="FATCA 해외 뮤추얼 펀드 아이콘"/>
 								<span>
 									해외 뮤추얼 펀드
 								</span>
 							</li>
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-2.png" alt="해외파트너십 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-2.png" alt="FATCA 해외파트너십 아이콘"/>
 								<span>
 									10% 이하의 해외 비상장회사의 소유 지분, 해외파트너십의 소유 지분 
 								</span>
 							</li>
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-4.png" alt="외국 헤지펀드 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-4.png" alt="FATCA 외국 헤지펀드 아이콘"/>
 								<span>
 									외국 헤지펀드, 사모펀드
 								</span>
@@ -371,8 +372,8 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동">
-		<img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동">
+		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->
 

@@ -322,6 +322,7 @@ get_header();
 					</p>
 					<img class="hdPC insertImg" src="/img/insert-img2-tax-advice-MB.jpg" alt="미국 세금 보고 도움이 필요하신가요?">
 					<img class="hdMB insertImg" src="/img/insert-img2-tax-advice-PC.jpg" alt="미국 세금 보고 도움이 필요하신가요?">
+					<p id="tempQ2Point"></p>				
 				</section>
 				<!-- 마크 코멘트 -->
 
@@ -525,6 +526,7 @@ get_header();
 						세금 보고 양식에는 각각 번호가 붙여져있는데, 가장 기본적인 개인 세금보고 양식은 1040입니다. 비거주자는 양식 1040NR, 잘못된 보고를 수정할 때는 양식1040X에 작성합니다. 
 						여기에 개인의 소득에 따라서 Schedule A(항목별공제), Schedule B(이자/배당소득), Schedule E(임대 소득 양식),  Schedule C(자영업 소득 양식), Schedule D(양도소득 양식) 등 각종 양식이 추가됩니다. 
 					</p>
+					<p id="tempQ3Point"></p>
 				</section>
 				<!-- /섹션4 -->
 
@@ -932,8 +934,8 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동">
-		<img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동">
+		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->
 

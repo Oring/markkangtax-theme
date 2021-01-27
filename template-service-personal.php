@@ -205,27 +205,27 @@ get_header();
 				금융자산 신고 Q&A
 			</h2>
 			<p class="qnaText">
-				<a href="/guides-personal-tax/#tempQ1Point">
-					Q. 소득세 신고 기한과 벌금은?
+				<a href="/미국-세금-보고-개인소득세/#tempQ1Point">
+					Q. 개인 소득 신고 기한과 벌금은?
 				</a><br>
-				<a href="">
+				<a href="/미국-세금-보고-개인소득세/#tempQ2Point">
+					Q. 소득 신고 시 필요한 서류는?
+				</a><br>
+				<a href="/미국-세금-보고-개인소득세/#tempQ3Point">
 					Q. 세금을 줄일 수 있는 2가지 방법은?
 				</a><br>
-				<a href="">
-					Q. FBAR 신고 자격 요건은?
+				<a href="/fbar-해외금융계좌보고/#tempQ1Point">
+					Q. FBAR 신고 항목은?
 				</a><br>
-				<a href="">
-					Q. FATCA 신고 항목은?
+				<a href="/fatca-해외금융자산보고/#tempQ1Point">
+					Q. FATCA 미 신고 벌금은?
 				</a><br>
-				<a href="">
-					Q. FBAR와 FATCA 의 차이점은?
-				</a>
 			</p>
 		</div>
 		<div class="btnWrap">
-			<div class="ctaBtn">개인세금보고 가이드 자세히보기 ></div>
-			<div class="ctaBtn">FBAR 세금보고 가이드 자세히보기 ></div>
-			<div class="ctaBtn">FATCA 세금보고 가이드 자세히보기 ></div>
+			<a href="/미국-세금-보고-개인소득세"><div class="ctaBtn">개인세금보고 가이드 자세히보기 ></div></a>
+			<a href="/fbar-해외금융계좌보고"><div class="ctaBtn">FBAR 세금보고 가이드 자세히보기 ></div></a>
+			<a href="/fatca-해외금융자산보고"><div class="ctaBtn">FATCA 세금보고 가이드 자세히보기 ></div></a>
 
 		</div>
 	</section>
@@ -235,8 +235,8 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동">
-		<img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동">
+		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->
 

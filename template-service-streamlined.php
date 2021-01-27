@@ -210,16 +210,16 @@ get_header();
 				Streamlined Procedure Q&A
 			</h2>
 			<p class="qnaText">
-				<a href="">
+				<a href="/guide/streamlined-procedures/#tempQ1Point">
 					Q. 신고하지 않았을 때 벌금은?
 				</a><br>
-				<a href="">
+				<a href="/guide/streamlined-procedures/#tempQ2Point">
 					Q. 필요한 서류는?
 				</a>
 			</p>
 		</div>
 		<div class="btnWrap" style="justify-content: center;">
-			<div class="ctaBtn">Streamlined Procedure <br class="hdPC">세금보고 가이드 자세히보기 ></div>
+			<a href="/guide/streamlined-procedures"><div class="ctaBtn">Streamlined Procedure <br class="hdPC">세금보고 가이드 자세히보기 ></div></a>
 		</div>
 	</section>
 	</article>
@@ -228,8 +228,8 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동">
-		<img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동">
+		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->
 

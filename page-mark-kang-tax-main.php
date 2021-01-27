@@ -51,7 +51,7 @@
     </p>
     <a class="btn_st01">회계사 마크스토리 보기</a>
   </div>
-  <img class="main-mark-img" src="/img/main-mark-kang-profile.jpg" alt="">
+  <img class="main-mark-img" src="/img/main-mark-kang-profile.jpg" alt="미국 회계사 마크강택스 마크강의 프로필 사진">
 </section>
 
 

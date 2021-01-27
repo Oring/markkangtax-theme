@@ -84,15 +84,15 @@ get_header();
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-4 infoItem">
-								<img class="guidesIcon" src="/img/icons/guides/tax-condition1.png" alt="미국세금신고 대상자 시민권소지자"/>
+								<img class="guidesIcon" src="/img/icons/guides/tax-condition1.png" alt="FBAR 대상자 시민권소지자 아이콘"/>
 								<span>시민권소지자</span>
 							</li>
 							<li class="col-sm-4 infoItem">
-								<img class="guidesIcon" src="/img/icons/guides/tax-condition2.png" alt="미국세금신고 대상자 영주권소지자"/>
+								<img class="guidesIcon" src="/img/icons/guides/tax-condition2.png" alt="FBAR 대상자 영주권소지자 아이콘"/>
 								<span>영주권소지자</span>
 							</li>
 							<li class="col-sm-4 infoItem">
-								<img class="guidesIcon" src="/img/icons/guides/tax-condition3.png" alt="미국세금신고 대상자 183일 거주테스트 통과자"/>
+								<img class="guidesIcon" src="/img/icons/guides/tax-condition3.png" alt="FBAR 대상자 183일 거주테스트 통과자 아이콘"/>
 								<span>183일 <br class="hdMB">거주테스트 통과자</span>
 							</li>
 						</ul>
@@ -115,6 +115,7 @@ get_header();
 					<p class="desc">
 						FBAR는 나이 및 소득 금액과 상관없습니다.  미성년자도 보고 대상입니다. 예를 들어, 1살인 자녀의 명의로 만든 계좌들의 잔액 합이 1만 달러라면 자녀도 FBAR를 신고해야 합니다.
 					</p>
+					<p id="tempQ1Point"></p>
 				</section>
 				<!-- /섹션1 -->
 
@@ -202,7 +203,7 @@ get_header();
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/guides/tax-deadline1.png" alt="미국세금신고 기준소득 싱글신고"/>
+								<img class="guidesIcon" src="/img/icons/guides/tax-deadline1.png" alt="신고 기한 아이콘"/>
 								<span>
 									4월 15일까지 제출, <br class="hdPC">6개월 자동 연장
 								</span>
@@ -213,8 +214,8 @@ get_header();
 						미국 세금 보고 기한과 마찬가지로 4월 15일까지 제출해야 하고, 현재는 별다른 연장 신청 없이도 6개월 자동 연장이 되어 정규 마감일인 4월 15일이 지났더라도 10월 15일까지 보고할 수 있습니다.
 						하지만, 앞으로 언제 IRS가 자동 연장 제도를 없앨지 모르니 가능하면 4월 15일까지 보고하시는 것을 권장합니다.
 					</p>
-					<img src="/img/FBAR1-700x589.jpg" alt="" style="width:100%">
-					<img src="/img/FBAR2-700x384.jpg" alt="" style="width:100%">
+					<img src="/img/FBAR1-700x589.jpg" alt="해외 금융 계좌 신고양식1 서류이미지" style="width:100%">
+					<img src="/img/FBAR2-700x384.jpg" alt="해외 금융 계좌 신고양식2 서류이미지" style="width:100%">
 					<p class="desc noPad -top">
 						해외 금융 계좌 신고양식 – Report of Foreign Bank and Financial Accounts
 					</p>
@@ -234,7 +235,7 @@ get_header();
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미국세금신고 기준소득 싱글신고"/>
+								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="FBAR 벌금 및 처벌 규정 아이콘"/>
 								<span>
 									최소 13,000 불 또는 <br class="hdPC">미보고 누락계좌의  50%
 								</span>
@@ -300,7 +301,7 @@ get_header();
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-9.png" alt="미국세금신고 기준소득 싱글신고"/>
+								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-9.png" alt="스트림라인드 보고 아이콘"/>
 								<span>
 									스트림라인드 보고<br class="hdPC">(SFCP: Streamlined Filing Compliance Procedure)
 								</span>
@@ -427,8 +428,8 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동">
-		<img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동">
+		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->
 

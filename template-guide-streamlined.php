@@ -42,6 +42,7 @@ get_header();
 			<p class="topDesc">
 				그래서 미 국세청 IRS에서는 해외자산 자진신고 간소화 절차(Streamlined Filing Compliance Procedures, SFCP)라는 제도를 만들었습니다. IRS에 관련된 서류들을 잘 정리하여 제출하시면, 그동안의 누락된 신고들을 한 번에 처리하실 수 있는 구제 제도입니다. 그러면 이 제도와 관련해 좀 더 자세히 알아보도록 하겠습니다.
 			</p>
+			<p id="tempQ1Point"></p>
 	</section>
 	<!-- /INTRO 섹션 -->
 
@@ -106,6 +107,7 @@ get_header();
 						이 뜻은 지금 해외 금융 계좌 자진 신고 간소화 절차가 시행되고 있을 때, 가능한 한 서둘러서 사면을 받으라는 뜻입니다. 
 						미국에 계시는 미 시민권자/영주권자 뿐 아니라, 한국이나 다른 해외에 계시는 미 시민권자/영주권자 분들도 이 문제를 빨리 해결하시길 바랍니다.
 					</p>
+					<p id="tempQ2Point"></p>
 				</section>
 				<!-- /섹션1 -->
 				
@@ -207,8 +209,8 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동">
-		<img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동">
+		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->
 
