@@ -1,4 +1,7 @@
 <?php get_header(); ?>
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/swiper.css">
+<script src="<?php echo get_template_directory_uri(); ?>/js/lib/swiper.min.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/lib/swiper_obj.js"></script>
 
 <!-- 헤더 -->
 <div class="main-sect-top">

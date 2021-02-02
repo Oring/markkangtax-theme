@@ -1012,7 +1012,7 @@ section.topSection p.topDesc {padding-top: 7px; padding-bottom:24px;}
 /* 가이드 섹션 */
 .guidesWrap {background-color:#FFF;}
 .guidesWrap .insertImg {margin: 15px 0;}
-.guidesWrap .insertImg.-form {width: 100%}
+.guidesWrap .insertImg.-form {width: 100%; margin:0}
 .guidesWrap section.guidePart {padding: 56px 0 32px 0;}
 .guidesWrap section.guidePart .guideAskWrap {border: 5px solid #d4d4d4; padding: 36px 0;}
 .guidesWrap section.guidePart .guideAskWrap .guideAsk {font-size: 20px; font-weight: bold; line-height: 1.25; letter-spacing: -0.5px; color:#505050}
@@ -1035,7 +1035,7 @@ section.topSection p.topDesc {padding-top: 7px; padding-bottom:24px;}
 /* 마크강 파란 섹션 */
 .guidesWrap section.markAdviceWrap {padding-top: 56px; padding-bottom:32px}
 .guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 16px; line-height: 1.75; font-weight: bold; padding-top:15px; letter-spacing: -0.5px}
-.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-mb.jpg); background-repeat: no-repeat; background-size: cover; padding: 32px 24px;}
+.guidesWrap section.markAdviceWrap .markTitleImg {background: #3d92cb url(/img/bg/markkangtax-adivice-bg-mb.jpg) right no-repeat;background-size: contain;padding: 32px 24px;}
 .guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {color:#fff; font-size: 22px; letter-spacing: -0.5px}
 
 /* 클로징 섹션 */
@@ -1049,9 +1049,9 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 
 /* 테이블 */
 .guidesWrap section.guidePart .tableWrap {overflow-x:auto;}
-.guidesWrap section.guidePart .tableWrap .sectionTable {font-size:14px; font-weight: bold; text-align: center; margin:20px 0; width: 100%; min-width: 768px;}
-.guidesWrap section.guidePart .tableWrap .sectionTable th {background-color: #505050; color: #fff; height: 50px; vertical-align: middle;}
-.guidesWrap section.guidePart .tableWrap .sectionTable td {border-bottom: 1px solid #dcdcdc; height: 40px; vertical-align: middle;}
+.guidesWrap section.guidePart .tableWrap .sectionTable {font-size:14px; font-weight: bold; text-align: center; margin:20px 0; width: 100%;}
+.guidesWrap section.guidePart .tableWrap .sectionTable th {background-color: #505050; color: #fff; height: 50px; vertical-align: middle;padding-right: 3px;padding-left: 3px;}
+.guidesWrap section.guidePart .tableWrap .sectionTable td {border-bottom: 1px solid #dcdcdc; height: 40px; vertical-align: middle;padding-right: 3px;padding-left: 3px;}
 .guidesWrap section.guidePart .tableWrap .sectionTable tbody:last-child td.tfoot{border-bottom: 1px solid #505050;}
 .guidesWrap section.guidePart .tableWrap .sectionTable tr:last-child td {border-bottom: 1px solid #505050;}
 
@@ -1070,12 +1070,12 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 
 	
 	#followingNavigation .followingNavigationInner {padding: 0 0; height: auto; background-color: #FFF; color: #000; display: block;}
-	#followingNavigation li {margin-bottom: 14px; font-size: 21px; letter-spacing: -0.5px; font-weight: bold; cursor:pointer;}
+	#followingNavigation li {margin-bottom: 8px; font-size: 19px; letter-spacing: -0.5px; font-weight: bold; cursor:pointer;}
 	#followingNavigation li.-current {color: #3c92ca; list-style-image: url(/img/icons/nav-pc.png); }
 	#followingNavigation li.-current::after {content: none ;}
 	/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-pc.png);}*/
 
-	.guidesWrap {padding: 65px 65px; }
+	.guidesWrap {padding: 55px 50px; }
 	.guidesWrap .insertImg {margin: 15px 0 30px 0;}
 	.guidesWrap section.guidePart {padding: 0 0 96px 0; }
 	.guidesWrap section.guidePart .guideAskWrap {border: 10px solid #d4d4d4; padding: 45px 0;}
@@ -1088,14 +1088,14 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 
 	.guidesWrap section.guidePart .guideSubTitle {font-size: 18px;}
 	.guidesWrap section.guidePart .iconsWrap {padding-top:64px; padding-bottom:24px;}
-	.guidesWrap section.guidePart .iconsWrap .guidesIcon {width: 60px; margin: 0 25px 0 1px;}
+	.guidesWrap section.guidePart .iconsWrap .guidesIcon {width: 50px; margin: 0 10px 0 1px;}
 	.guidesWrap section.guidePart .iconsWrap .infoList {padding-top:25px; padding-bottom: 20px;}
 	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem {font-size:16px; font-weight:bold; padding-top: 26px; padding-bottom: 26px; height: 90px;}
 	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem.-higher {height: 110px;}
 	.guidesWrap section.guidePart .iconsWrap .infoList .infoItem .itemDesc {font-weight:100;}
 	
 	.guidesWrap section.markAdviceWrap .guideSubTitle {font-size: 18px;}
-	.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-pc.jpg); padding: 72px 54px;}
+	.guidesWrap section.markAdviceWrap .markTitleImg {background-image: url(/img/bg/markkangtax-adivice-bg-pc.jpg); padding: 72px 54px;background-color: transparent;}
 	.guidesWrap section.markAdviceWrap .markTitleImg .markTitleText {font-size: 30px; padding-top:17px;}
 	.guidesWrap section.guidePart .greyBox {padding: 24px 0 ; margin: 3px 0 16px 0; text-align: center; font-weight: bold;}
 	.guidesWrap section.guidePart .greyBox.-dense {padding: 18px 20px; margin: 0 0 24px 0; text-align: left;}
@@ -1113,6 +1113,12 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 	section.bannerWrap .ctaBanner.-left {float: left}
 	section.bannerWrap .ctaBanner.-right {float: right}
 	
+}
+
+@media(min-width:992px){
+	.guidesWrap section.guidePart .iconsWrap .guidesIcon {width: 60px; margin: 0 25px 0 1px;}
+	#followingNavigation li {margin-bottom: 14px; font-size: 21px;}
+	.guidesWrap {padding: 65px 65px; }
 }
 
 

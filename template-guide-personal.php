@@ -50,7 +50,7 @@ get_header();
 	<!-- 내용 섹션 -->
 	<div id="guideContent" class="guidesWrap container">
 		<div class="row">
-			<div class="col-sm-3">
+			<div class="col-sm-2 col-md-3">
 				<!-- 팔로잉 네비게이션 -->
 				<nav id="followingNavigation">
 					<ol class="followingNavigationInner">
@@ -75,7 +75,7 @@ get_header();
 				<!-- /팔로잉 네비게이션 -->
 			</div>
 
-			<div class="col-sm-9">
+			<div class="col-sm-10 col-md-9">
 				<!-- 섹션1 -->
 				<section class="guidePart" id="section1">
 					<div class="guideAskWrap">
@@ -448,25 +448,25 @@ get_header();
 							</head>
 							<tbody>
 								<tr>
-									<td>10%</td><td>$0 to $9,700</td><td>$0 to $19,400</td><td>$0 to $9,700</td><td>$0 to $13,850</td>
+									<td>0%</td><td>Up to $9,950</td><td>Up to $19,900</td><td>Up to $9,950</td><td>Up to $14,200</td>
 								</tr>
 								<tr>
-									<td>12%</td><td>$9,701 to $39,475</td><td>$19,401 to $78,950</td><td>$9,701 to $39,475</td><td>$13,851 to $52,850</td>
+									<td>12%</td><td>$9,951 to $40,525</td><td>$19,901 to $81,050</td><td>$9,951 to $40,525</td><td>$14,201 to $54,200</td>
 								</tr>
 								<tr>
-									<td>22%</td><td>$39,476 to $84,200</td><td>$78,951 to $168,400</td><td>$39,476 to $84,200</td><td>$52,851 to $84,200</td>
+									<td>22%</td><td>$40,526 to $86,375</td><td>$81,051 to $172,750</td><td>$40,526 to $86,375</td><td>$54,201 to $86,350</td>
 								</tr>
 								<tr>
-									<td>24%</td><td>$84,201 to $160,725</td><td>$168,401 to $321,450</td><td>$84,201 to $160,725</td><td>$84,201 to $160,700</td>
+									<td>24%</td><td>$86,376 to $164,925</td><td>$172,751 to $329,850</td><td>$86,376 to $164,925</td><td>$86,351 to $164,900</td>
 								</tr>
 								<tr>
-									<td>32%</td><td>$160,726 to $204,100</td><td>$321,451 to $408,200</td><td>$160,726 to $204,100</td><td>$160,701 to $204,100</td>
+									<td>32%</td><td>$164,926 to $209,425</td><td>$329,851 to $418,850</td><td>$164,926 to $209,425</td><td>$164,901 to $209,400</td>
 								</tr>
 								<tr>
-									<td>35%</td><td>$204,101 to $510,300</td><td>$408,201 to $612,350</td><td>$204,101 to $306,175</td><td>$204,101 to $510,300</td>
+									<td>35%</td><td>$209,426 to $523,600</td><td>$418,851 to $628,300</td><td>$209,426 to $314,150</td><td>$209,401 to $523,600</td>
 								</tr>
 								<tr>
-									<td>37%</td><td>$510,301 or more</td><td>$612,351 or more</td><td>$306,176 or more</td><td>$510,301 or more</td>
+									<td>37%</td><td>Over $523,601</td><td>Over $628,301</td><td>Over $314,151</td><td>Over $523,601</td>
 								</tr>
 								
 							</tbody>
