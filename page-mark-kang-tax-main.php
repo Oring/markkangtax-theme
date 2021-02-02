@@ -11,8 +11,9 @@
       프리미엄 미국세금신고 [마크강택스]
     </h2>
     <p class="hdMB">
-      처음부터 끝까지<br>
-      고객님의 안전한 자산보고를 위해 연구합니다.
+      한국인을 위한 미국 세금 신고,<br>
+      최고의 혜택을 연구하는<br>
+      Mark Kang Tax와 함께하세요. 
     </p>
     <div class="main-top-btn">
       간편 상담 바로가기
@@ -58,7 +59,7 @@
 <!-- 서비스안내 섹션 -->
 <section class="main-sect-service-wrap text-center">
   <div class="service-text">
-    <h2 class="ff-mj">프리미엄 서비스 안내</h2>
+    <h2 class="ff-mj">세금신고 서비스 안내</h2>
     <p class="hdMB-inb">
       #완벽한 절세 #빈틈없는 업무 #투명한 프로세스
     </p>
@@ -143,7 +144,7 @@
       </span>
       <span class="inner-text col-sm-8">
         <div class="inner-inner">
-          <a>FATCA 해외계좌신고법</a>
+          <a>FATCA 해외 자산 신고</a>
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">

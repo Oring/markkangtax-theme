@@ -11,7 +11,7 @@ get_header();
 	<!-- 헤더 -->
 	<div class="sub-sect-top">
 		<div class="sub-sect-inner">
-			<p>한국인을 위한 미국세금신고<br><span>Right Tax Service가 함께 합니다</span></p>
+			<p>마크강택스에서 제대로 알려주는<br><span>미국세금보고 가이드</span></p>
 		</div>
 	</div>
 	<!-- /헤더 -->
@@ -123,12 +123,12 @@ get_header();
 				<section class="guidePart" id="section2">
 					<div class="guideAskWrap">
 						<h2 class="guideAsk text-center">
-							FATCA 신고해야 하는<br class="hdPC">
+							FBAR 신고해야 하는<br class="hdPC">
 							항목은 무엇이 있나요?
 						</h2>
 					</div>
 					<section class="iconsWrap">
-						<h3 class="guideTitle">FATCA 신고 항목</h3>
+						<h3 class="guideTitle">FBAR 신고 항목</h3>
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-6 infoItem">
@@ -211,7 +211,7 @@ get_header();
 						</ul>
 					</section>
 					<p class="desc">
-						미국 세금 보고 기한과 마찬가지로 4월 15일까지 제출해야 하고, 현재는 별다른 연장 신청 없이도 6개월 자동 연장이 되어 정규 마감일인 4월 15일이 지났더라도 10월 15일까지 보고할 수 있습니다.
+						미국 세금 보고 기한과 마찬가지로 4월 15일까지 양식 114를 작성하여 미 재무부(FinCEN)에 온라인으로 제출해야 합니다. 현재는 별다른 연장 신청 없이도 6개월 자동 연장이 되어 정규 마감일인 4월 15일이 지났더라도 10월 15일까지 보고할 수 있습니다.
 						하지만, 앞으로 언제 IRS가 자동 연장 제도를 없앨지 모르니 가능하면 4월 15일까지 보고하시는 것을 권장합니다.
 					</p>
 					<img src="/img/FBAR1-700x589.jpg" alt="해외 금융 계좌 신고양식1 서류이미지" style="width:100%">
@@ -237,13 +237,13 @@ get_header();
 							<li class="col-sm-12 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="FBAR 벌금 및 처벌 규정 아이콘"/>
 								<span>
-									최소 13,000 불 또는 <br class="hdPC">미보고 누락계좌의  50%
+									최소 $12,921 불 또는 <br class="hdPC">미보고 누락계좌의  50%
 								</span>
 							</li>
 						</ul>
 					</section>
 					<p class="desc">
-						FBAR 신고는 정보성 보고(Information Report)이기에 따로 세금이 부과되지 않습니다. 하지만 신고를 이행하지 않으면 약 $13,000 또는 미보고 누락 계좌의 50%가 벌금으로 부과될 수 있습니다. 그리고 문제는 벌금뿐만 아니라, 본인도 모르는 사이에 본인이 미국 연방법상 체납자가 되어, 미국 방문 후에 , 다시 고국으로 돌아갈 시 출국 금지 조치를 당하는 등의 불이익을 당하실 수가 있습니다.
+						FBAR 신고는 정보성 보고(Information Report)이기에 따로 세금이 부과되지 않습니다. 하지만 신고를 이행하지 않으면 약 $12,921 또는 미보고 누락 계좌의 50%가 벌금으로 부과될 수 있습니다. 
 					</p>
 					<h4 class="guideSubTitle">
 						IRS에 명시된 벌금 및 처벌 규정
@@ -270,8 +270,7 @@ get_header();
 						처벌의 공소시효
 					</h4>
 					<p class="desc noPad -top">
-						IRS가 그동안 신고를 안 하거나 잘못 신고했을 때, 납세자에게 벌금을 부과할 수 있는 기간은 신고 기한으로부터 6년입니다. ​예를 들어 2019년 신고는 2020년 4월 15일까지 신고기한이므로 2026년 4월 15일까지 벌금을 부과할 수 있습니다.
-						​또, 현재(2019년 11월)를 기준으로, 6년 전인 2013년 9월 이후에 신고기한을 가진 FBAR에 대해서는 처벌을 할 수 있어, 2013년 신고까지 벌금을 부과할 수 있습니다.
+						IRS가 그동안 신고를 안 하거나 잘못 신고했을 때, 납세자에게 벌금을 부과할 수 있는 기간은 신고 기한으로부터 6년입니다. 예를 들어 2020년 신고는 2021년 4월 15일까지 신고 기한이므로 2027년 4월 15일까지 벌금을 부과할 수 있습니다. 또한 현재(2021년 1월)를 기준으로, 6년 전인 2015년 1월 이후에 신고기한을 가진 FBAR에 대해서는 처벌을 할 수 있어, 2014년 FBAR 보고를 미신고한 것까지 벌금을 부과할 수 있습니다.
 					</p>
 					<h4 class="guideSubTitle">
 						실제로 벌금을 부과하나요?
@@ -303,13 +302,13 @@ get_header();
 							<li class="col-sm-12 infoItem">
 								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-9.png" alt="스트림라인드 보고 아이콘"/>
 								<span>
-									스트림라인드 보고<br class="hdPC">(SFCP: Streamlined Filing Compliance Procedure)
+									스트림라인드 보고<br class="hdPC">(Streamlined Procedure)
 								</span>
 							</li>
 						</ul>
 					</section>
 					<p class="desc">
-						다행히도 이러한 분들을 위한 IRS의 <a href="https://righttaxservice.com/guide/" style="text-decoration: underline;">스트림라인드 보고(Streamlined Filing Compliance Procedures)</a> 즉, 해외금계좌 자진 신고 간소화 절차라는 구제 프로그램을 통해 해결 가능합니다. 지난 3년간의 세금 보고나 수정 세금 보고, 지난 6년간의 FBAR 보고, 그리고 미신고에 대한 비고의성을 입증하는 사유서 등을 제출하면 과거의 누락된 신고를 처리 할 수 있습니다.
+						다행히도 이러한 분들을 위한 IRS의 <a href="https://righttaxservice.com/guide/" style="text-decoration: underline;">스트림라인드 보고(Streamlined Procedures)</a> 즉, 해외금계좌 자진 신고 간소화 절차라는 구제 프로그램을 통해 해결 가능합니다. 지난 3년간의 세금 보고나 수정 세금 보고, 지난 6년간의 FBAR 보고, 그리고 미신고에 대한 비고의성을 입증하는 사유서 등을 제출하면 과거의 누락된 신고를 처리 할 수 있습니다.
 					</p>
 					<p class="desc">
 						해외 거주자의 경우는, 누락된 신고에 대한 벌금이 부과되지 않고 그동안 밀린 세금 보고에 대한 지연 이자만 납부하는 정도로 해결할 수 있습니다. 
@@ -321,10 +320,10 @@ get_header();
 					</h4>
 					<p class="desc noPad -top">
 						미국에 거주하고 있는 분들은 미보고 계좌 잔액의 5%를 벌금으로 내야 하지만, 해외에 거주하고 있는 사람은 벌금이 면제됩니다.​ 해외 거주자의 조건은 최근 3년 중 1년을 330일 이상 해외 체류했으면 가능합니다. 이때, 최근 3년이라는 것은 보고기한이 지난 것을 기준으로 3년입니다. ​
-						예를 들어, 현재(2019년 11월) 기준, 연장 신청을 하지 않았다면 2018년 미국 세금 보고 기한이 지났으므로, 2016-2018년 3년이 대상입니다. 이 3년 중에서 한 해에 330일 이상 해외에 있었다면, 벌금 없이 스트림라인 보고를 하실 수 있습니다.
+						예를 들어, 현재(2021년 1월) 기준, 2019년 미국 세금 보고 기한이 지났으므로, 2017-2019년 3년이 대상입니다. 이 3년 중에서 한 해에 330일 이상 해외에 있었다면, 벌금 없이 스트림라인드 보고를 하실 수 있습니다.
 					</p>
 					<h4 class="guideSubTitle">
-						스트림라인 보고 조건: 비고의성
+						스트림라인드 보고 조건: 비고의성
 					</h4>
 					<p class="desc noPad -top">
 						여기서 중요한 것은 그동안 신고를 못한 이유에 고의성이 없다는 것을 증명해야 합니다. ​
@@ -332,7 +331,7 @@ get_header();
 						IRS는 이 사유서만큼은 꼭 리뷰를 하겠다고 발표를 하였고, 사유가 충분하지 않을 경우, 감사 및 벌금 부과를 할 수도 있다고 발표하였습니다. 따라서 사유서를 잘 작성하는 것이 매우 중요합니다.
 					</p>
 					<h4 class="guideSubTitle">
-						스트림라인 신고 내용
+						스트림라인드 신고 내용
 					</h4>
 					<p class="desc noPad -top -bottom">
 						해외 거주자의 경우,<br>
@@ -380,27 +379,23 @@ get_header();
 						FBAR 처벌을 강화해 온 역사
 					</h4>
 					<p class="desc noPad -top">
-						FBAR 신고가 최근에 시작된 것은 아닙니다. 그 시작은 1970년으로 거슬러 올라갑니다. ​처음 이 신고의 목적은 해외로 누출된 자본이 불법 자금 세탁 및 탈세 등 불법 활동에 이용되는 것을 막기 위함이었습니다.
-						​하지만 그 벌금 및 처벌 규정이 강하지 않아 그 효력이 잘 발휘되지 않았고, 거의 대부분의 사람들이 신고를 하지 않았습니다. 
+						FBAR 신고가 최근에 시작된 것은 아닙니다. 그 시작은 1970년으로 거슬러 올라갑니다. ​처음 이 신고의 목적은 해외로 누출된 자본이 불법 자금 세탁 및 탈세 등 불법 활동에 이용되는 것을 막기 위함이었습니다. ​하지만 그 벌금 및 처벌 규정이 강하지 않아 그 효력이 잘 발휘되지 않았고, 거의 대부분의 사람들이 신고를 하지 않았습니다. 
 					</p>
 					<p class="desc">
-						그 후, 2001년 911테러가 발생하고, 미국은 <a rel="noreferrer noopener" aria-label=" USA Patriot Act (새탭으로 열기)" href="https://www.fincen.gov/resources/statutes-regulations/usa-patriot-act" target="_blank" style="text-decoration: underline;">USA Patriot Act법</a>을 제정하게 됩니다.
-						​이는 미국 사회 전반에 테러 방지를 위한 강화 정책인데, 그 일환으로 미 재무부가 2002년부터 2004년까지 해외 금융 계좌 신고에 대한 법령을 꾸준히 공표하고 강화해 나갔습니다.​
+						그 후, 2001년 911테러가 발생하고, 미국은 <a rel="noreferrer noopener" aria-label=" USA Patriot Act (새탭으로 열기)" href="https://www.fincen.gov/resources/statutes-regulations/usa-patriot-act" target="_blank" style="text-decoration: underline;">USA Patriot Act법</a>을 제정하게 됩니다. 이는 미국 사회 전반에 테러 방지를 위한 강화 정책인데, 그 일환으로 미 재무부가 2002년부터 2004년까지 해외 금융 계좌 신고에 대한 법령을 꾸준히 공표하고 강화해 나갔습니다.​
 					</p>
 					<p class="desc">
 						더불어, IRS는 미 납세자의 탈세를 도왔다는 이유로 스위스 UBS 은행에게 780만 불의 벌금을 부과하는 등 강한 처벌의 본보기를 보여주면서, ​해외의 금융기관에 연이어 고소를 하여 IRS는 스위스 UBS 은행으로부터 미납세자 4450명의 계좌 정보를 얻어내고, 그 처벌을 강화해갑니다. ​
 						그리고, 2009년에는 OVDP(해외 금융 계좌 자진신고 사면 프로그램)라는 프로그램을 실행하여 그동안 해외 금융 계좌 신고를 하지 않은 사람들이 6년 치의 미국 세금 보고와 함께 보고하고, 신고를 누락한 금액의 20%를 벌금(2014년에는 벌금이 27.5%까지 높아집니다)을 자진해서 내며 그동안 미보고한 것을 청산하도록 하였습니다. ​
 					</p>
 					<p class="desc">
-						그 이후에도 IRS는 끊임없이 프로그램 개편과 벌금을 강화해가며 대중에게 인식시키고 그 참여를 유도해왔습니다. ​2014년에는 비고의성을 입증할 수 있는 사람을 대상으로 스트림라인 보고를 확대하여, 미국 거주자의 경우, 5%의 상대적으로 낮은 벌금을 부과하고, 해외 거주자는 벌금 없이 해결할 수 있는 방안을 발표합니다.​
-						그러다가 2018년에는 OVDP를 종료시키며, 스트림라인 보고도 언제 종료할지 모른다고 발표합니다.​
-						이와 같이 여러 해에 걸쳐 IRS가 미국 거주자의 해외 금융 계좌 신고 강화 및 해외 소득에 대한 미국 세금 징수를 위해 노력한 것을 보면, 앞으로 어떤 식으로 상황이 전개될 것인지 전망해볼 수 있습니다. ​
+						그 이후에도 IRS는 끊임없이 프로그램 개편과 벌금을 강화해가며 대중에게 인식시키고 그 참여를 유도해왔습니다. ​2014년에는 비고의성을 입증할 수 있는 사람을 대상으로 스트림라인드 보고를 확대하여, 미국 거주자의 경우, 5%의 상대적으로 낮은 벌금을 부과하고, 해외 거주자는 벌금 없이 해결할 수 있는 방안을 발표합니다.​ 그러다가 2018년에는 OVDP를 종료시키며, 스트림라인드 보고도 언제 종료할지 모른다고 발표합니다.​ 이와 같이 여러 해에 걸쳐 IRS가 미국 거주자의 해외 금융 계좌 신고 강화 및 해외 소득에 대한 미국 세금 징수를 위해 노력한 것을 보면, 앞으로 어떤 식으로 상황이 전개될 것인지 전망해볼 수 있습니다. ​
 					</p>
 					<h4 class="guideSubTitle">
 						앞으로의 전망
 					</h4>
 					<p class="desc noPad -top">
-						2010년 제정된 <a rel="noreferrer noopener" aria-label="Foreign Account Tax Compliance Act(FATCA (새탭으로 열기)" href="https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca" target="_blank" style="text-decoration: underline;">Foreign Account Tax Compliance Act(FATCA)</a> 를 통하여 전 세계의 금융기관으로부터 미국 납세자의 금융 정보를 받는 것을 준비하여, 우리나라도 2016년부터 한국에 있는 미국 납세자의 금융 정보를 IRS로 보내고 있습니다.​
+						2010년 제정된 <a rel="noreferrer noopener" aria-label="Foreign Account Tax Compliance Act(FATCA (새탭으로 열기)" href="https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca" target="_blank" style="text-decoration: underline;">Foreign Account Tax Compliance Act(FATCA 협정)</a> 를 통하여 전 세계의 금융기관으로부터 미국 납세자의 금융 정보를 받는 것을 준비하여, 우리나라도 2016년부터 한국에 있는 미국 납세자의 금융 정보를 IRS로 보내고 있습니다.​
 						또한 기존에 우편으로 보고하던 것을 2013년부터는 인터넷으로 보고하도록 개정하였습니다. 이처럼 IRS에는 전산으로 빠르게 전 세계에서 데이터를 수집하고, 보고 내용을 비교할 수 있는 시스템이 갖추어져 있습니다.​
 						그 동안 세금 징수 확대를 위해 노력해왔다는 것을 비추어볼 때, 이런 시스템을 갖춤으로써 IRS가 미국 거주자뿐만 아니라 한국에 거주하고 있는 사람들에게 언제라도 벌금을 부과할 수 있는 상황이 되었습니다. ​
 						따라서 그동안 보고를 안하셨던 분은 전문가와 잘 상의하셔서 문제를 해결하시기 바랍니다.
@@ -428,7 +423,7 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/irs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
 		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->

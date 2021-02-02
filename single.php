@@ -4,7 +4,7 @@ get_header(); ?>
 
 	<div class="sub-sect-top">
 		<div class="sub-sect-inner">
-			<p>고객님의 안전을 위해<br><span>끊임없이 연구하는 회계사</span></p>
+			<p>Mark Kang Tax<br><span>전문가 칼럼</span></p>
 		</div>
 	</div>
 

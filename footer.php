@@ -3,8 +3,7 @@
 					<div class="mark-said">
 						<h3 class="mark-tit ff-mj">
 							안심하세요. <br class="hdPC">
-							Mark Kang Tax Service
-						</h3>
+							Mark Kang Tax
 						<p class="mark-content ff-mj">
 							복잡하고 어려운 세무 업무로 고민 중이신가요?<br>
 							현재 상황을 상세히 기재하신 후 <br class="hdPC"> 
@@ -23,7 +22,7 @@
 			<!-- footer -->
 			<footer class="footer" role="contentinfo">
 
-				<div class="container">
+				<div class="container -flex">
 					<div class="foot-icon-wrap">
 						<div class="foot-icon-text">
 							<a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noopener"><img src="/img/icons/footer-icon-talk-mb.png" alt="카카오톡 아이콘"></a>
@@ -55,7 +54,7 @@
                                 | 연락처: <a href="tel:<?php echo of_get_option('office_number'); ?>" onclick="gtag('event', 'Phone', { 'event_category': 'Contact', 'event_label': 'footer' });"><?php echo of_get_option('office_number'); ?></a>
                                 | 이메일: <a href="mailto:<?php echo of_get_option('contact_email'); ?>" onclick="gtag('event', 'Email', { 'event_category': 'Contact', 'event_label': 'footer' });"><?php echo of_get_option('contact_email'); ?></a>
                                 <!-- | 카카오문의: <a href="https://pf.kakao.com/_LxkkfT" target="_blank" onclick="gtag('event', 'Kakao', { 'event_category': 'Contact', 'event_label': 'footer' });"><?php echo of_get_option('contact_kakao'); ?></a> -->
-                                | 사업자등록번호: <?php echo of_get_option('company_registration_number'); ?>
+                                <br> 사업자등록번호: <?php echo of_get_option('company_registration_number'); ?>
                                 | <?php echo of_get_option('office_address'); ?>
                             </p>
 							<p class="copyright">

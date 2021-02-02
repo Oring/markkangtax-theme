@@ -3,7 +3,7 @@ get_header();
 ?>
 	<div class="sub-sect-top">
 		<div class="sub-sect-inner">
-			<p>고객님의 안전을 위해<br><span>끊임없이 연구하는 회계사</span></p>
+			<p>완벽한 세금보고를 위해<br><span>끊임없이 연구합니다</span></p>
 		</div>
 	</div>
 	<article>
@@ -125,7 +125,7 @@ get_header();
 				<div class="mkimg_03">
 					<img src="/img/mark-kang.jpg" alt="Mark Kang's profile">
 					<br><br>
-					<img src="/img/mark-kang2.jpg" alt="Mark Kang's profile">
+					<!-- <img src="/img/mark-kang2.jpg" alt="Mark Kang's profile"> -->
 				</div>
 			</div>
 

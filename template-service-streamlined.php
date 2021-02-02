@@ -74,6 +74,19 @@ get_header();
 				</p>
 			</div>
 		</div>
+		<div class="serviceCaseBox">
+			<h3 class="caseBoxSubTit">CASE#3 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
+			<div class="caseBoxRight">
+				<h4 class="caseBoxTit">
+					2,800만불 탈세 한인 <br class="hdPC">징역 6개월 1,400만불 벌금
+				</h4>
+				<p class="caseBoxText">
+					한인 김씨는 영주권을 취득한 지난 1998년 스위스를 방문해 '크레딧 스위스(Credit Suisses)' 등 5개 현지 금융회사에 계좌를 개설해 홍콩의 한 개인으로부터 거액을 송금 받았습니다. 당국이 파악한 2004년 현재 계좌 잔고액은 2800만 달러가 넘었습니다.
+					김씨는 연방법을 어기고 리히텐슈타인, 파나마 등 조세피난처에 세운 유령회사를 통해 은닉한 스위스 자산을 미국으로 들여왔습니다. 
+					법원은 징역형과 함께 10만 달러의 벌금과 국세청에 24만3542달러의 배상금을 지불하라고 지시했습니다. 김씨는 사전형량조정제도에 따른 합의로 최소 1400만 달러의 벌금을 연방재무부에 납부했습니다.
+				</p>
+			</div>
+		</div>
 	</section>
 	<!-- /절세 사례 -->
 
@@ -81,8 +94,8 @@ get_header();
 	<section class="serviceSystemWrap container noPad -bottom">
 		<div class="serviceSystemIntro">
 			<h2 class="systemTitle text-center">
-				100% 벌금사면 Perfect Safe<br>
-				원칙과 시스템
+				100% 벌금사면, 안심할 수 있는 <br>
+				Perfect Safe 시스템
 			</h2>
 			<img class="systemTalkImg" src="/img/service-streamlined-intro01-pc.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
 			<p class="systemText">
@@ -145,20 +158,25 @@ get_header();
 					<hr class="line-bold hdPC">
 					<div class="titleTextWrap noPad -top">
 						<h4 class="systemTitle">
-							3차 검수 프로세스
+							1:1 맞춤 자료준비 서포팅
 						</h4>
 						<p class="systemText">
-							미국 세금 신고는 미국 세법에 맞게 처음부터 끝까지 정확하게 정리해서 보고해야 합니다.
-							회계사는 고객의 자료를 보고 누락된 자료를 요청하여 보고해야 하는데, 고객이 제출한 자료만으로 보고를 해도 법적으로는 문제가 없기 때문에 대충 하는 경우가 많습니다. 하지만 저희는 고객님의 서류를 놓치지 않고 정확히 파악해서 필요한 서류를 보완해드립니다. Mark Kang Tax는 고객님이 미처 챙기지 못한 정보까지 찾아 서류를 제출할 정도로 정확한 보고를 하고 있습니다.
+							미국 세금보고는 홈택스 전산 시스템을 통해 자동으로 자료가 정리되는 한국 세금 보고와 달리 본인이 직접 모든 자료를 취합하고 정리해야 합니다. 
+							만약, 자료가 누락되거나 잘못 보고되면 벌금 등의 불이익을 받을 수 있기 때문에, 철저한 서류 준비는 필수입니다. 
+							하지만, 납세자는 세법을 잘 몰라 어디서부터 어떤 자료를 준비해야 하는지를 잘 모르기 때문에 제대로 보고 하기가 어렵습니다. 
+							특히, 본인의 상황에 따라서 준비해야 하는 서류가 각기 다르고 복잡합니다. 
+							Mark Kang Tax 는 각각의 고객마다 자료를 제대로 준비할 수 있도록 1:1 맞춤 자료 준비 서포팅을 해드립니다. 
+							한번 주어진 자료를 받고 끝내는 것이 아니라 자료가 완벽하게 준비될 때까지 추가 자료 요청을 진행하여 제대로 된 보고를 하기 위해 최선을 다합니다. 
 						</p>
 					</div>
 					<div class="titleTextWrap">
 						<h4 class="systemTitle noPad -top">
-							1:1 맞춤자료 서포팅
+							3차 검수 프로세스
 						</h4>
 						<p class="systemText">
-							각각의 고객에게 딱 맞는 자료를 준비하실 수 있도록 도와드립니다. 사람마다 필요하고 준비해야 되는 서류가 각기 다릅니다. 혼자 준비하면서 주변 사람들에게 자문을 구해보아도, 사람마다 케이스가 다르기에 준비해야 되는 서류는 달라집니다.  이 과정에서 만약, 자료가 누락되거나 잘못 작성하면 벌금을 내거나 불이익을 받을 수 있기 때문에, 철저한 서류 준비는 필요가 아닌 필수입니다. 
-							그래서 Mark Kang Tax에서는 고객에게 받은 자료도 누락된 것이 없는지 꼼꼼하게 검토합니다. 그리고 자료가 완벽하게 준비될 수 있도록 추가 자료 요청을 진행합니다. 주어진 서류를 받고 끝나는 것이 아니라 완벽한 자료 준비를 위해 꼼꼼히 검토합니다. 
+							미국 세금 신고는 미국 세법에 맞게 처음부터 끝까지 정확하게 정리해서 보고해야 합니다. 
+							하지만, 보고서 작성 업무도 사람이 하는 일이기에 실수가 나올 수 있습니다. 
+							Mark Kang Tax는 실수를 최소화하기 위해 자료 정리 및 보고서 작성 프로세스의 각 단계마다 3번씩 꼼꼼하게 검수하여 완벽하고 문제없이 보고서를 준비하고 최선을 다합니다.
 						</p>
 					</div>
 				</div>
@@ -179,25 +197,32 @@ get_header();
 					<hr class="line-bold hdPC">
 					<div class="titleTextWrap noPad -top">
 						<h4 class="systemTitle">
-							진행 상황 알림 서비스
+							진행 과정 조회 서비스
 						</h4>
 						<p class="systemText">
-							복잡하고 까다로운 미국 세금 보고 과정에서 고객님들이 안심하실 수 있도록 실시간 문자 알림 서비스를 통해 현재 진행 과정을 알려드리고 있습니다. 시간은 흐르는데 보고 진행은 잘 되고 있는지, 지금 어떤 작업이 진행 중인지 많은 분들이 궁금해하십니다. 전체 진행 과정에서 지금은 어느 단계에 있는지 아실 수 있도록 문자로 알려드리고 있습니다. 이 외에 더 궁금하신 점이 있으시면 이메일 및 카카오 채널로 언제든 문의하실 수 있습니다.
+						  복잡하고 까다로운 미국 세금 보고 과정에서 고객님들이 안심하실 수 있도록 실시간 진행 과정 조회 서비스를 제공합니다. 작업이 시작됨과 동시에, 보내드리는 링크를 통하여 지금 어떤 작업이 진행 중인지 언제든지 확인하실 수 있습니다. 이외에 더 궁금하신 점이 있으시면 이메일 및 카카오 채널로 언제든 문의하실 수 있습니다.
 						</p>
+						<img class="insertImg" src="/img/process-example.jpg" alt="마크강택스 프로세스 이미지">
 					</div>
 					<div class="titleTextWrap">
 						<h4 class="systemTitle noPad -top">
-							핫라인 국내 통화
+							시차 없는 고객 응대
 						</h4>
 						<p class="systemText">
-							급하게 연락이 필요할 때 시차 걱정 없이 바로 통화하실 수 있도록 국내 연락망 서비스를 제공합니다. (한국사무소 영업시간 9:00 - 18:00) 한국에 상주하고 있는 한국인 직원과 직접 소통하실 수 있으며 미국 현지 사무소와 긴밀하게 커뮤니케이션하고 있습니다. 미국 오피스와 직접 소통하고 싶으신 분은 카카오 채널 및 이메일로도 긴밀히 소통하실 수 있습니다.
+						  급하게 연락이 필요할 때 시차 때문에 걱정이 되신다구요? 저희는 한국 및 뉴욕에서 담당 직원이 고객님을 도와드리고 있습니다. 따라서 전 세계 어디에서도 시차 걱정 없이 전화, 이메일 및 카카오 채널을 통해서 문의하실 수 있습니다.
+						</p>
+						<p class="systemText">
+							<b>마크강 택스 영업시간</b><br>
+							한국: 월 ~ 금 오전 9시 ~ 오후 6시<br>
+							뉴욕: 월 ~ 금 오전 9시 ~ 오후 8시<br>
+
 						</p>
 					</div>
 				</div>
 			</div>
 			<hr class="line-normal hdPC">
 			<hr class="line-bold hdMB">
-		</div>	
+		</div>
 
 	
 	</section>
@@ -214,7 +239,7 @@ get_header();
 					Q. 신고하지 않았을 때 벌금은?
 				</a><br>
 				<a href="/guide/streamlined-procedures/#tempQ2Point">
-					Q. 필요한 서류는?
+					Q. Streamlined Procedures를 준비하기 위해 어떤 서류들이 필요한가요?
 				</a>
 			</p>
 		</div>
@@ -228,7 +253,7 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/irs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
 		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->

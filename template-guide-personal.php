@@ -12,7 +12,7 @@ get_header();
 	<div class="guidesTopSect">
 		<div class="sub-sect-top">
 			<div class="sub-sect-inner">
-				<p>한국인을 위한 미국세금신고<br><span>Right Tax Service가 함께 합니다</span></p>
+				<p>마크강택스에서 제대로 알려주는<br><span>미국세금보고 가이드</span></p>
 			</div>
 		</div>
 	</div>	
@@ -42,7 +42,7 @@ get_header();
 			미국 개인 소득세 신고는 미국에 사시는 분만 하는 것이 아닙니다. 본인이 미국 시민권이나 영주권자, 그리고 183일 거주 테스트를 만족하는 세법상 거주자라면 한국이 아닌 다른 해외에 거주하더라도  거기에서 발생한 소득도 전 세계의 소득(worldwide income)으로써 미국 국세청 IRS에 보고해야 하는 의무가 있습니다.
 		</p>
 		<p class="topDesc">
-			특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" style="text-decoration: underline">FATCA(해외계좌신고법)</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 그래서 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
+			특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" style="text-decoration: underline">FATCA</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
 		</p>
 	</section>
 	<!-- /INTRO 섹션 -->
@@ -146,7 +146,7 @@ get_header();
 					<section class="iconsWrap">
 						<h3 class="guideTitle">미국 세금 보고 의무 : 결혼상태(Marital Status)에 따른 세금 보고 기준 소득</h3>
 						<hr class="guideTitleUnderLine">
-						<ul class="row infoList">
+						<ul class="row infoList noPad -bottom">
 							<li class="col-sm-6 infoItem -higher">
 								<img class="guidesIcon" src="/img/icons/guides/tax-by-marriage1.png" alt="미국세금신고 기준소득 싱글신고"/>
 								<span>
@@ -199,6 +199,7 @@ get_header();
 								</span>
 							</li>
 						</ul>
+						<span style="font-size:12px;">* 2021년 기준 </span>
 					</section>
 					<p class="desc">
 						미국 세법은 한국과 달리, 가족 관계의 여건에 따라 다섯 가지 신고 유형으로 분류됩니다. 그리고 신고 유형마다 표준 공제 금액(Standard Deduction)에 차이가 있으며, 매년 물가 변동에 따라 표준 공제 금액은 달라질 수 있습니다.  일반적으로 이 표준 공제 금액보다 총소득 금액이 크다면 세금 보고 대상으로 보시면 됩니다. 하지만 부부 개별 신고의 경우, 소득이 $5 이상이면 세금 보고의 의무가 발생합니다. (세금 보고는 일반적으로 소득이 <a href="https://www.irs.gov/" style="text-decoration: underline">IRS</a>가 제시한 표준공제금액(Standard Deduction)보다 많으면 의무적으로 해야 합니다. 매년 물가 변동에 따라 표준공제금액이 다르며, 나이와 세금 보고 유형별로 그 금액에 차이가 있습니다.)
@@ -239,7 +240,7 @@ get_header();
 						미망인 신고(Qualifying Widow/er with Dependent Child Filing Status)
 					</h4>
 					<p class="desc noPad -top">
-						배우자 사망 이후, 자녀와 함께 산다면 2년까지 미망인 신고 유형으로 세금 보고를 할 수 있습니다. 미망인 신고는 부부합산 신고와 동일한 세율과 세제 혜택이 있습니다. F, J, M, Q 비자 등으로 미국에 체류 중인 유학생이라면 햇수로 5년 동안, 그리고 인턴, 연구원이나 방문교수 등 J, Q 비자 소지자라면 햇수로 2년간 세법상 비거주자(Nonresident Alien)로 보고할 수 있습니다.
+						배우자 사망 이후, 자녀와 함께 산다면 2년까지 미망인 신고 유형으로 세금 보고를 할 수 있습니다. 미망인 신고는 부부합산 신고와 동일한 세율과 세제 혜택이 있습니다. 
 					</p>
 					<p id="tempQ1Point"></p>
 				</section>
@@ -393,7 +394,7 @@ get_header();
 						급여소득
 					</h4>
 					<p class="desc noPad -top">
-						매달 받으시는 월급 등의 소득액 월급 등의 소득액을 1040에 보고합니다.
+						매달 받으시는 월급 등의 소득액을 1040에 보고합니다.
 					</p>
 					<div class="greyBox -dense">
 						<p class="greyBoxText">
@@ -439,7 +440,7 @@ get_header();
 							<thead>
 								<tr>
 									<th> </th>
-									<th>single</th>
+									<th>Single</th>
 									<th>Married Filing Jointly<br>Qualifying Widow</th>
 									<th>Married Filing Separately</th>
 									<th>Head of Household</th>
@@ -472,7 +473,7 @@ get_header();
 						</table>
 					</div>
 					<p class="desc">
-						이에 비해 단기양도소득은 위의 일반 세율표(Income tax brackets)를 따르는데, 싱글 신고 기준, $9,700 이하일 때 10%의 세율이, $510,301 이상이면 37%까지 올라갑니다. 
+						이에 비해 단기양도소득은 위의 일반 세율표(Income tax brackets)를 따르는데, 싱글 신고 기준, $9,950 이하일 때 10%의 세율이, $523,600 이상이면 37%까지 올라갑니다. 
 						양도손실은 다른 양도소득과 합산하여 보고할 수 있고, 즉 소득 금액에서 손실금을 뺀 금액이 과세대상이 됩니다. 양도 손실은 다 사용할 때까지 다음 세금 보고로 이월할 수 있습니다.
 					</p>
 					<div class="greyBox -dense">
@@ -520,7 +521,7 @@ get_header();
 					<img class="insertImg -form" src="/img/tax-Form-1040-1.jpg" alt="US-tax-1040-form1" >
 					<img class="insertImg -form" src="/img/tax-Form-1040-2.jpg" alt="US-tax-1040-form2">
 					<p class="desc">
-						* Tax year 2019 (2020) 개인 소득세 보고 양식 1040
+						* Tax year 2020 개인 소득세 보고 양식 1040
 					</p>
 					<p class="desc noPad -top">						
 						세금 보고 양식에는 각각 번호가 붙여져있는데, 가장 기본적인 개인 세금보고 양식은 1040입니다. 비거주자는 양식 1040NR, 잘못된 보고를 수정할 때는 양식1040X에 작성합니다. 
@@ -533,13 +534,13 @@ get_header();
 				<!-- 마크 코멘트 -->
 				<section class="markAdviceWrap" id="section5">
 					<div class="markTitleImg">
-						<h2 class="markTitleText">세금을 줄일 수 있는<br>2가지 방법</h2>
+						<h2 class="markTitleText"><span class="hdMB">세금을 줄이고 <br></span>세제 혜택을 <br class="hdPC">받을 수 있는 방법</h2>
 					</div>
 					<p class="desc">
 						미국 세금을 줄이는 세제 혜택에는 크게 소득 공제와 세금 공제가 있습니다. 소득 공제는 Deduction이라 하여, 세율을 곱하기 전의 소득 금액을 줄이는 것을 말하며, 세액 공제는 Credit이라 하여, 계산된 세금을 줄이는 역할을 합니다. 세금은 납세 소득에 세율이 곱해져서 계산되기 때문에 대체적으로 세액 공제가 훨씬 큰 절세 효과를 줍니다.
 					</p>
 					<p class="desc">
-						고객분들 중에 수정 보고를 의뢰하시는 경우가 있는데, 이미 세금 납부가 완료되었을지라도 수정 보고를 통해 세금을 최대한 많이 공제를 받기 위함입니다. 그리고 수정 보고를 통해 적게는 몇 천 불부터 많게는 몇 만 불까지 환급을 받으신 분들도 계셨습니다.  미국에서는 납세자가 세제 혜택에 대한 정보를 제대로 알고 있는지에 따라 혜택을 얼마나 받을 수 있을지 결정됩니다. 따라서 대다수의 미국인들이 좋은 회계사에게 세금 보고를 맡겨서 최대한의 세제 혜택을 받는 것이 절약하는 방법이라고 여깁니다. 
+						세금보고를 잘못 보고해서 이러한 혜택을 못 받으신 경우, 수정 보고를 통해 잘못된 부분을 수정하거나 적용하지 못한 공제를 추가하여 환급을 받으실 수도 합니다. 경우에 따라서 적게는 몇 천 불부터 많게는 몇 만 불까지 환급을 받으신 분들도 계셨습니다. 미국에서는 납세자가 세제 혜택에 대한 정보를 제대로 알고 있는지에 따라 혜택을 얼마나 받을 수 있을지 결정됩니다. 따라서 대다수의 미국인들이 좋은 회계사에게 세금 보고를 맡겨서 최대한의 세제 혜택을 받는 것이 절약하는 방법이라고 여깁니다. 
 					</p>
 					<img class="hdPC insertImg" src="/img/insert-img3-tax-deduction-MB.jpg" alt="미국 세금 보고 도움이 필요하신가요?">
 					<img class="hdMB insertImg" src="/img/insert-img3-tax-deduction-PC.jpg" alt="미국 세금 보고 도움이 필요하신가요?">
@@ -699,7 +700,7 @@ get_header();
 						근로소득 세금 크레딧은 저소득 근로자를 위한 세제 혜택이며 환급이 가능합니다. 근로소득이 있어야 신청할 수 있으며, 부부 개별 신고와 세법상 비거주자, 투자소득이 $3,650(회계연도 2020년 기준) 이상이면 적용이 불가능합니다. 그리고 소득 및 일정 조건을 갖춘 부양가족의 숫자에 따라 공제금액에 차이가 있습니다.
 					</p>
 					<p class="desc">
-						아래 표는 부양가족 자녀 수에 따라서 근로소득 세금 크레딧을 받을 수 있는 조정 후 총소득(AGI) 한도입니다.  회계연도 2020년 기준, 최대 크레딧은 세 자녀 이상일 때 $6,660, 두 자녀일 때 $5,920, 한 자녀일 때 $538입니다. 하지만, 이 세금 공제는 아쉽게도 해외에 거주하고 계신 분들은 받을 수 없습니다.
+						아래 표는 부양가족 자녀 수에 따라서 근로소득 세금 크레딧을 받을 수 있는 조정 후 총소득(AGI) 한도입니다.  회계연도 2020년 기준, 최대 크레딧은 세 자녀 이상일 때 $6,728, 두 자녀일 때 $5,980, 한 자녀일 때 $3,618입니다. 하지만, 이 세금 공제는 아쉽게도 해외에 거주하고 계신 분들은 받을 수 없습니다.
 					</p>
 					<div class="tableWrap">
 						<table class="sectionTable">
@@ -710,10 +711,10 @@ get_header();
 							</thead>
 							<tbody>
 								<tr>
-									<td>Single, Head of Household or Widowed</td><td>$15,820</td><td>$41,756</td><td>$47,440</td><td>$50,954</td>
+									<td>Single, Head of Household or Widowed</td><td>$15,980</td><td>$42,158</td><td>$47,915</td><td>$51,464</td>
 								</tr>
 								<tr>
-									<td>Married Filing Separately</td><td>$12,400</td><td>$47,646</td><td>$53,330</td><td>$56,844</td>
+									<td>Married Filing Jointly</td><td>$21,920</td><td>$48,108</td><td>$53,865</td><td>$57,414</td>
 								</tr>
 							</tbody>
 						</table>
@@ -859,7 +860,7 @@ get_header();
 							<li class="col-sm-6 infoItem">
 								<img class="guidesIcon" src="/img/icons/guides/tax-by-income4.png" alt="미국세금신고 기준소득 부부합산 신고"/>
 								<span>
-									해외 파트너쉽(동업) 보고
+									해외 파트너십(동업) 보고
 								</span>
 							</li>
 							<li class="col-sm-6 infoItem">
@@ -880,7 +881,7 @@ get_header();
 						해외 자산 보고(FATCA, Foreign Account Tax Compliance Act)
 					</h4>
 					<p class="desc noPad -top">
-					<a href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">FATCA</a>는 해외 자산 신고로서 세금보고를 할 때 포함하여 보고하는데, FBAR와는 달리 금융계좌뿐만이 아니라 소유한 법인의 지분도 보고하는 등 보고 대상의 범위가 넓어 FBAR 대상자가 아니지만 FATCA 대상자가 될 수도 있습니다. 또한, 거주 지역 및 결혼 상태에 따라 보고 기준 금액이 다른데, 한국의 계신 분들 중에 싱글/부부개별 신고자는 개인 자산이 연말 기준 20만불 이상, 연중 기준 30만불 이상일 때, 부부합산 신고자는 연말 40만불 이상, 연중 60만불 이상일 때, 양식 8938에 작성하여 1040에 첨부합니다.
+					<a href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">FATCA</a>는 해외 자산 신고로서 세금보고를 할 때 포함하여 보고하는데, FBAR와는 달리 금융계좌뿐만이 아니라 소유한 법인의 지분도 보고하는 등 보고 대상의 범위가 넓어 FBAR 대상자가 아니지만 FATCA 대상자가 될 수도 있습니다. 또한, 미국/해외 체류일수 및 결혼 상태에 따라 보고 기준 금액이 다른데, 한국의 계신 분들 중에 싱글/부부개별 신고자는 개인 자산이 연말 기준 20만불 초과, 연중 기준 30만불 초과일 때, 부부합산 신고자는 연말 40만불 초과, 연중 60만불 초과일 때, 양식 8938에 작성하여 1040에 첨부합니다.
 					</p>
 					<p class="desc">
 						​FATCA 보고를 누락한 경우 벌금 $10,000 을 부과하는 편지가 발급될 수 있고, 이에 응하지 않으면 30일 경과 마다 $10,000씩 추가되고 최고 $50,000의 벌금 폭탄을 맞을 수 있습니다. 또한 고의적인 미신고로 판단이 되면 형사처벌까지 받을 수도 있습니다.
@@ -895,7 +896,7 @@ get_header();
 						만약 보고를 하지 않으면 건당 $10,000의 벌금이 부과될 수 있으며, 90일 경과 후에도 미납부시 매월 $10,000이 추가되어 $50,000까지 벌금이 부과될 수 있습니다.
 					</p>
 					<h4 class="guideSubTitle">
-						해외 파트너쉽(동업) 보고
+						해외 파트너십(동업) 보고
 					</h4>
 					<p class="desc noPad -top">
 						해외에서 동업을 하는 업체의 지분율이 50%를 초과하거나, 미국 납세자들이 50% 이상 지분을 소유하고 있는 업체에 10% 이상의 지분을 소유한다면 위의 해외 법인 보고와 마찬가지로 동업의 정보와 손익계산서, 대차 대조표 등의 재무제표를 양식 8865에 보고해야 합니다.
@@ -934,7 +935,7 @@ get_header();
 
 	<!-- 하단배너 -->
 	<section class="bannerWrap container">
-		<a href="/rs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
+		<a href="/irs-tax-filing-service"><img class="ctaBanner -left" src="/img/banner/ctaBanner1.jpg" alt="미국세금보고 안내 페이지로 이동"></a>
 		<a href="/us-certified-public-accountant/mark-kang"><img class="ctaBanner -right" src="/img/banner/ctaBanner2.jpg" alt="Mark Kang 소개 페이지로 이동"></a>
 	</section>
 	<!-- /하단배너 -->
