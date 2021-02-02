@@ -75,28 +75,51 @@ get_header();
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-6 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미신고패널티 아이콘"/>
-								<span>FBAR: <br class="hdMB">최대 $12,912, 누락 계좌 잔고의 50%까지</span>
+								<img class="guidesIcon" src="/img/icons/guides/fine-icon.png" alt="미신고패널티 아이콘"/>
+								<span>FBAR <br>
+									<span class="itemDesc">
+										최대 $12,912, 누락 계좌 잔고의 50%까지
+									</span>
+								</span>
 							</li>
 							<li class="col-sm-6 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미신고패널티 아이콘"/>
-								<span>FATCA: <br class="hdMB">건당 $10,000, 최대 $50,000</span>
+								<img class="guidesIcon" src="/img/icons/guides/fine-icon.png" alt="미신고패널티 아이콘"/>
+								<span>FATCA <br>
+									<span class="itemDesc">
+										건당 $10,000, 최대 $50,000</span>
+									</span>
 							</li>
 							<li class="col-sm-6 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미신고패널티 아이콘"/>
-								<span>해외 법인 보고: <br class="hdMB">건당 $10,000, 최대 $50,000</span>
+								<img class="guidesIcon" src="/img/icons/guides/fine-icon.png" alt="미신고패널티 아이콘"/>
+								<span>해외 법인 보고 <br>
+									<span class="itemDesc">
+										건당 $10,000, 최대 $50,000
+									</span>
+								</span>
 							</li>
 							<li class="col-sm-6 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미신고패널티 아이콘"/>
-								<span>해외 파트너십 보고: <br class="hdMB">건당 $10,000, 최대 $50,000</span>
+								<img class="guidesIcon" src="/img/icons/guides/fine-icon.png" alt="미신고패널티 아이콘"/>
+								<span>해외 파트너십 보고 <br>
+									<span class="itemDesc">
+										건당 $10,000, 최대 $50,000
+									</span>
+								</span>
 							</li>
 							<li class="col-sm-6 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미신고패널티 아이콘"/>
-								<span>해외 사모 펀드 보고: <br class="hdMB">건당 $10,000</span>
+								<img class="guidesIcon" src="/img/icons/guides/fine-icon.png" alt="미신고패널티 아이콘"/>
+								<span>해외 사모 펀드 보고 <br>
+									<span class="itemDesc">
+										건당 $10,000
+									</span>
+								</span>
 							</li>
 							<li class="col-sm-6 infoItem">
-								<img class="guidesIcon" src="/img/icons/fbar/icons-fbar-accounts-8.png" alt="미신고패널티 아이콘"/>
-								<span>해외 증여 보고: <br class="hdMB">최대 증여 금액의 25%</span>
+								<img class="guidesIcon" src="/img/icons/guides/fine-icon.png" alt="미신고패널티 아이콘"/>
+								<span>해외 증여 보고 <br>
+									<span class="itemDesc">
+										최대 증여 금액의 25%
+									</span>
+								</span>
 							</li>
 						</ul>
 					</section>
@@ -154,19 +177,19 @@ get_header();
 						</h2>
 					</div>
 					<section class="iconsWrap">
-						<h3 class="guideTitle">SFCP 필요 서류</h3>
+						<h3 class="guideTitle">필요 서류</h3>
 						<hr class="guideTitleUnderLine">
 						<ul class="row infoList">
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/guides/tax-by-marriage2.png" alt="FATCA 기준 거주지 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/guides/documents-icon.png" alt="Streamlined Procedures 필요 서류 아이콘"/>
 								<span>지난 3년치의 미국세금 보고 혹은 수정 세금보고</span>
 							</li>
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/guides/tax-by-marriage3.png" alt="FATCA 기준 결혼 여부 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/guides/documents-icon.png" alt="Streamlined Procedures 필요 서류 아이콘"/>
 								<span>지난 6년치의 FBAR 보고</span>
 							</li>
 							<li class="col-sm-12 infoItem">
-								<img class="guidesIcon" src="/img/icons/guides/tax-by-marriage3.png" alt="FATCA 기준 결혼 여부 아이콘"/>
+								<img class="guidesIcon" src="/img/icons/guides/documents-icon.png" alt="Streamlined Procedures 필요 서류 아이콘"/>
 								<span>비고의성 증명 사유서 양식 14653</span>
 							</li>
 						</ul>

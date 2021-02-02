@@ -19,7 +19,7 @@
       Mark Kang Tax와 함께하세요. 
     </p>
     <div class="main-top-btn">
-      간편 상담 바로가기
+      <a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noreferrer noopener">간편 상담 바로가기</a>
       <img class="middle-btn-arr hdMB-inb" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
     </div>
 	</div>
@@ -53,7 +53,7 @@
       늦기 전에 Mark Kang Tax 회계사
       마크강에게 문의하세요.
     </p>
-    <a class="btn_st01">회계사 마크스토리 보기</a>
+    <a href="/us-certified-public-accountant/mark-kang/" class="btn_st01">회계사 마크스토리 보기</a>
   </div>
   <img class="main-mark-img" src="/img/main-mark-kang-profile.jpg" alt="미국 회계사 마크강택스 마크강의 프로필 사진">
 </section>
@@ -71,30 +71,34 @@
       완벽한 개인 세금보고 서비스
     </p>
   </div>
-  <div class="service-box -first">
-    <p>
-      <div>
-        <span class="hdPC">'완벽한 절세'를 위한</span>
-        <div class="text-icon-wrap">
-        <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인 세금보고</span>
-          <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
+  <a href="/irs-tax-filing-service/">
+    <div class="service-box -first">
+      <p>
+        <div>
+          <span class="hdPC">'완벽한 절세'를 위한</span>
+          <div class="text-icon-wrap">
+          <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인 세금보고</span>
+            <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
+          </div>
         </div>
-      </div>
-    </p>
-    <h2 class="ff-mj">Perfect Save</h2>
-  </div>
-  <div class="service-box">
-    <p>
-      <div>
-        <span class="hdPC">100% 벌금사면</span>
-        <div class="text-icon-wrap">
-        <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>밀린 세금보고</span>
-          <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
+      </p>
+      <h2 class="ff-mj">Perfect Save</h2>
+    </div>
+  </a>
+  <a href="/irs-tax-filing-streamlined-procedures/">
+    <div class="service-box">
+      <p>
+        <div>
+          <span class="hdPC">100% 벌금사면</span>
+          <div class="text-icon-wrap">
+          <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>밀린 세금보고</span>
+            <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
+          </div>
         </div>
-      </div>
-    </p>
-    <h2 class="ff-mj">Perfect Safe</h2>
-  </div>
+      </p>
+      <h2 class="ff-mj">Perfect Safe</h2>
+    </div>
+  </a>
 </section>
 
 
@@ -113,13 +117,13 @@
       <span class="inner-icon col-sm-2">
         <img class="guide-icon" src="/img/icons/main-guide-cliboard-icon01.png" alt="가이드 아이콘">
       </span>
-      <span class="inner-text col-sm-8">
+      <span class="inner-text col-sm-10">
         <div class="inner-inner">
-          <a>개인 세금신고 총정리</a>
+          <a href="/미국-세금-보고-개인소득세/">개인 세금신고 총정리</a>
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">
-          미국 시민권이나 영주권자, 그리고 세법상 거주자라면 한국이 아닌 다른 해외에 거주하더라도 소득을 미국 국세청에 보고해야 하는 의무가 있습니다.
+          미국 시민권이나 영주권자, 그리고 세법상 거주자라면 한국이 아닌 다른 해외에 거주하더라도 <br>소득을 미국 국세청에 보고해야 하는 의무가 있습니다.
         </p>
       </span>
     </div>
@@ -129,13 +133,13 @@
       <span class="inner-icon col-sm-2">
         <img class="guide-icon" src="/img/icons/main-guide-cliboard-icon01.png" alt="가이드 아이콘">
       </span>
-      <span class="inner-text col-sm-8">
+      <span class="inner-text col-sm-10">
         <div class="inner-inner">
-          <a>FBAR 해외 금융 계좌 신고</a>
+          <a href="/fbar-해외금융계좌보고/">FBAR 해외 금융 계좌 신고</a>
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">
-          일 년 중 어느 하루라도 본인 명의의 모든 계좌의 잔액 총합이 $10,000을 넘었다면, 한국 혹은 해외에 보유한 금융 자산을 미 재무부(FinCEN)에 온라인으로 제출해야 합니다.
+          일 년 중 어느 하루라도 본인 명의의 모든 계좌의 잔액 총합이 $10,000을 넘었다면, <br>한국 혹은 해외에 보유한 금융 자산을 미 재무부(FinCEN)에 온라인으로 제출해야 합니다.
         </p>
       </span>
     </div>
@@ -145,13 +149,13 @@
       <span class="inner-icon col-sm-2">
         <img class="guide-icon" src="/img/icons/main-guide-cliboard-icon01.png" alt="가이드 아이콘">
       </span>
-      <span class="inner-text col-sm-8">
+      <span class="inner-text col-sm-10">
         <div class="inner-inner">
-          <a>FATCA 해외 자산 신고</a>
+          <a href="/fatca-해외금융자산보고/">FATCA 해외 자산 신고</a>
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">
-          해외 금융 계좌 및 해외자산도 신고해야 합니다. 정보성 보고이므로 따로 세금이 부과되지는 않으나, 미신고시 벌금이 부과될 수 있습니다.
+          해외 금융 계좌 및 해외자산도 신고해야 합니다. 정보성 보고이므로 <br>따로 세금이 부과되지는 않으나, 미신고시 벌금이 부과될 수 있습니다.
         </p>
       </span>
     </div>
@@ -161,13 +165,13 @@
       <span class="inner-icon col-sm-2">
         <img class="guide-icon" src="/img/icons/main-guide-cliboard-icon01.png" alt="가이드 아이콘">
       </span>
-      <span class="inner-text col-sm-8">
+      <span class="inner-text col-sm-10">
         <div class="inner-inner">
-          <a>Streamlined Procedures</a>
+          <a href="/guide/streamlined-procedures/">Streamlined Procedures</a>
           <img src="/img/icons/main-guide-icon01.png" alt="화살표 아이콘">
         </div>
         <p class="hdMB-inb">
-          만약 IRS에 미처 보고하지 못했다면 해외자산 자진신고 간소화 절차를 통해 그동안의 누락된 신고들을 한 번에 처리할 수 있습니다. 
+          만약 IRS에 미처 보고하지 못했다면 해외자산 자진신고 간소화 절차를 통해 <br>그동안의 누락된 신고들을 한 번에 처리할 수 있습니다. 
         </p>
       </span>
     </div>
@@ -185,7 +189,7 @@
       최고의 혜택을 연구하는<br>
       Mark Kang Tax와 함께하세요
     </h2>
-    <a class="middle-btn">
+    <a class="middle-btn" href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noreferrer noopener">
       간편 상담 바로가기
       <img class="middle-btn-arr" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
     </a>

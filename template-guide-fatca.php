@@ -104,7 +104,7 @@ get_header();
 					<p class="desc noPad -top">
 						FATCA는 미국 세금 보고 대상자 중에, 일정 기준 금액을 넘는 해외 계좌 및 자산을 보유하고 있다면, 
 						세금 보고서와 함께 해외 자산 정보를 양식 8938에 보고합니다. 따라서 FATCA 신고의 신분 요건은, 
-						세금 보고 대상자와 동일한 미국 시민권자/영주권자/<a rel="noreferrer noopener" aria-label="(opens in a new tab)183일 거주 테스트" href="https://righttaxservice.com/%eb%af%b8%ea%b5%ad-%ec%84%b8%ea%b8%88-%eb%b3%b4%ea%b3%a0-%ec%9d%98%eb%ac%b4-%eb%8c%80%ec%83%81%ec%9e%90/" target="_blank" style="text-decoration: underline;">183일 거주 테스트</a>를 통과한 세법상 거주자입니다. 
+						세금 보고 대상자와 동일한 미국 시민권자/영주권자/<a rel="noreferrer noopener" aria-label="(opens in a new tab)183일 거주 테스트" href="/%eb%af%b8%ea%b5%ad-%ec%84%b8%ea%b8%88-%eb%b3%b4%ea%b3%a0-%ec%9d%98%eb%ac%b4-%eb%8c%80%ec%83%81%ec%9e%90/" target="_blank" style="text-decoration: underline;">183일 거주 테스트</a>를 통과한 세법상 거주자입니다. 
 					</p>
 					<p class="desc">
 						하지만 만약 FATCA를 보고해야 하는 자산 기준액을 넘어서 보고 대상자에 해당하지만, IRS에 신고할 소득이 없거나 소득 금액이 일정액 미만이어서 소득세 신고 의무가 없다면 FATCA 보고를 할 필요는 없습니다.

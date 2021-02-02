@@ -1182,20 +1182,22 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 
 @media(min-width:768px){
 .main-sect-top {height:760px; padding-top:67px; background:#999 url('/img/bg/main-top-bg-pc.jpg') center no-repeat fixed; background-size:cover;}
-.main-sect-top .main-sect-inner {height:100%; padding:197px 0 0 0; text-align:left;}
-.main-sect-top .main-sect-inner h1 {font-size:72px;}
+.main-sect-top .main-sect-inner {height:100%; padding:168px 0 0 0; text-align:left;}
+.main-sect-top .main-sect-inner h1 {font-size:58px;}
 .main-sect-top .main-sect-inner h2 {font-size:42px; font-weight: bold;}
 .main-sect-top .main-sect-inner p {color: #fff; font-size:18px; line-height: 1.75;}
 .main-sect-top .main-sect-inner .main-top-btn {font-size: 16px; border: 1px solid #fff; width: fit-content; padding: 11px 27px; border-radius: 22px; margin:18px 0 0 0; display: flex; align-items: center;}
 .main-sect-top .main-sect-inner .main-top-btn .middle-btn-arr {padding-left:8px; height: 13px;}
 
+.main-mark-img {padding: 54px 17px 0 17px;}
+
 .main-sect-mention {margin: 166px 0 0 0;}
-.main-sect-mention h2 {font-size:48px; font-weight: bold;}
+.main-sect-mention h2 {font-size:38px; font-weight: bold;}
 .main-sect-mark-wrap {display: flex; flex-direction: row-reverse; align-items: center; justify-content: center;}
 .main-sect-mark-wrap .sect-mark-text {padding: 0 28px; float: right;}
 
-.main-sect-mark-wrap h2 {font-size:48px; letter-spacing: -0.5px;}
-.main-sect-mark-wrap h3 {font-size:36px; letter-spacing: -0.5px; padding-top: 7px;}
+.main-sect-mark-wrap h2 {font-size:34px; letter-spacing: -0.5px;}
+.main-sect-mark-wrap h3 {font-size:28px; letter-spacing: -0.5px; padding-top: 7px;}
 .main-sect-mark-wrap p {font-size:21px; letter-spacing: -0.5px; line-height:1.75; padding-top:10px;}
 
 .main-sect-service-wrap {height:952px; padding-top: 140px;}
@@ -1224,6 +1226,13 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 .main-sect-middle-wrap {height: 585px; background: url('/img/bg/main-middle-bg-pc.jpg') center top no-repeat; background-size:cover; display: flex; justify-content: center; align-items: center;}
 .main-sect-middle-wrap .middle-text-title {padding: 0;}
 
+}
+
+@media(min-width:992px){
+	.main-sect-top .main-sect-inner h1 {font-size:72px;}
+	.main-sect-mark-wrap h2 {font-size:48px;}
+	.main-sect-mark-wrap h3 {font-size:36px;}
+	.main-sect-mention h2 {font-size:48px;}
 }
 
 

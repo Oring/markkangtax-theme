@@ -42,7 +42,7 @@ get_header();
 			미국 개인 소득세 신고는 미국에 사시는 분만 하는 것이 아닙니다. 본인이 미국 시민권이나 영주권자, 그리고 183일 거주 테스트를 만족하는 세법상 거주자라면 한국이 아닌 다른 해외에 거주하더라도  거기에서 발생한 소득도 전 세계의 소득(worldwide income)으로써 미국 국세청 IRS에 보고해야 하는 의무가 있습니다.
 		</p>
 		<p class="topDesc">
-			특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" style="text-decoration: underline">FATCA</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
+			특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/fatca-해외금융자산보고/" target="_blank" style="text-decoration: underline">FATCA</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
 		</p>
 	</section>
 	<!-- /INTRO 섹션 -->
@@ -285,7 +285,7 @@ get_header();
 						언제까지 세금을 보고하고 납부해야 할까요?
 					</h4>
 					<p class="desc noPad -top">
-						매년 4월 15일이 세금 보고 정규 마감일입니다. 특히 해외에서 거주 중인 미국 시민권/영주권자는 자동으로 2개월이 연장되어 6월 15일까지 보고할 수 있습니다. 그리고 양식 4868을 제출하여 연장 신청을 하면 10월 15일까지 <a href="https://righttaxservice.com/%eb%af%b8%ea%b5%ad%ec%84%b8%ea%b8%88%eb%b3%b4%ea%b3%a0-%eb%a6%ac%ed%8e%80%eb%93%9c%ea%b8%b0%ea%b0%84/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">세금보고 기한</a>이 연장됩니다.<br>
+						매년 4월 15일이 세금 보고 정규 마감일입니다. 특히 해외에서 거주 중인 미국 시민권/영주권자는 자동으로 2개월이 연장되어 6월 15일까지 보고할 수 있습니다. 그리고 양식 4868을 제출하여 연장 신청을 하면 10월 15일까지 <a href="/%eb%af%b8%ea%b5%ad%ec%84%b8%ea%b8%88%eb%b3%b4%ea%b3%a0-%eb%a6%ac%ed%8e%80%eb%93%9c%ea%b8%b0%ea%b0%84/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">세금보고 기한</a>이 연장됩니다.<br>
 						만약 제시간에 세금보고 및 세금 납부를 못했을 경우에는 아래와 같은 벌금이 있습니다.
 					</p>
 					<img class="hdMB insertImg" src="/img/insert-img4-tax-due-date-PC.jpg" alt="">
@@ -427,7 +427,7 @@ get_header();
 						</p>
 					</div>
 					<h4 class="guideSubTitle">
-					<a href="https://righttaxservice.com/%eb%af%b8%ea%b5%ad%ec%96%91%eb%8f%84%ec%86%8c%eb%93%9d%ec%84%b8/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">양도소득</a>
+					<a href="/%eb%af%b8%ea%b5%ad%ec%96%91%eb%8f%84%ec%86%8c%eb%93%9d%ec%84%b8/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">양도소득</a>
 					</h4>
 					<p class="desc noPad -top">
 						부동산 및 동산 등의 보유 자산을 처분하는 과정에서 발생한 차익과 손실을 Schedule D에 보고합니다. 이때, 한국에서 상장 주식 양도 소득 등 비과세에 해당하는 것도 미국에는 과세대상으로서 보고해야 합니다.
@@ -819,7 +819,7 @@ get_header();
 					<div class="markTitleImg">
 						<h2 class="markTitleText">
 							한국의 재산도 <br class="hdPC">보고해야 할까?
-							<span class="hdMB">그 밖에 보고해야 하는 것은?<span>
+							<span class="hdMB">그밖에 보고해야 하는 것은?<span>
 						</h2>
 					</div>
 					<p class="desc">
@@ -875,13 +875,13 @@ get_header();
 						해외금융계좌보고(FBAR, Foreign Bank and Financial Accounts)
 					</h4>
 					<p class="desc noPad -top">
-						미국 영주권자/시민권자, 세법상의 거주자는 한 해의 모든 해외 금융 계좌의 연중 최고 잔액들의 합이 $10,000 넘게 보유한 적이 있다면, 그 구체적인 내용을 세금보고 양식 1040과는 별개로 FinCen Form 114를 통해 미 재무부에 전자 보고를 합니다. <a href="https://righttaxservice.com/fbar-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ea%b3%84%ec%a2%8c%eb%b3%b4%ea%b3%a0/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">FBAR 보고</a>를 비고의성으로 하지 않았다면 최대 벌금이 $12,912이며, 고의성 누락으로 판단이 되면 그 벌금이 미보고 계좌 금액의 50%까지 부과될 수도 있습니다.
+						미국 영주권자/시민권자, 세법상의 거주자는 한 해의 모든 해외 금융 계좌의 연중 최고 잔액들의 합이 $10,000 넘게 보유한 적이 있다면, 그 구체적인 내용을 세금보고 양식 1040과는 별개로 FinCen Form 114를 통해 미 재무부에 전자 보고를 합니다. <a href="/fbar-해외금융계좌보고/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">FBAR 보고</a>를 비고의성으로 하지 않았다면 최대 벌금이 $12,912이며, 고의성 누락으로 판단이 되면 그 벌금이 미보고 계좌 금액의 50%까지 부과될 수도 있습니다.
 					</p>
 					<h4 class="guideSubTitle">
 						해외 자산 보고(FATCA, Foreign Account Tax Compliance Act)
 					</h4>
 					<p class="desc noPad -top">
-					<a href="https://righttaxservice.com/fatca-%ed%95%b4%ec%99%b8%ea%b8%88%ec%9c%b5%ec%9e%90%ec%82%b0%eb%b3%b4%ea%b3%a0/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">FATCA</a>는 해외 자산 신고로서 세금보고를 할 때 포함하여 보고하는데, FBAR와는 달리 금융계좌뿐만이 아니라 소유한 법인의 지분도 보고하는 등 보고 대상의 범위가 넓어 FBAR 대상자가 아니지만 FATCA 대상자가 될 수도 있습니다. 또한, 미국/해외 체류일수 및 결혼 상태에 따라 보고 기준 금액이 다른데, 한국의 계신 분들 중에 싱글/부부개별 신고자는 개인 자산이 연말 기준 20만불 초과, 연중 기준 30만불 초과일 때, 부부합산 신고자는 연말 40만불 초과, 연중 60만불 초과일 때, 양식 8938에 작성하여 1040에 첨부합니다.
+					<a href="/fatca-해외금융자산보고/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration: underline">FATCA</a>는 해외 자산 신고로서 세금보고를 할 때 포함하여 보고하는데, FBAR와는 달리 금융계좌뿐만이 아니라 소유한 법인의 지분도 보고하는 등 보고 대상의 범위가 넓어 FBAR 대상자가 아니지만 FATCA 대상자가 될 수도 있습니다. 또한, 미국/해외 체류일수 및 결혼 상태에 따라 보고 기준 금액이 다른데, 한국의 계신 분들 중에 싱글/부부개별 신고자는 개인 자산이 연말 기준 20만불 초과, 연중 기준 30만불 초과일 때, 부부합산 신고자는 연말 40만불 초과, 연중 60만불 초과일 때, 양식 8938에 작성하여 1040에 첨부합니다.
 					</p>
 					<p class="desc">
 						​FATCA 보고를 누락한 경우 벌금 $10,000 을 부과하는 편지가 발급될 수 있고, 이에 응하지 않으면 30일 경과 마다 $10,000씩 추가되고 최고 $50,000의 벌금 폭탄을 맞을 수 있습니다. 또한 고의적인 미신고로 판단이 되면 형사처벌까지 받을 수도 있습니다.

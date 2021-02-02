@@ -184,6 +184,9 @@ get_header();
 						  복잡하고 까다로운 미국 세금 보고 과정에서 고객님들이 안심하실 수 있도록 실시간 진행 과정 조회 서비스를 제공합니다. 작업이 시작됨과 동시에, 보내드리는 링크를 통하여 지금 어떤 작업이 진행 중인지 언제든지 확인하실 수 있습니다. 이외에 더 궁금하신 점이 있으시면 이메일 및 카카오 채널로 언제든 문의하실 수 있습니다.
 						</p>
 						<img class="insertImg" src="/img/process-example.jpg" alt="마크강택스 프로세스 이미지">
+						<p class="systemText noPad -top">
+						  * 개인 프로세스 안내 예시 이미지
+						</p>					
 					</div>
 					<div class="titleTextWrap">
 						<h4 class="systemTitle noPad -top">
