@@ -11,15 +11,15 @@
       확실한 벌금 사면
     </h1>
     <h2>
-      프리미엄 미국세금신고 [마크강택스]
+      한국인을 위한 미국세금신고 [마크강택스]
     </h2>
     <p class="hdMB">
-      한국인을 위한 미국 세금 신고,<br>
+      
       최고의 혜택을 연구하는<br>
       Mark Kang Tax와 함께하세요. 
     </p>
     <div class="main-top-btn">
-      <a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noreferrer noopener">간편 상담 바로가기</a>
+      <a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noreferrer noopener">간편한 채팅 상담 시작하기</a>
       <img class="middle-btn-arr hdMB-inb" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
     </div>
 	</div>
@@ -68,37 +68,39 @@
     </p>
     <p>
       철저한 원칙에 입각한<br class="hdPC">
-      완벽한 개인 세금보고 서비스
+      완벽한 개인 세금신고 서비스
     </p>
   </div>
-  <a href="/irs-tax-filing-service/">
-    <div class="service-box -first">
+  
+  <div class="service-box -first">
+    <a href="/irs-tax-filing-service/">
+      <h2 class="ff-mj">Perfect 소득신고</h2>
       <p>
         <div>
           <span class="hdPC">'완벽한 절세'를 위한</span>
           <div class="text-icon-wrap">
-          <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인 세금보고</span>
+          <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인 소득신고</span>
             <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
           </div>
         </div>
       </p>
-      <h2 class="ff-mj">Perfect Save</h2>
-    </div>
-  </a>
-  <a href="/irs-tax-filing-streamlined-procedures/">
-    <div class="service-box">
+    </a>
+  </div>
+ 
+  <div class="service-box">
+    <a href="/irs-tax-filing-streamlined-procedures/">
+      <h2 class="ff-mj">Perfect 벌금사면</h2>
       <p>
         <div>
           <span class="hdPC">100% 벌금사면</span>
           <div class="text-icon-wrap">
-          <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>밀린 세금보고</span>
+          <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>Streamlined Procedure</span>
             <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
           </div>
         </div>
       </p>
-      <h2 class="ff-mj">Perfect Safe</h2>
-    </div>
-  </a>
+    </a>
+  </div>
 </section>
 
 
@@ -107,7 +109,7 @@
   <div class="guide-text-title text-center">
     <h2 class="ff-mj">
       처음 오신 분들을 위한<br>
-      세금보고 가이드
+      세금신고 가이드
     </h2>
   </div>
   <div class="guide-box">

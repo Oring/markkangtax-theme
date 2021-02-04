@@ -81,13 +81,40 @@ get_header();
 
 	<!-- 시스템 소개 -->
 	<section class="serviceSystemWrap container noPad -bottom">
-		<div class="serviceSystemIntro">
+		<!-- <div class="serviceSystemIntro">
 			<h2 class="systemTitle text-center">
 				안심하고 최고의 혜택을 누리는<br>
 				Perfect Save 6가지 시스템
 			</h2>
 			<img class="systemTalkImg hdPC" src="/img/service-personal-intro01-mb.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
 			<img class="systemTalkImg hdMB-inb" src="/img/service-personal-intro01-pc.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
+			<p class="systemText">
+				회계 서비스를 이용하시는 고객님들이
+				불안해하지 않고 최고의 혜택을 누리실 수 있도록 <br class="hdMB-inb">
+				철저한 원칙에 입각한 체계적인 시스템으로 세금보고를 진행합니다.
+			</p>
+		</div> -->
+
+		<div class="serviceSystemIntro">
+			<h2 class="systemTitle text-center">
+				혹시나, 하는 걱정 미리 없애주는<br>
+				안심 피드백 적용 시스템
+			</h2>
+			<p class="systemText">
+				세무보고를 진행하다보면 고객님들의 고민과 걱정을 가장 가까이서 듣게됩니다. <br class="hdMB-inb">
+				그 고민들과 피드백들을 모두 담아 시스템에 반영하여 <br class="hdMB-inb">고객님이 안심할 수 있는 완벽한 절세 시스템을 구축하고 있습니다.
+				
+				
+			</p>
+			<img class="systemTalkImg hdPC" src="/img/service-personal-intro01-mb.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
+			<img class="systemTalkImg hdMB-inb" src="/img/service-personal-intro01-pc.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
+		</div>
+
+		<div class="serviceSystemIntro -second">
+			<h2 class="systemTitle text-center">
+				완벽한 절세를 위한<br>
+				6가지 서비스
+			</h2>
 			<p class="systemText">
 				회계 서비스를 이용하시는 고객님들이
 				불안해하지 않고 최고의 혜택을 누리실 수 있도록 <br class="hdMB-inb">
@@ -107,7 +134,7 @@ get_header();
 					<hr class="line-bold hdPC">
 					<div class="titleTextWrap noPad -top">
 						<h4 class="systemTitle">
-							완벽한 절세 시나리오
+							절세 시나리오 연구
 						</h4>
 						<p class="systemText">
 							Mark Kang Tax는 자체적으로 보유한 절세 시나리오를 통해 현재 고객 상황에 가장 적합한 절세 방안을 연구합니다. 세법을 많이 알수록 혜택도 늘어납니다. 같은 조건의 사람도 어떻게 보고를 하느냐에 따라 세금을 환급받을 수도 있고, 세금을 납부하게 될 수도 있습니다. 그 차이는 꼼꼼하고 철저한 세법의 숙지에서 시작되기에 끊임없이 한국과 미국의 세법을 꼼꼼히 연구합니다.

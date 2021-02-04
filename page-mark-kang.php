@@ -104,7 +104,7 @@ get_header();
 
 			<div class="mk-row mr05">
 				<div class="row">
-					<div class="col-md-9 col-lg-offset-2">
+					<div class="col-md-9">
 						
 						<h4 class="mk-subtit mgBottom">국제회계, 집요한 연구가 필요합니다</h4>
 						<p class="mk-row-text ff-mj">
@@ -122,13 +122,13 @@ get_header();
 						</div>
 					</div>
 				</div>
-				<div class="mkimg_03">
+				
+			</div>
+			<div class="mkimg_03">
 					<img src="/img/mark-kang.jpg" alt="Mark Kang's profile">
 					<br><br>
 					<!-- <img src="/img/mark-kang2.jpg" alt="Mark Kang's profile"> -->
 				</div>
-			</div>
-
 		</div>
 	</section>
 	</article>

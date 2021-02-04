@@ -733,6 +733,8 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 	.mark-column .view-article {display:block;}
 	.mark-column .section-tit h1{font-size: 36px; font-weight: bold;}
 	.mark-column .section-tit {margin: 52px 0 51px 0;}
+
+	.mk-container .mk-row {padding-bottom:100px; padding-left: 167px}
 }
 /*
 @media(max-width:480px){
@@ -920,8 +922,9 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .serviceSystemWrap .line-bold {border-top: solid 2px #000; margin:0;}
 .serviceSystemWrap .line-normal {border-top: solid 1px #000; margin:0;}
 
-.serviceSystemWrap .serviceSystemIntro  { padding-bottom : 100px;}
-.serviceSystemWrap .serviceSystemIntro .systemTitle { font-size:18px; font-weight:bold; color: #5c5c5c;}
+.serviceSystemWrap .serviceSystemIntro  { padding-bottom : 50px;}
+.serviceSystemWrap .serviceSystemIntro.-second  { padding-bottom : 30px;}
+.serviceSystemWrap .serviceSystemIntro .systemTitle { font-size:18px; font-weight:bold; color: #5c5c5c; padding-bottom:15px}
 .serviceSystemWrap .serviceSystemIntro .systemTalkImg { padding: 24px 0 15px 0;}
 
 .serviceSystemWrap .systemScenario {padding-top: 69px;}
@@ -953,7 +956,7 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .serviceCaseWrap .serviceCaseBox .caseBoxRight {padding-top: 5px;}
 .serviceCaseWrap .serviceCaseBox .caseBoxRight .caseBoxTit { font-size: 30px; padding-bottom:15px; line-height: 1;}
 
-.serviceSystemWrap .serviceSystemIntro {text-align:center;}
+.serviceSystemWrap .serviceSystemIntro {padding-bottom : 100px; text-align:center;}
 .serviceSystemWrap .serviceSystemIntro .systemTitle { padding-bottom: 20px; font-size:36px; line-height: 1.33; letter-spacing: -0.5px;}
 .serviceSystemWrap .serviceSystemIntro .systemText { font-size:16px; line-height: 1.75; letter-spacing: -0.5px;}
 
@@ -1155,7 +1158,7 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 .main-sect-service-wrap .service-box .service-icon {width:5px; margin: 0 0 0 4px;}
 .main-sect-service-wrap .service-box p, .main-sect-service-wrap .service-box div {font-size: 16px; color: #f0dab9;}
 .main-sect-service-wrap .service-box .text-icon-wrap {display:flex; align-items:center; justify-content: center; color: #f0dab9; }
-.main-sect-service-wrap .service-box h2 {font-size: 34px; color: #f0dab9; letter-spacing: -0.5px;}
+.main-sect-service-wrap .service-box h2 {font-size: 32px; color: #f0dab9; letter-spacing: -0.5px;}
 
 .main-sect-guide-wrap {height:630px; padding: 90px 15px}
 .main-sect-guide-wrap .guide-text-title {color: #333;}
@@ -1206,7 +1209,7 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 .main-sect-service-wrap .service-text p {font-size:21px; letter-spacing: -0.5px; margin:0}
 .main-sect-service-wrap .service-box {height: 200px; width: 825px; margin: 20px auto; border-radius: 5px;  flex-direction: column-reverse;}
 .main-sect-service-wrap .service-box.-first {margin-top:48px;}
-.main-sect-service-wrap .service-box h2 {font-size: 48px;}
+.main-sect-service-wrap .service-box h2 {font-size: 43px;}
 .main-sect-service-wrap .service-box span {font-size: 21px;}
 .main-sect-service-wrap .service-box .service-icon {width:6px; margin: 0 0 0 11px;}
 
