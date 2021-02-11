@@ -20,7 +20,10 @@ get_header();
 			<div class="mk-profile">
 				<div class="mk-img"></div>
 				<div class="mk-text">
-					<h2 class="ff-mj color-brown">“아무 문제없이, 모든 세금혜택”</h2>
+					<h2 class="ff-mj color-brown">
+					“국제법 사이에서 미아가 된 고객님들을<br class="hdMB">
+					불안과 두려움으로부터 지켜드리겠습니다”
+					</h2>
 					<h3>Mark Kang 대표 연혁</h3>
 					<p>워싱턴 공인회계사 AICPA<br>
 					카이스트 박사, 스탠포드 연구원, 고려대 연구교수 경력<br>

@@ -1,4 +1,4 @@
-<?php
+ <?php
 /*
 Template Name: 서비스 - 스트림라인드
 http://localhost/irs-tax-filing-streamlined-procedures/
@@ -12,7 +12,7 @@ get_header();
 	<div class="serviceTopSect">
 		<div class="sub-sect-top">
 			<div class="sub-sect-inner">
-				<p>Perfect Safe<br><span>#Streamlined Procedures</span></p>
+				<p>Perfect Protection<br><span>#Streamlined Procedures</span></p>
 			</div>
 		</div>
 	</div>
@@ -67,23 +67,24 @@ get_header();
 			<h3 class="caseBoxSubTit">CASE#2 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
 			<div class="caseBoxRight">
 				<h4 class="caseBoxTit">
-					스위스 계좌 미신고, <br class="hdPC">40,000불 부과
-				</h4>
-				<p class="caseBoxText">
-					Moore씨는 스위스 계좌에 30만 불 이상의 금액을 가지고 있었는데 이에 관해 해외 금융 계좌 보고 및 해외 소득 보고를 2009년까지 하지 않았습니다. 그 이후에 해외 금융 계좌 보고 및 해외 소득 보고에 관한 의무에 대해 알게 되고, 2003년부터 2008년까지의 수정 세금 보고와 해외 금융 계좌 보고(FBAR)를 하였습니다. 그리고, 2009년부터는 제대로 보고하였으나, 2011년에 미국 국세청은 Moore씨에게 비고의성으로 인해 2005~2008년의 해외 금융 계좌 보고를 하지 않은 것에 대해 벌금 40,000 불을 부과합니다.
-				</p>
-			</div>
-		</div>
-		<div class="serviceCaseBox">
-			<h3 class="caseBoxSubTit">CASE#3 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
-			<div class="caseBoxRight">
-				<h4 class="caseBoxTit">
 					2,800만불 탈세 한인 <br class="hdPC">징역 6개월 1,400만불 벌금
 				</h4>
 				<p class="caseBoxText">
 					한인 김씨는 영주권을 취득한 지난 1998년 스위스를 방문해 '크레딧 스위스(Credit Suisses)' 등 5개 현지 금융회사에 계좌를 개설해 홍콩의 한 개인으로부터 거액을 송금 받았습니다. 당국이 파악한 2004년 현재 계좌 잔고액은 2800만 달러가 넘었습니다.
 					김씨는 연방법을 어기고 리히텐슈타인, 파나마 등 조세피난처에 세운 유령회사를 통해 은닉한 스위스 자산을 미국으로 들여왔습니다. 
 					법원은 징역형과 함께 10만 달러의 벌금과 국세청에 24만3542달러의 배상금을 지불하라고 지시했습니다. 김씨는 사전형량조정제도에 따른 합의로 최소 1400만 달러의 벌금을 연방재무부에 납부했습니다.
+				</p>
+			</div>
+		</div>
+		<div class="serviceCaseBox">
+			<h3 class="caseBoxSubTit">CASE#3 <br class="hdMB-inb">환급사례</h3>
+			<div class="caseBoxRight">
+				<h4 class="caseBoxTit">
+					스트림라인드 보고 후 <br class="hdPC">$1,400원 환급
+				</h4>
+				<p class="caseBoxText">
+					한국에서 살고 있으니, 미국에 세금 보고를 해야한다는것도 FBAR도 인지하지 못했습니다. 그러다가 은행 직원의 안내로 저의 한국계좌도 미국에 보고 해야한다는 사실을 알고 깜짝 놀랐습니다. 예상치 못했기에 당황을 많이 했습니다. 다행히 스트림라인드 프로그램을 통해 그동안 보고하지 못했던 FBAR와 소득 보고를 안심하고 해결할 수 있었습니다. 그리고 제에게 맞는 공제 혜택을 안내해 주셔서 $1,400 의 환급금도 받을 수 있었습니다. 마침 미국의 코로나 지원금 대상에도 포함되어 지원금 수령도 가능했습니다.
+					<br>- 박○○  고객님의 후기 中
 				</p>
 			</div>
 		</div>

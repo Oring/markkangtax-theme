@@ -2,9 +2,15 @@
 				<div class="container">
 					<div class="mark-said">
 						<h3 class="mark-tit ff-mj">
-							안심하세요. <br class="hdPC">
-							Mark Kang Tax
+							완벽한 절세, <br class="hdPC">
+							확실한 벌금 사면
 						</h3>
+						<h4 class="mark-subtit">미국 세금신고는 
+							<span class="searchBarBox"> 
+								<img class="magnifyIcon" src="/img/icons/magnify.png" alt="" />
+								마크강택스
+							</span>
+						</h4> 
 						<p class="mark-content ff-mj">
 							복잡하고 어려운 세무 업무로 고민 중이신가요?<br>
 							현재 상황을 상세히 기재하신 후 <br class="hdPC"> 
@@ -12,11 +18,13 @@
 							고객님의 문제를 해결할 수 있도록 <br class="hdPC">
 							솔루션을 연구하여<br>
 							안전하고 편안하게 상담해드리겠습니다.<br>
+						</p>
+						<a href="/contact-us/" class="middle-btn">
+							지금 상담 신청하기
+							<img class="middle-btn-arr" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
+						</a>
 					</div>
-					<a href="/contact-us/" class="middle-btn">
-						지금 상담 신청하기
-						<img class="middle-btn-arr" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
-					</a>
+					
 				</div>
 			</section>
 

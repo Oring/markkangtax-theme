@@ -98,7 +98,7 @@ get_header();
 		<div class="serviceSystemIntro">
 			<h2 class="systemTitle text-center">
 				혹시나, 하는 걱정 미리 없애주는<br>
-				안심 피드백 적용 시스템
+				안심 피드백 시스템
 			</h2>
 			<p class="systemText">
 				세무보고를 진행하다보면 고객님들의 고민과 걱정을 가장 가까이서 듣게됩니다. <br class="hdMB-inb">

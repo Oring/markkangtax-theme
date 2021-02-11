@@ -11,13 +11,17 @@
       확실한 벌금 사면
     </h1>
     <h2>
-      한국인을 위한 미국세금신고 [마크강택스]
+      Perfect Save, Perfect Care<br>
+      미국세금신고는 마크강택스
     </h2>
+
+    <!-- <h2>
+      한국인을 위한 미국세금신고 [마크강택스]
+    </h2>-->
     <p class="hdMB">
-      
       최고의 혜택을 연구하는<br>
       Mark Kang Tax와 함께하세요. 
-    </p>
+    </p> 
     <div class="main-top-btn">
       <a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noreferrer noopener">간편한 채팅 상담 시작하기</a>
       <img class="middle-btn-arr hdMB-inb" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
@@ -79,7 +83,7 @@
         <div>
           <span class="hdPC">'완벽한 절세'를 위한</span>
           <div class="text-icon-wrap">
-          <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인 소득신고</span>
+            <span class="hdMB-inb">'완벽한 절세'를 위한&nbsp;</span><span>개인 소득신고</span>
             <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
           </div>
         </div>
@@ -94,7 +98,7 @@
         <div>
           <span class="hdPC">100% 벌금사면</span>
           <div class="text-icon-wrap">
-          <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>Streamlined Procedure</span>
+            <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>Streamlined Procedure</span>
             <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
           </div>
         </div>
@@ -183,8 +187,75 @@
 </section>
 
 
+<!-- 프로세스 섹션 -->
+<section class="main-sect-process-wrap ">
+  <div class="process-title text-center">
+    <h2 class="ff-mj">
+      투명한 커뮤니케이션
+    </h2>
+    <p>
+      <span class="hdMB">모든 세금보고 과정에서 안심하실 수 있도록</span>
+      개인에게 제공되는 고유 링크를 통하여<br>
+      어떤 과정으로 진행되고 있는지<br class="hdPC">
+      실시간으로 알려드립니다. 
+    </p>
+    <img class="hdMB-inb" src="/img/main-sect-process.png" />
+  </div>
+  <div class="process-list-wrap hdPC">
+    <ul>
+      <li>
+        <div class="list-inner">
+          <img class="process-icon-first" src="/img/icons/process/process_01.png" alt="">01 자료취합
+        </div>
+        <img class="process-icon-last" src="/img/icons/process/process-check-icon.png" alt="">
+      </li>
+      <li>
+        <div class="list-inner">
+          <img class="process-icon-first" src="/img/icons/process/process_03.png" alt="">02 자료정리
+        </div>
+        <img class="process-icon-last" src="/img/icons/process/process-check-icon.png" alt="">
+      </li>
+      <li>
+        <div class="list-inner">
+          <img class="process-icon-first" src="/img/icons/process/process_05.png" alt="">03 보고서작성
+        </div>
+        <img class="process-icon-last" src="/img/icons/process/process-check-icon.png" alt="">
+      </li>
+      <li>
+        <div class="list-inner">
+          <img class="process-icon-first" src="/img/icons/process/process_07.png" alt="">04 이메일발송
+        </div>
+        <img class="process-icon-last" src="/img/icons/process/process-check-icon.png" alt="">
+      </li>
+      <li>
+        <div class="list-inner">
+          <img class="process-icon-first" src="/img/icons/process/process_09.png" alt="">05 고객확인요청
+        </div>
+        <img class="process-icon-last" src="/img/icons/process/process-check-icon.png" alt="">
+      </li>
+      <li class="list-other">
+        <div class="list-inner">
+          <img class="process-icon-first" src="/img/icons/process/process-arr-other.png" alt="">고객 확인 요청단계입니다.
+        </div>  
+      </li>
+      <li>
+        <div class="list-inner">
+          <img class="process-icon-first" src="/img/icons/process/process_11.png" alt="">06 IRS제출 및 접수 확인
+        </div>
+      </li>
+    </ul>
+  </div>
+
+
+
+</section>
+
+
+
+
+
 <!-- 중간 멘트+버튼 섹션 --> 
-<section class="main-sect-middle-wrap text-center">
+<!-- <section class="main-sect-middle-wrap text-center">
   <div class="middle-text-title container">
     <h2 class="ff-mj">
       한국인을 위한 <br class="hdPC">미국 세금 신고,<br>
@@ -196,7 +267,7 @@
       <img class="middle-btn-arr" src="/img/icons/main-btn-arr-icon01.png" alt="버튼 화살표 아이콘">
     </a>
   </div>
-</section>
+</section> -->
 
 
 <!-- 고객 후기 --> 
