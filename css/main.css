@@ -1080,9 +1080,10 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 	section.topSection .topQuoteWrap .topQuote .quoteMark.-bottom {margin-top:24px;}
 	section.topSection p.topDesc {width: 70%; margin: 0 auto; text-align: center;}
 
-	
+
+	#followingNavigation.-following {position:fixed;top:123px;width:auto;left:50%;margin-left:-340px;}
 	#followingNavigation .followingNavigationInner {padding: 0 0; height: auto; background-color: #FFF; color: #000; display: block;}
-	#followingNavigation li {margin-bottom: 8px; font-size: 19px; letter-spacing: -0.5px; font-weight: bold; cursor:pointer;}
+	#followingNavigation li {margin-bottom: 8px; font-size: 18px; letter-spacing: -0.5px; font-weight: bold; cursor:pointer;}
 	#followingNavigation li.-current {color: #3c92ca; list-style-image: url(/img/icons/nav-pc.png); }
 	#followingNavigation li.-current::after {content: none ;}
 	/* #followingNavigation li.-current .arrow {background-image: url(/img/icons/nav-pc.png);}*/
@@ -1129,11 +1130,16 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 
 @media(min-width:992px){
 	.guidesWrap section.guidePart .iconsWrap .guidesIcon {width: 60px; margin: 0 25px 0 1px;}
+	#followingNavigation.-following {top:156px;margin-left:-435px;}
 	#followingNavigation li {margin-bottom: 14px; font-size: 21px;}
 	.guidesWrap {padding: 65px 65px; }
 }
 
+@media(min-width:1200px){
+	#followingNavigation.-following {top:156px;margin-left:-535px;}
 
+
+}
 
 /*------------------------------------*\
 		메인 - 2021 리뉴얼
@@ -1278,5 +1284,7 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 	.main-sect-mark-wrap h3 {font-size:36px;}
 	.main-sect-mention h2 {font-size:38px;}
 }
+
+
 
 
