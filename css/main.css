@@ -1010,7 +1010,7 @@ section.topSection p.topDesc {padding-top: 7px; padding-bottom:24px;}
 /* 네비게이션 섹션 -공통*/
 #followingNavigation {position:absolute; left:0; top:0; z-index:900;}
 /* #followingNavigation {position:absolute; left:0; top:0; transition: 0.3s ease-out; z-index:900;} */
-#followingNavigation.following {top:0; transition: 0.3s ease-in-out;}
+#followingNavigation.-following {position:fixed;top:67px;}
 
 
 /* 네비게이션 섹션 -MB*/

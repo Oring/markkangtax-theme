@@ -25,13 +25,24 @@ function onClickNavList(id) {
   }
 }
 
+// function followingFunc() {
+//   pos = window.scrollY; 
+//   if(guideContent && followingNavigation) {
+//     if(pos >= guideContent.offsetTop - header.offsetHeight  && pos < guideContent.scrollHeight + 500) {
+//       followingNavigation.style.top = String(pos - guideContent.offsetTop + header.offsetHeight) + 'px';
+//     } else if (pos < guideContent.offsetTop) {
+//       followingNavigation.style.top = 0;
+//     }
+//   }
+// }
+
 function followingFunc() {
   pos = window.scrollY; 
   if(guideContent && followingNavigation) {
     if(pos >= guideContent.offsetTop - header.offsetHeight  && pos < guideContent.scrollHeight + 500) {
-      followingNavigation.style.top = String(pos - guideContent.offsetTop + header.offsetHeight) + 'px';
+      followingNavigation.classList.add('-following');
     } else if (pos < guideContent.offsetTop) {
-      followingNavigation.style.top = 0;
+      followingNavigation.classList.remove('-following');
     }
   }
 }
