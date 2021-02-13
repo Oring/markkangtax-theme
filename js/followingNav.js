@@ -11,7 +11,6 @@ let sectionArr = [
   {id: 'section4', element: null, y: null},
   {id: 'section3', element: null, y: null},
   {id: 'section5', element: null, y: null},
-  {id: 'section6', element: null, y: null},
 ];
 
 let mode = 'pc'; // pc, mb
@@ -39,10 +38,15 @@ function onClickNavList(id) {
 function followingFunc() {
   pos = window.scrollY; 
   if(guideContent && followingNavigation) {
-    if(pos >= guideContent.offsetTop - header.offsetHeight  && pos < guideContent.scrollHeight + 500) {
+    if(pos >= guideContent.offsetTop - header.offsetHeight  && pos < guideContent.scrollHeight + 1000) {
       followingNavigation.classList.add('-following');
+      followingNavigation.style.display="block"
     } else if (pos < guideContent.offsetTop) {
       followingNavigation.classList.remove('-following');
+      
+    } else if (pos > guideContent.scrollHeight + 1000) {
+      // followingNavigation.classList.remove('-following');
+      followingNavigation.style.display="none"
     }
   }
 }

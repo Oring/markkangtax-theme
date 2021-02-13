@@ -815,7 +815,7 @@ get_header();
 				<!-- /섹션7 -->
 
 				<!-- 마크 코멘트 -->
-				<section class="markAdviceWrap" id="section6">
+				<section class="markAdviceWrap">
 					<div class="markTitleImg">
 						<h2 class="markTitleText">
 							한국의 재산도 <br class="hdPC">보고해야 할까?
