@@ -12,7 +12,7 @@ get_header();
 	<div class="serviceTopSect">
 		<div class="sub-sect-top">
 			<div class="sub-sect-inner">
-				<p>Perfect Protection<br><span>#Streamlined Procedures</span></p>
+				<p>Perfect 벌금사면<br><span>#Streamlined Procedures</span></p>
 			</div>
 		</div>
 	</div>
@@ -57,7 +57,7 @@ get_header();
 		<div class="serviceCaseBox">
 			<h3 class="caseBoxSubTit">CASE#1 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
 			<div class="caseBoxRight">
-				<h4 class="caseBoxTit">한국 금융 계좌 신고하지 않아 <br class="hdPC">벌금 2만달러 부과</h4>
+				<h4 class="caseBoxTit">한국 금융 계좌 신고하지 않아 <br class="hdPC">벌금 2만 달러 부과</h4>
 				<p class="caseBoxText">
 					롱아일랜드에 거주하는 한인 남 모 씨는 한국의 금융 계좌 2곳에 예치했던 200여만 달러를 미 금융당국에 신고하지 않았습니다. 지난 2009년 2개의 금융기관 잔고가 46만에 달했지만, 2010년 6월 30일까지 이를 연방 재무부에 신고하지 않아 1만 4,813달러의 벌금을 부과 받았습니다. 또 2010년에도 잔고가 151만 원에 달했지만 2011년 6월 30일까지 이를 신고하지 않아 벌금 2만 달러를 부과 받았습니다.
 				</p>
@@ -67,7 +67,7 @@ get_header();
 			<h3 class="caseBoxSubTit">CASE#2 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
 			<div class="caseBoxRight">
 				<h4 class="caseBoxTit">
-					2,800만불 탈세 한인 <br class="hdPC">징역 6개월 1,400만불 벌금
+					2,800만불 탈세 한인 <br class="hdPC">징역 6개월 1,400만달러 벌금
 				</h4>
 				<p class="caseBoxText">
 					한인 김씨는 영주권을 취득한 지난 1998년 스위스를 방문해 '크레딧 스위스(Credit Suisses)' 등 5개 현지 금융회사에 계좌를 개설해 홍콩의 한 개인으로부터 거액을 송금 받았습니다. 당국이 파악한 2004년 현재 계좌 잔고액은 2800만 달러가 넘었습니다.
@@ -80,10 +80,10 @@ get_header();
 			<h3 class="caseBoxSubTit">CASE#3 <br class="hdMB-inb">환급사례</h3>
 			<div class="caseBoxRight">
 				<h4 class="caseBoxTit">
-					스트림라인드 보고 후 <br class="hdPC">$1,400원 환급
+					벌금이 아니라, 오히려 <br class="hdPC">1,700 달러를 환급 받았습니다!
 				</h4>
 				<p class="caseBoxText">
-					한국에서 살고 있으니, 미국에 세금 보고를 해야한다는것도 FBAR도 인지하지 못했습니다. 그러다가 은행 직원의 안내로 저의 한국계좌도 미국에 보고 해야한다는 사실을 알고 깜짝 놀랐습니다. 예상치 못했기에 당황을 많이 했습니다. 다행히 스트림라인드 프로그램을 통해 그동안 보고하지 못했던 FBAR와 소득 보고를 안심하고 해결할 수 있었습니다. 그리고 제에게 맞는 공제 혜택을 안내해 주셔서 $1,400 의 환급금도 받을 수 있었습니다. 마침 미국의 코로나 지원금 대상에도 포함되어 지원금 수령도 가능했습니다.
+					한국에서 살고 있으니, 미국에 세금 보고를 해야 한다는것도 FBAR도 인지하지 못했습니다. 그러다가 은행 직원의 안내로 저의 한국계좌도 미국에 보고 해야 한다는 사실을 알고 깜짝 놀랐습니다. 예상치 못했기에 당황을 많이 했습니다. 다행히 퍼펙트 스트림라인드 프로그램을 통해 그동안 보고하지 못했던 FBAR와 소득 보고를 안심하고 해결할 수 있었습니다. 그리고 마크강택스에서 제에게 맞는 공제 혜택까지 받을 수 있게 해 주셔서 $1,700의 환급금까지도 수령할 수 있었습니다. 게다가 미국의 코로나 지원금 대상에도 포함되어 지원금도 받았습니다.
 					<br>- 박○○  고객님의 후기 中
 				</p>
 			</div>
@@ -96,7 +96,7 @@ get_header();
 		<div class="serviceSystemIntro">
 			<h2 class="systemTitle text-center">
 				100% 벌금사면, 안심할 수 있는 <br>
-				Perfect Safe 시스템
+				Perfect Care 시스템
 			</h2>
 			<img class="systemTalkImg" src="/img/service-streamlined-intro01-pc.jpg" alt="세금보고 고객들의 불안 카톡 이미지">
 			<p class="systemText">

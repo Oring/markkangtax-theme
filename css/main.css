@@ -251,10 +251,10 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 
 	/* 푸터 */
 	#rtsSummary {height:470px; padding-top: 0; padding-bottom:0; background:#939393 url('/img/bg/rts-footer-bg00-pc.jpg') top no-repeat; background-size:cover; display: flex; align-items: center;}
-	#rtsSummary .mark-tit {font-size:48px; margin-bottom:18px;}
+	#rtsSummary .mark-tit {font-size:48px; margin-bottom:12px;}
 	#rtsSummary .mark-said .mark-content {font-size:18px;line-height:1.75;}
-	#rtsSummary .mark-said .mark-subtit {padding-bottom:17px;}
-	#rtsSummary .mark-said .mark-subtit .searchBarBox {font-size: 24px; padding:8px;}
+	#rtsSummary .mark-said .mark-subtit {padding-bottom:24px;}
+	#rtsSummary .mark-said .mark-subtit .searchBarBox {font-size: 24px; padding:8px; border: 3px solid #fff;}
 	#rtsSummary .mark-said .mark-subtit .searchBarBox .magnifyIcon {width: 25px; padding-top:8px;}
 	#rtsSummary .middle-btn {margin-top:30px;}
 	#rtsSummary .container{padding: 0;}
@@ -1143,6 +1143,8 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 .main-sect-top .main-sect-inner {height:100%;padding-top:75px; color:#fff; text-align:center;}
 .main-sect-top .main-sect-inner h1 {font-size:30px; line-height: 1.2; letter-spacing: -1.5px;}
 .main-sect-top .main-sect-inner h2 {font-size:17px; line-height: 2; letter-spacing: -0.5px;line-height: 1.5;padding-top:10px;}
+.main-sect-top .main-sect-inner > p {color:#fff;}
+.main-sect-top .main-sect-inner > p > span {color:#e6a34a;}
 .main-sect-top .main-sect-inner .main-top-btn {font-size: 12px; border: 1px solid #fff; width: fit-content; padding: 8px 12px; border-radius: 22px; margin:14px auto;}
 
 .main-sect-mention {margin: 65px 0;}
@@ -1220,7 +1222,7 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 .main-sect-top .main-sect-inner {height:100%; padding:168px 0 0 0; text-align:left;}
 .main-sect-top .main-sect-inner h1 {font-size:58px;}
 .main-sect-top .main-sect-inner h2 {font-size:36px; font-weight: bold; line-height:1.4;padding: 14px 0;}
-.main-sect-top .main-sect-inner p {color: #fff; font-size:18px; line-height: 1.75;}
+.main-sect-top .main-sect-inner p {font-size:24px; line-height: 1.75;}
 .main-sect-top .main-sect-inner .main-top-btn {font-size: 16px; border: 1px solid #fff; width: fit-content; padding: 11px 27px; border-radius: 22px; margin:18px 0 0 0; display: flex; align-items: center;}
 .main-sect-top .main-sect-inner .main-top-btn .middle-btn-arr {padding-left:8px; height: 13px;}
 

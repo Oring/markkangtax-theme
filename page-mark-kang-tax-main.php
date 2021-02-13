@@ -7,20 +7,18 @@
 <div class="main-sect-top">
 	<div class="main-sect-inner container">
     <h1 class="ff-mj">
-      완벽한 절세,<br class="hdPC">
-      확실한 벌금 사면
+      Perfect Save, <br class="hdPC">
+      Perfect Care
     </h1>
     <h2>
-      Perfect Save, Perfect Care<br>
-      미국세금신고는 마크강택스
+      완벽한 절세, 확실한 벌금사면
     </h2>
 
     <!-- <h2>
       한국인을 위한 미국세금신고 [마크강택스]
     </h2>-->
-    <p class="hdMB">
-      최고의 혜택을 연구하는<br>
-      Mark Kang Tax와 함께하세요. 
+    <p class="main-sect-text">
+      미국세금신고는 <span>마크강택스</span>
     </p> 
     <div class="main-top-btn">
       <a href="https://pf.kakao.com/_LxkkfT" target="_blank" rel="noreferrer noopener">간편한 채팅 상담 시작하기</a>
@@ -229,7 +227,7 @@
       </li>
       <li>
         <div class="list-inner">
-          <img class="process-icon-first" src="/img/icons/process/process_09.png" alt="">05 고객확인요청
+          <img class="process-icon-first" src="/img/icons/process/process_09.png" alt="">05 서명서류확인
         </div>
         <img class="process-icon-last" src="/img/icons/process/process-check-icon.png" alt="">
       </li>

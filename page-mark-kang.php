@@ -100,7 +100,7 @@ get_header();
 							그 원칙에 우리 스스로 책임질 수 있도록 노하우를 집약하고 업무를 체계화 시켰습니다. 
 							빈틈없는 업무, 투명한 프로세스, 완벽한 절세를 위한 Perfect Save 서비스 만들게 되었습니다.
 						</p>
-						<img src="/img/bg/mark-kang-bg03.jpg" alt="연구하는 마크 강 사진">
+						<img src="/img/bg/mark-kang-bg04.jpg" alt="연구하는 마크 강 사진">
 					</div>
 				</div>
 			</div>
