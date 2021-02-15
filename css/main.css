@@ -1294,7 +1294,7 @@ section.bannerWrap .ctaBanner {margin-top: 15px;width: 100%;}
 }
 
 @media(min-width:992px){
-	.main-sect-top .main-sect-inner h1 {font-size:68px;}
+	.main-sect-top .main-sect-inner h1 {font-size:50px;}
 	.main-sect-mark-wrap h2 {font-size:36px;}
 	.main-sect-mark-wrap h3 {font-size:36px;}
 	.main-sect-mention h2 {font-size:38px;}
