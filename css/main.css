@@ -1162,8 +1162,8 @@ section.bannerWrap .ctaBanner {margin-top: 15px;width: 100%;}
 
 .main-sect-top {height:400px;padding-top:67px;background:#999 url('/img/bg/main-top-bg-mb.jpg') center top no-repeat fixed; background-size:auto 400px;}
 .main-sect-top .main-sect-inner {height:100%;padding-top:75px; color:#fff; text-align:center;}
-.main-sect-top .main-sect-inner h1 {font-size:30px; line-height: 1.2; letter-spacing: -1.5px;}
-.main-sect-top .main-sect-inner h2 {font-size:17px; line-height: 2; letter-spacing: -0.5px;line-height: 1.5;padding-top:10px;}
+.main-sect-top .main-sect-inner h1 {font-size:22px; line-height: 1.2; letter-spacing: -1.5px;}
+.main-sect-top .main-sect-inner h2 {font-size:25px; line-height: 2; letter-spacing: -0.5px;line-height: 1.5;padding-top:10px;}
 .main-sect-top .main-sect-inner > p {color:#fff;}
 .main-sect-top .main-sect-inner > p > span {color:#c7a55c;}
 .main-sect-top .main-sect-inner .main-top-btn {font-size: 12px; border: 1px solid #fff; width: fit-content; padding: 8px 12px; border-radius: 22px; margin:14px auto;}

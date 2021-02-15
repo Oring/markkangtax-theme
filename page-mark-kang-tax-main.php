@@ -7,11 +7,10 @@
 <div class="main-sect-top">
 	<div class="main-sect-inner container">
     <h1 class="ff-mj">
-      Perfect Save, <br class="hdPC">
-      Perfect Care
+      Perfect Save, Perfect Care
     </h1>
     <h2>
-      완벽한 절세, 확실한 벌금사면
+      완벽한 절세, <br class="hdPC"> 확실한 벌금사면
     </h2>
 
     <!-- <h2>
