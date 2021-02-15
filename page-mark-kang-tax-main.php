@@ -96,7 +96,7 @@
         <div>
           <span class="hdPC">100% 벌금사면</span>
           <div class="text-icon-wrap">
-            <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>Streamlined Procedure</span>
+            <span class="hdMB-inb">100% 벌금사면&nbsp;</span><span>Streamlined Procedures</span>
             <img class="service-icon" src="/img/icons/service-arr01.png" alt="서비스안내 아이콘">
           </div>
         </div>

@@ -236,7 +236,7 @@ get_header();
 	<section class="qnaSection container">
 		<div class="qnaWrap">
 			<h2 class="qnaTitle">
-				Streamlined Procedure Q&A
+				Streamlined Procedures Q&A
 			</h2>
 			<p class="qnaText">
 				<a href="/guide/streamlined-procedures/#tempQ1Point">
@@ -248,7 +248,7 @@ get_header();
 			</p>
 		</div>
 		<div class="btnWrap" style="justify-content: center;">
-			<a href="/guide/streamlined-procedures"><div class="ctaBtn">Streamlined Procedure <br class="hdPC">세금보고 가이드 자세히보기 ></div></a>
+			<a href="/guide/streamlined-procedures"><div class="ctaBtn">Streamlined Procedures <br class="hdPC">세금보고 가이드 자세히보기 ></div></a>
 		</div>
 	</section>
 	</article>

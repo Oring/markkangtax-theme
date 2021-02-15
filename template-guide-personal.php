@@ -471,6 +471,9 @@ get_header();
 								
 							</tbody>
 						</table>
+						<p class="desc noPad -top">
+							* 회계연도 2020년 기준
+						</p>
 					</div>
 					<p class="desc">
 						이에 비해 단기양도소득은 위의 일반 세율표(Income tax brackets)를 따르는데, 싱글 신고 기준, $9,950 이하일 때 10%의 세율이, $523,600 이상이면 37%까지 올라갑니다. 
