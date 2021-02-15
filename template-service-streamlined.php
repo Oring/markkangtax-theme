@@ -23,7 +23,7 @@ get_header();
   <section class="topSection container">
 		<div class="topTitleWrap">
 			<h1 class="topTitle text-center">
-				100% 벌금 사면, 밀린 세금신고 
+				100% 벌금사면, 밀린 세금신고 
 			</h1>
 			<hr class="topTitleUnderLine">
 		</div>
@@ -67,7 +67,7 @@ get_header();
 			<h3 class="caseBoxSubTit">CASE#2 <br class="hdMB-inb">미신고 <br class="hdMB-inb">피해사례</h3>
 			<div class="caseBoxRight">
 				<h4 class="caseBoxTit">
-					2,800만불 탈세 한인 <br class="hdPC">징역 6개월 1,400만달러 벌금
+					2,800만 달러 탈세 한인 <br class="hdPC">징역 6개월 1,400만 달러 벌금
 				</h4>
 				<p class="caseBoxText">
 					한인 김씨는 영주권을 취득한 지난 1998년 스위스를 방문해 '크레딧 스위스(Credit Suisses)' 등 5개 현지 금융회사에 계좌를 개설해 홍콩의 한 개인으로부터 거액을 송금 받았습니다. 당국이 파악한 2004년 현재 계좌 잔고액은 2800만 달러가 넘었습니다.

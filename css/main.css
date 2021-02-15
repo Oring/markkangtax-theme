@@ -698,10 +698,10 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 
 	.mk-profile {position:relative;width:100%;height:0;margin-bottom:80px;padding-bottom:60%;background:url('/img/bg/mark-kang-bg02.jpg') center no-repeat;background-size:100%;}
 	.mk-profile .mk-text {padding:70px;}
-	.mk-profile .mk-text > h2 {font-size: 30px;line-height: 1.33333;}
+	.mk-profile .mk-text > h2 {font-size: 22px;line-height: 1.33333;}
 	.mk-profile .mk-text > h3 {font-size: 24px;line-height: 1.33333; padding-top:24px;}
 	.mk-profile .mk-img {background:0;display:none;}
-	.mk-container .mk-row {padding-bottom:100px;}
+	.mk-container .mk-row {padding-bottom:100px; padding-left: 0px}
 	.mk-container .mk-tit {margin-bottom:15px;font-size:45px;line-height:1.2;/*margin-bottom:45px;font-size:56px;line-height:1;*/}
 	.mk-container .mk-subtit {margin-bottom:10px;font-size:30px;line-height:1.3333;}
 	.mk-container .mk-subtit.mgtop {margin-top:50px;}
@@ -716,6 +716,10 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 	.mk-container .mk-sign > img:last-child {padding:0;}
 }
 
+@media(min-width:992px){
+	.mk-profile .mk-text > h2 {font-size: 30px;line-height: 1.33333;}
+	.mk-container .mk-row {padding-bottom:100px; padding-left: 167px}
+}
 
 
 /*------------------------------------*\
@@ -742,8 +746,10 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 	.mark-column .section-tit h1{font-size: 36px; font-weight: bold;}
 	.mark-column .section-tit {margin: 52px 0 51px 0;}
 
-	.mk-container .mk-row {padding-bottom:100px; padding-left: 167px}
+
 }
+
+
 /*
 @media(max-width:480px){
 	.column-item .column-content p {white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
@@ -914,7 +920,8 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .serviceTopWrap {padding-bottom: 72px; }
 .serviceTopWrap .serviceTopTit .titleRight .quoteMark{font-size: 48px; line-height:1; height:24px; color: #d5c0a5; text-align: center;}
 .serviceTopWrap .serviceTopTit .titleRight .titleTitleText{font-size: 16px; line-height:1.5; text-align: center; color:#333; letter-spacing: -0.5px;}
-.serviceTopWrap .serviceTopTit .titleRight .titleDescText{font-size: 17px; color: # 505050}
+.serviceTopWrap .serviceTopTit .titleRight .titleDescText{font-size: 17px; color: #505050}
+.serviceTopWrap .serviceTopTit .titleRight > img {width: 100%;}
 
 .serviceCaseWrap { background-color: #fff; padding: 15px;}
 .serviceCaseWrap .serviceCaseBox { border: 5px solid #d4d4d4; padding: 42px 15px; margin-bottom: 15px;}
@@ -952,17 +959,17 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .qnaSection .ctaBtn {border:1px solid #3c92ca; color:#3c92ca; border-radius: 25px; padding: 7px 10px; text-align: center; font-size: 17px; font-weight: bold; margin-bottom: 15px;}
 
 @media(min-width:768px){
-.serviceTopWrap	{padding: 0 76px 66px 76px; display: flex;}
+.serviceTopWrap	{padding: 0 20px 66px 20px; display: flex;}
 .serviceTopWrap .serviceTopTit .titleRight .quoteMark{font-size: 100px; line-height:1; height:24px; color: #d5c0a5; text-align: left; padding-top: 15px;}
 .serviceTopWrap .serviceTopTit .titleRight {padding-left: 20px;}
 .serviceTopWrap .serviceTopTit .titleRight .titleTitleText{padding-left:8px; padding-top: 30px; font-size: 30px; line-height:1.75; font-weight: bold;text-align: left;}
 .serviceTopWrap .serviceTopTit .titleRight .titleDescText{padding-left:10px; padding-top: 14px; font-size: 16px;}
 
-.serviceCaseWrap {padding: 76px;}
+.serviceCaseWrap {padding: 76px 15px;}
 .serviceCaseWrap .serviceCaseBox {display: flex; border: 10px solid #d4d4d4; padding: 58px 50px; margin-bottom: 35px;}
 .serviceCaseWrap .serviceCaseBox .caseBoxSubTit {padding-right: 76px; line-height: 1.4; text-align: left; font-size: 30px; font-weight: bold; padding-bottom:0px;}
 .serviceCaseWrap .serviceCaseBox .caseBoxRight {padding-top: 5px;}
-.serviceCaseWrap .serviceCaseBox .caseBoxRight .caseBoxTit { font-size: 30px; padding-bottom:15px; line-height: 1;}
+.serviceCaseWrap .serviceCaseBox .caseBoxRight .caseBoxTit { font-size: 30px; padding-bottom:15px; line-height: 1.4;}
 
 .serviceSystemWrap .serviceSystemIntro {padding-bottom : 100px; text-align:center;}
 .serviceSystemWrap .serviceSystemIntro .systemTitle { padding-bottom: 20px; font-size:36px; line-height: 1.33; letter-spacing: -0.5px;}
@@ -970,9 +977,9 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 
 .serviceSystemWrap .titleTextWrap {padding-top:66px;}
 
-.serviceSystemWrap .systemScenario {padding-left: 110px; padding-right: 110px; padding-top: 29px;}
+.serviceSystemWrap .systemScenario {padding-left: 15px; padding-right: 15px; padding-top: 29px;}
 .serviceSystemWrap .systemScenario .innerWrap {display: flex; padding: 57px 0;}
-.serviceSystemWrap .systemScenario .innerWrap .innerLeft {text-align: left; padding-bottom: 0px; display: flex; flex-direction: column-reverse; justify-content: flex-end; width: 22%;}
+.serviceSystemWrap .systemScenario .innerWrap .innerLeft {text-align: left; padding-bottom: 0px; display: flex; flex-direction: column-reverse; justify-content: flex-end; width: 25%;}
 .serviceSystemWrap .systemScenario .innerWrap .innerLeft .scenarioIcon {width: 95px; margin-left: 22px; margin-top: 16px;}
 .serviceSystemWrap .systemScenario .innerWrap .innerLeft .scenarioTitle {margin: 0 0; font-size:30px;font-weight: bold; padding-top:0px; color:#3c92ca;}
 
@@ -980,17 +987,25 @@ p {font-size:16px;line-height:2;letter-spacing:-1px;}*/
 .serviceSystemWrap .systemScenario .innerWrap .innerRight .titleTextWrap .systemTitle {padding-top: 0; font-size:30px;}
 .serviceSystemWrap .systemScenario .innerWrap .innerRight .titleTextWrap .systemText {padding: 14px 0; font-size:16px; width: 95%;}
 
-.qnaSection {padding: 15px 125px; }
-.qnaSection .qnaWrap {padding: 100px 0 100px 200px;}
+.qnaSection {padding: 15px 30px; }
+.qnaSection .qnaWrap {padding: 100px 0 100px 30px;}
 .qnaSection .qnaTitle {font-size:30px; text-align: left;}
 .qnaSection .qnaText {line-height: 2.5; font-size:18px; padding-bottom: 0px;}
 
 .qnaSection .btnWrap {padding-top:40px; display: flex; justify-content: space-between;}
-.qnaSection .ctaBtn {padding: 7px 21px;}
-
-
+.qnaSection .ctaBtn {padding: 7px 21px; margin:1px;}
 }
  
+@media(min-width:992px){
+	.serviceCaseWrap {padding: 76px;}
+	.serviceTopWrap	{padding: 0 76px 66px 76px; display: flex;}
+	.serviceSystemWrap .systemScenario {padding-left: 110px; padding-right: 110px; padding-top: 29px;}
+	.qnaSection {padding: 15px 125px; }
+	.qnaSection .qnaWrap {padding: 100px 0 100px 200px;}
+	.qnaSection .ctaBtn {padding: 7px 21px; margin:0}
+	.serviceSystemWrap .systemScenario .innerWrap .innerLeft {width: 22%;}
+
+}
 
 
 /*------------------------------------*\
@@ -1057,7 +1072,7 @@ section.lastWrap .lastDesc {padding-top: 7px; padding-bottom:24px; color:#fff}
 
 /* CTA 배너 */
 section.bannerWrap {padding: 0 15px 70px 15px;}
-section.bannerWrap .ctaBanner {margin-top: 15px}
+section.bannerWrap .ctaBanner {margin-top: 15px;width: 100%;}
 
 /* 테이블 */
 .guidesWrap section.guidePart .tableWrap {overflow-x:auto;}
@@ -1226,9 +1241,9 @@ section.bannerWrap .ctaBanner {margin-top: 15px}
 @media(min-width:768px){
 .main-sect-top {height:760px; padding-top:67px; background:#999 url('/img/bg/main-top-bg-pc.jpg') center no-repeat fixed; background-size:cover;}
 .main-sect-top .main-sect-inner {height:100%; padding:168px 0 0 0; text-align:left;}
-.main-sect-top .main-sect-inner h1 {font-size:58px;}
-.main-sect-top .main-sect-inner h2 {font-size:36px; font-weight: bold; line-height:1.4;padding: 14px 0;}
-.main-sect-top .main-sect-inner p {font-size:24px; line-height: 1;}
+.main-sect-top .main-sect-inner h1 {font-size:50px;}
+.main-sect-top .main-sect-inner h2 {font-size:56px; font-weight: bold; line-height:1.4;padding: 14px 0;}
+.main-sect-top .main-sect-inner p {font-size:26px; line-height: 1;}
 .main-sect-top .main-sect-inner .main-top-btn {font-size: 16px; border: 1px solid #fff; width: fit-content; padding: 11px 27px; border-radius: 22px; margin:38px 0 0 0; display: flex; align-items: center;}
 .main-sect-top .main-sect-inner .main-top-btn .middle-btn-arr {padding-left:8px; height: 13px;}
 
