@@ -308,7 +308,7 @@ get_header();
 						</ul>
 					</section>
 					<p class="desc">
-						다행히도 이러한 분들을 위한 IRS의 <a href="/guide/streamlined-procedures/" style="text-decoration: underline;">스트림라인드 보고(Streamlined Procedures)</a> 즉, 해외금계좌 자진 신고 간소화 절차라는 구제 프로그램을 통해 해결 가능합니다. 지난 3년간의 세금 보고나 수정 세금 보고, 지난 6년간의 FBAR 보고, 그리고 미신고에 대한 비고의성을 입증하는 사유서 등을 제출하면 과거의 누락된 신고를 처리 할 수 있습니다.
+						다행히도 이러한 분들을 위한 IRS의 <a href="/guide/streamlined-procedures/" style="text-decoration: underline;">스트림라인드 보고(Streamlined Procedures)</a> 즉, 해외금융계좌 자진 신고 간소화 절차라는 구제 프로그램을 통해 해결 가능합니다. 지난 3년간의 세금 보고나 수정 세금 보고, 지난 6년간의 FBAR 보고, 그리고 미신고에 대한 비고의성을 입증하는 사유서 등을 제출하면 과거의 누락된 신고를 처리 할 수 있습니다.
 					</p>
 					<p class="desc">
 						해외 거주자의 경우는, 누락된 신고에 대한 벌금이 부과되지 않고 그동안 밀린 세금 보고에 대한 지연 이자만 납부하는 정도로 해결할 수 있습니다. 
