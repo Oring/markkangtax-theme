@@ -42,7 +42,7 @@ get_header();
 			미국 개인 소득세 신고는 미국에 사시는 분만 하는 것이 아닙니다. 본인이 미국 시민권이나 영주권자, 그리고 183일 거주 테스트를 만족하는 세법상 거주자라면 한국이 아닌 다른 해외에 거주하더라도  거기에서 발생한 소득도 전 세계의 소득(worldwide income)으로써 미국 국세청 IRS에 보고해야 하는 의무가 있습니다.
 		</p>
 		<p class="topDesc">
-			특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/fatca-해외금융자산보고/" target="_blank" style="text-decoration: underline">FATCA</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
+			특히 오바마 대통령 시절, 미국과 여러 나라가 맺은 <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/fatca-해외금융자산보고/" target="_blank" style="text-decoration: underline">FATCA</a> 협정 때문에, 각국의 금융 정보가 서로 공유되고 있습니다. 이제는 미국 국세청에서 키보드 자판만 두드리면, 언제든지 태평양 너머 대한민국의 모든 영주권, 시민권자의 계좌 정보를 알 수 있습니다. 따라서 이에 해당되는 분들은 매년 소득 보고 및 해외 금융 계좌 보고를 놓치지 말고 꼭 해야 합니다. 
 		</p>
 	</section>
 	<!-- /INTRO 섹션 -->
